@@ -237,3 +237,18 @@ Van de websites die ik heb bekeken inspireert nuel.pw mij het meest. Ik vind het
 
 Voor mijn eigen Digital Garden wil ik voorlopig aan de slag met het onderwerp matcha. Ik wil hier geen standaard informatieve website van maken, maar een soort interactieve matcha-wereld.
 Ik wil onderwerpen verwerken zoals de geschiedenis van matcha, de Japanse cultuur, het bereidingsproces, verschillende recepten, matcha-tools en mijn eigen favoriete matcha's en matcha-spots. Daarbij wil ik experimenteren met dingen die ik nog niet goed kan, zoals hover-effecten, animaties, geluid en interactieve elementen. Mijn doel is dat bezoekers matcha niet alleen kunnen lezen en bekijken, maar het onderwerp echt kunnen ontdekken en beleven.
+
+Huiswerk voor woensdag:
+
+Ik heb een presentatie gemaakt doormiddel van HTML. Dit is het eindresultaat:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 45" src="https://github.com/user-attachments/assets/9bed04e0-6024-45bc-b701-a845e8c72022" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 46" src="https://github.com/user-attachments/assets/04726508-49d6-47c9-afd4-25c21246b1ea" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 48" src="https://github.com/user-attachments/assets/e077f96c-9c70-4756-a938-1a1c64fbfe2d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 49" src="https://github.com/user-attachments/assets/b6e4fd6a-ad72-4c06-8e7b-e02334d7e650" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 50" src="https://github.com/user-attachments/assets/328cf41b-e638-4552-853c-065a9b969875" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 52" src="https://github.com/user-attachments/assets/58c074ba-9c9e-4ed1-9217-a0df4ee10bdb" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 19 53" src="https://github.com/user-attachments/assets/becbb6ce-ccf5-44d3-97df-6352a6e096f1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 14" src="https://github.com/user-attachments/assets/7e1b9c37-50b8-4dc3-b8fa-4433d7393b35" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 16" src="https://github.com/user-attachments/assets/bf9e43f1-16a9-4395-9445-b7aa842ddf82" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 17" src="https://github.com/user-attachments/assets/9a2db549-d190-45ca-9dbf-926482af967f" />
