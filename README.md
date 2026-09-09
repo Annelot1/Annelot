@@ -252,3 +252,11 @@ Ik heb een presentatie gemaakt doormiddel van HTML. Dit is het eindresultaat:
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 14" src="https://github.com/user-attachments/assets/7e1b9c37-50b8-4dc3-b8fa-4433d7393b35" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 16" src="https://github.com/user-attachments/assets/bf9e43f1-16a9-4395-9445-b7aa842ddf82" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 17" src="https://github.com/user-attachments/assets/9a2db549-d190-45ca-9dbf-926482af967f" />
+
+Ook heb ik de deep dive Light & Dark theme gedaan: 
+
+### 9 sep 
+Vanochtend heb ik mijn HTML presentatie gepresenteerd aan Amy, wij werden aan elkaar gekoppeld. Amy gaat haar website over StarWars doen wat ik zelf interessant vind omdat ik er eigenlijk niks van af weet. Amy vond mijn onderwerp ook leuk en goed bedacht omdat veel jonge meiden een matcha bestellen maar er eigenlijk niks van weet waar en hoe matcha nou gemaakt word. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 11 51" src="https://github.com/user-attachments/assets/588db449-4822-45e1-b692-c67f9cabd369" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 12 33" src="https://github.com/user-attachments/assets/10ab25b1-12b1-406f-9410-7012ced0e053" />
