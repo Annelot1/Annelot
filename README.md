@@ -94,13 +94,10 @@ Hierna heb ik de deepdive van Sanne gevolgd: CSS: fonts met kleur en effecten.
 Samen met Leonie en Julia hebben we de opdrachten gedaan, ik vond het fijn om met hun te doen. Zo kunnen we elkaar helpen en leren van elkaar. 
 
 Opdracht 1 font properties:
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 06 32" src="https://github.com/user-attachments/assets/847a587a-74a4-4527-b0fe-e30c54445cd7" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 12 29" src="https://github.com/user-attachments/assets/e9a33419-4ee6-4fb7-8d8a-44eb0c8b2c14" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 14 27" src="https://github.com/user-attachments/assets/fda5acb6-ab0a-4ed8-93b8-3510fbc18fd0" />
 
 Opdracht 2 fonts, kleur en effecten:
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 35 38" src="https://github.com/user-attachments/assets/1edb03ff-e843-4000-a2fa-9ba50625359f" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 36 20" src="https://github.com/user-attachments/assets/a474659e-d695-4dee-9992-ce28f37ac4d7" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 39 26" src="https://github.com/user-attachments/assets/a129b114-f4f8-44c5-9a37-23ec5bf69bf6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 51 23" src="https://github.com/user-attachments/assets/97479bdf-6f66-42b2-a172-1a2a96b3e5d3" />
 
