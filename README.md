@@ -54,8 +54,10 @@ MDN bevat zowel informatie voor beginners als gevorderden. Als beginner kun je d
 Er wordt ook veel aandacht besteed aan toegankelijkheid, responsive websites en goede manieren van programmeren, zodat websites op verschillende apparaten werken en voor zoveel mogelijk mensen bruikbaar zijn.
 
 Het huiswerk na deze deep dive was om vragen te beantwoorden die ik had van te voren:
+
 1. Waarom is het belangrijk om HTML-elementen op de juiste manier in elkaar te plaatsen (nesten)? Door HTML-elementen correct te nesten, begrijpt de browser beter hoe de onderdelen van de pagina bij elkaar horen. Het zorgt daarnaast voor overzichtelijke code en verkleint de kans op fouten in de structuur van je website.
-2. Wat wordt bedoeld met de ‘cascade’ in CSS en waarom is dit belangrijk? De cascade bepaalt welke CSS-regel voorrang krijgt wanneer meerdere regels invloed hebben op hetzelfde HTML-element. Dit is belangrijk omdat je anders soms een stijl aanpast, maar er niets lijkt te veranderen doordat een andere CSS-regel voorrang heeft.
+2. 
+3. Wat wordt bedoeld met de ‘cascade’ in CSS en waarom is dit belangrijk? De cascade bepaalt welke CSS-regel voorrang krijgt wanneer meerdere regels invloed hebben op hetzelfde HTML-element. Dit is belangrijk omdat je anders soms een stijl aanpast, maar er niets lijkt te veranderen doordat een andere CSS-regel voorrang heeft.
 
 Hierna heb ik de 2e deepdive gevolgd van Nickey over interactie: MMD, micro-interacties, forms.
 We moesten in figma een wok menu bruikbaar maken voor een laptop/iPad. Dit heb ik gedaan: 
