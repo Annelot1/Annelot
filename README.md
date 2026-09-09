@@ -66,6 +66,21 @@ De cascade bepaalt welke CSS-regel voorrang krijgt wanneer meerdere regels invlo
 Hierna heb ik de 2e deepdive gevolgd van Nickey over interactie: MMD, micro-interacties, forms.
 We moesten in figma een wok menu bruikbaar maken voor een laptop/iPad. Dit heb ik gedaan: 
 
+1. Wat is de context?
+
+De gebruiker staat bij Wok to Walk en wil zelf een wokmaaltijd samenstellen. Het papieren keuzemenu wordt omgezet naar een online formulier voor middelgrote schermen, zoals een laptop of iPad. Het doel is om het bestellen sneller, duidelijker en makkelijker te maken.
+
+2. Hoe verdeel je de content?
+
+Ik verdeel de keuzes over drie duidelijke stappen, zodat de gebruiker niet te veel informatie tegelijk krijgt:
+Kies je basis – bijvoorbeeld noedels, rijst of groenten.
+Kies je favorieten – maximaal vier ingrediënten.
+Kies je saus – één saus selecteren.
+Daarna krijgt de gebruiker een overzicht van de bestelling en de totaalprijs en kan die de bestelling bevestigen of nog aanpassen.
+
+3. Waar is er ruimte voor micro-interacties?
+
+Er zijn verschillende mogelijkheden voor kleine interacties. Bij het aanklikken van een ingrediënt kan bijvoorbeeld de rand van kleur veranderen en een vinkje verschijnen. De voortgangsbalk kan bewegen wanneer je naar de volgende stap gaat en de totaalprijs kan direct veranderen wanneer je iets toevoegt of verwijdert. Ook kunnen knoppen reageren met een kleine hover- of klikanimatie en kan de samengestelde wok visueel veranderen op basis van de gemaakte keuzes.
 
 ### 4 sep
 Vanochtend heb ik de deepdive van Vasilis gevolgd: praktische CSS. Ik heb gebruik gemaakt van Vasilis zijn "slechte" website omdat ik dat fijner vond werken in de les. Zo kon je precies het overnemen wat Vasilis ook deed, zo begreep ik het het beste. Ik heb de website mooier gemaakt door het lettertype. witruimte en hebben we de formulieren aan de onderkant mooier gemaakt. Ik heb altijd met codes dat ik er tegen op kijk omdat ik altijd denk, hoe ga ik dit in vredesnaam doen. Maar door Vasilis zijn uitleg en enthousiasme begrijp ik het beter en weet ik ook dat ik het kan. Ook legde hij uit hoe je de code toepast om light en dark modes toe te voegen. Dat vind ik ook echt heel cool, dat wil ik later ook in mijn website zetten. 
