@@ -350,5 +350,6 @@ Hierna moesten we een sfeerwoord kiezen. Ik had eerst ceremonieel uitgekozen maa
 <img width="727" height="597" alt="Scherm­afbeelding 2026-09-09 om 13 06 20" src="https://github.com/user-attachments/assets/d3497214-9fd6-4fbc-9d4d-a719f5b31543" />
 <img width="727" height="570" alt="Scherm­afbeelding 2026-09-09 om 13 06 30" src="https://github.com/user-attachments/assets/0a1d69db-c3e3-445a-93ab-09b43b7e7943" />
 <img width="727" height="697" alt="Scherm­afbeelding 2026-09-09 om 13 06 39" src="https://github.com/user-attachments/assets/e702b4f9-2b25-4f47-b8b8-f5da59e3de9d" />
+<img width="610" height="815" alt="Scherm­afbeelding 2026-09-09 om 13 56 10" src="https://github.com/user-attachments/assets/187e9d6e-ad30-4334-b066-a8b9abfef50c" />
 <img width="882" height="732" alt="Scherm­afbeelding 2026-09-09 om 14 18 25" src="https://github.com/user-attachments/assets/80c0c93a-0d60-4560-b645-7fa81b52ad5d" />
 
