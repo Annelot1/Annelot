@@ -185,6 +185,7 @@ Zo wordt het niet alleen een website over matcha, maar een kleine digitale match
 Opdracht 3 verzamelen van informatie:
 
 Ik heb 50 afbeeldingen verzameld en geplakt in een collage:
+
 <img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 16 41" src="https://github.com/user-attachments/assets/939fead8-6862-4e3c-81b2-a1fa0351a152" />
 <img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 10" src="https://github.com/user-attachments/assets/fc642104-0c30-4150-b9ec-78842a5b1a75" />
 <img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 19" src="https://github.com/user-attachments/assets/bfc2e9d3-7ff4-4323-8d3a-cb3117e6d604" />
