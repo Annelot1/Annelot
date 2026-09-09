@@ -99,17 +99,19 @@ Opdracht 1 font properties:
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 14 27" src="https://github.com/user-attachments/assets/fda5acb6-ab0a-4ed8-93b8-3510fbc18fd0" />
 
 Opdracht 2 fonts, kleur en effecten:
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 30 45" src="https://github.com/user-attachments/assets/a5450e1c-42cc-4183-a7e6-c8352ea15a74" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 32 19" src="https://github.com/user-attachments/assets/3d7f4116-f6f5-4363-8dbe-f95fb4d58221" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 35 38" src="https://github.com/user-attachments/assets/1edb03ff-e843-4000-a2fa-9ba50625359f" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 36 20" src="https://github.com/user-attachments/assets/a474659e-d695-4dee-9992-ce28f37ac4d7" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 39 26" src="https://github.com/user-attachments/assets/a129b114-f4f8-44c5-9a37-23ec5bf69bf6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 51 23" src="https://github.com/user-attachments/assets/97479bdf-6f66-42b2-a172-1a2a96b3e5d3" />
 
 Opdracht 3 mini posters: 
-
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 50 01" src="https://github.com/user-attachments/assets/7b54ad63-42dc-476f-b294-924139fa05d4" />
 
 Opdracht 4 transitions: 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 56 03" src="https://github.com/user-attachments/assets/b8315a45-015a-4768-a88a-5a9d8c86bfe6" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 56 05" src="https://github.com/user-attachments/assets/37093b3a-433a-480c-8606-98b9b6eab2c1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 56 59" src="https://github.com/user-attachments/assets/cb66a819-3e06-473f-acb2-aa41620bb3d3" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 57 01" src="https://github.com/user-attachments/assets/c37f0f40-decf-4f24-a7fd-8d256fe7ff69" />
 
 ### 7 sep 
 Helaas was ik vandaag ziek waardoor ik niet op school kon komen... Ik heb via contact met klasgenoten het huiswerk kunnen volgen en uitgewerkt. Ik heb de artikelen gelezen en samenvattingen van gemaakt:
