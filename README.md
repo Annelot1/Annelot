@@ -344,9 +344,7 @@ Ik wil een soort info website maken dat je als een bezoeker doormiddel van een s
  
 Ik wil mijn digital garden laten gaan over star wars en wil dat laten zien door de gebruiker een verhaal te laten ervaren door dat via de content te tonen. Ik begin met een eigen stukje content over de light en darkside. Als het begin is gemaakt kan ik mijn garden verder uitbreiden door informatie te geven over de kant die je gekozen hebt.
 
-Mijn sfeerwoord is: ceremonieel 
-
-Hierna moesten we een sfeerwoord kiezen. Ik had eerst ceremonieel uitgekozen maar later moesten we het woord plakken in de zin: ik voel me..., daar kwam toen ontspannen uit. Dus mijn sfeerwoord was ontspannen. We hebben daarna gewerkt in Miro en verschillende inspiratie opdrachten gedaan:
+Hierna moesten we een sfeerwoord kiezen. Ik had eerst ceremonieel uitgekozen maar later moesten we het woord plakken in de zin: ik voel me..., daar kwam toen ontspannen uit. Dus mijn sfeerwoord is ontspannen. We hebben daarna gewerkt in Miro en verschillende inspiratie opdrachten gedaan:
 
 <img width="727" height="494" alt="Scherm­afbeelding 2026-09-09 om 13 06 10" src="https://github.com/user-attachments/assets/da783d49-9c8c-405c-b63e-9768bf09a383" />
 <img width="727" height="597" alt="Scherm­afbeelding 2026-09-09 om 13 06 20" src="https://github.com/user-attachments/assets/d3497214-9fd6-4fbc-9d4d-a719f5b31543" />
