@@ -139,3 +139,100 @@ De tekst vergelijkt je geest met een tuin die je moet blijven verzorgen. Je plan
 Het is belangrijk om informatie uit verschillende soorten bronnen te verzamelen en je notities niet alleen op te slaan, maar ze ook regelmatig opnieuw te bekijken en met elkaar te verbinden. Door verschillende ideeën te combineren kunnen namelijk weer nieuwe inzichten en ideeën ontstaan.
 Een Digital Garden is een online versie van deze mind garden. Hier verzamel en verbind je notities, ideeën en kennis die steeds verder kunnen groeien. Je kunt deze vervolgens delen met anderen, zodat zij erop kunnen reageren of ervan kunnen leren.
 Het uiteindelijke doel is om informatie niet alleen te consumeren en vergeten, maar deze om te zetten in nieuwe kennis, creativiteit en eigen ideeën.
+
+Opdracht 1 rangschikken:
+
+Hierna heb ik 2 websites uitgekozen om te analyseren:
+<img width="685" height="486" alt="Scherm­afbeelding 2026-09-09 om 12 49 56" src="https://github.com/user-attachments/assets/b19b232d-7d01-4ec2-b475-97dff80f06c1" />
+
+Hierna heb ik gekeken naar de webbyheid:
+Meest webby: nuel.pw
+Deze website is het meest webby omdat hij speels, interactief en verrassend is. Je kunt zelf verschillende routes ontdekken en er zijn interactieve onderdelen zoals games en experimenten. De website maakt echt gebruik van wat het web mogelijk maakt en voelt niet als een standaard, lineaire website.
+
+Minst webby: annaecook.com
+Deze website is minder webby omdat hij rustiger, traditioneler en informatiegerichter is. De site is professioneel, toegankelijk en overzichtelijk, maar bevat minder interactieve of onverwachte elementen.
+
+Opdracht 2 eigen verkenning:
+
+Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
+
+Ik zou zelf een interactieve website over matcha willen maken. Hierin wil ik mijn eigen interesse in matcha combineren met informatie, recepten, verschillende soorten matcha en bijvoorbeeld mijn favoriete matcha-spots in Amsterdam.
+Bij de websites die ik heb bekeken vond ik vooral de speelse en interactieve manier van navigeren interessant. Ik zou zelf graag willen leren hoe ik hover-effecten, animaties en klikbare elementen kan maken. Bijvoorbeeld dat een matcha-kom of chasen beweegt als je eroverheen gaat en je door erop te klikken meer informatie krijgt. Dit kan ik nu nog niet allemaal, maar lijkt me juist leuk om tijdens dit project te leren.
+
+Welke webby dingen heb je gezien die je ook wil gebruiken?
+
+Ik wil vooral de interactieve en speelse elementen gebruiken die ik bij de andere websites heb gezien. Ik wil dat bezoekers zelf mijn matcha-wereld kunnen ontdekken in plaats van alleen naar beneden te scrollen. Denk aan hover-effecten, animaties, klikbare illustraties en verschillende routes door de website. Bijvoorbeeld een chasen waarop je kunt klikken om te zien hoe je matcha maakt, of ingrediënten die reageren wanneer je eroverheen beweegt.
+
+Welke eigen content zou je over het onderwerp kunnen schrijven?
+
+Ik wil de website vanuit mijn eigen interesse en ervaring met matcha maken. De toon wordt persoonlijk, enthousiast, speels en visueel en niet te formeel. Onderwerpen kunnen bijvoorbeeld zijn: mijn favoriete matcha's, hoe ik mijn matcha maak, verschillende recepten, mijn favoriete matcha-spots in Amsterdam, tools die je nodig hebt en dingen die ik zelf leer over matcha.
+Het doel is om bezoekers enthousiast te maken over matcha en ze nieuwe dingen te laten ontdekken. Wat mij vooral aanspreekt is dat er rondom matcha een hele wereld zit van smaak, bereiding, rituelen en uitstraling.
+
+Maak je gebruik van content van anderen?
+
+Voor informatie over bijvoorbeeld de oorsprong, productie en verschillende soorten matcha zal ik ook andere bronnen nodig hebben. Deze informatie wil ik niet letterlijk overnemen, maar eerst onderzoeken en daarna in mijn eigen woorden en vanuit mijn eigen perspectief vertellen. Foto's en illustraties wil ik het liefst zelf maken. Als ik materiaal van iemand anders gebruik, controleer ik of ik het mag gebruiken en vermeld ik de bron. Zo combineer ik betrouwbare informatie met mijn eigen ervaringen, mening, fotografie en vormgeving, waardoor het echt mijn Digital Garden wordt.
+
+Op welke manier is de content te ervaren?
+
+Ik wil dat bezoekers matcha niet alleen lezen, maar echt beleven. Bijvoorbeeld door:
+Zien: fotografie, illustraties, kleuren, animaties en verschillende tinten matcha.
+Doen: klikken, hoveren, ingrediënten combineren of een eigen matcha samenstellen.
+Horen: subtiele geluiden van bijvoorbeeld het kloppen van matcha met een chasen of het inschenken van melk.
+Ontdekken: zelf bepalen welke route je door de website neemt.
+Voelen: door bewegingen en interacties wil ik de rustige, zachte sfeer rondom het maken en drinken van matcha overbrengen.
+Zo wordt het niet alleen een website over matcha, maar een kleine digitale matcha-ervaring.
+
+Opdracht 3 verzamelen van informatie:
+
+Ik heb 50 afbeeldingen verzameld en geplakt in een collage:
+<img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 16 41" src="https://github.com/user-attachments/assets/939fead8-6862-4e3c-81b2-a1fa0351a152" />
+<img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 10" src="https://github.com/user-attachments/assets/fc642104-0c30-4150-b9ec-78842a5b1a75" />
+<img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 19" src="https://github.com/user-attachments/assets/bfc2e9d3-7ff4-4323-8d3a-cb3117e6d604" />
+<img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 29" src="https://github.com/user-attachments/assets/af321871-0432-458a-8704-2607a42cd89e" />
+<img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 35" src="https://github.com/user-attachments/assets/f532a1bd-784c-4da8-b39e-2c3a5a36e9cf" />
+
+Heden en verleden:
+Matcha komt oorspronkelijk uit China, maar werd vanaf de 12e eeuw vooral belangrijk in Japan, waar het onderdeel werd van de traditionele Japanse theeceremonie. Vroeger draaide matcha voornamelijk om rust, aandacht en traditie. Tegenwoordig is matcha wereldwijd populair geworden en zie je het veel terug in moderne koffiezaken en op social media. Naast traditionele matcha wordt het nu bijvoorbeeld gedronken als iced matcha latte, strawberry matcha of matcha met verschillende soorten melk. Hierdoor is matcha veranderd van een traditioneel ritueel naar iets dat ook onderdeel is van een moderne lifestyle.
+
+Associaties:
+Bij matcha denk ik aan Japan, thee, groen, rust, ochtendrituelen, gezondheid, koffiebarretjes, keramiek, natuur, latte art, zachte kleuren, minimalisme en self-care. Ook koffie ligt dichtbij matcha, omdat matcha tegenwoordig vaak als alternatief voor koffie wordt gedronken.
+
+Symboliek / iconen:
+Herkenbare beelden die ik voor mijn website kan gebruiken zijn:
+Matcha-kom (chawan) het drinken en bereiden van matcha
+Chasen de traditionele bamboe klopper Chashaku het bamboe lepeltje waarmee matcha wordt afgemeten Theeblad de oorsprong en natuur Japan de Japanse matchacultuur Groene kleur heel herkenbaar voor matcha Schuim/bubbels goed bereide matcha IJsblokjes moderne iced matcha
+Melk matcha latte Aardbei moderne matcha-recepten zoals strawberry matcha
+
+(Sub)cultuur:
+Matcha kun je plaatsen binnen de Japanse theecultuur, maar tegenwoordig ook binnen de specialty-coffee- en cafécultuur. Daarnaast past het bij moderne lifestyleculturen rondom wellness, slow living, esthetiek en social media. Juist de combinatie tussen de traditionele Japanse cultuur en de moderne matchacultuur vind ik interessant.
+
+Sub-onderwerpen:
+Geschiedenis waar komt matcha vandaan?
+Japan & traditie traditionele theeceremonie
+Van plant tot poeder hoe wordt matcha gemaakt?
+Kwaliteit verschillen tussen soorten matcha
+Bereiding hoe maak je een goede matcha?
+Tools chasen, chawan, chashaku en zeef
+Recepten iced, strawberry, vanilla, coconut matcha etc.
+Matcha vs. koffie
+Smaak bitter, zoet, umami en romig
+Mijn favorieten matcha's die ik zelf heb geprobeerd
+Matcha in Amsterdam favoriete en nog te bezoeken matcha-spots
+Verpakkingen & branding interessante matchamerken en designs
+Rituelen het moment en proces van matcha maken
+
+Check-out vragen:
+
+1. Wat is een Digital Garden?
+   
+Een Digital Garden is een persoonlijke plek op het internet waar je ideeën, interesses, inspiratie en kennis verzamelt. Het verschil met een reguliere website is dat een Digital Garden nooit helemaal af hoeft te zijn. De inhoud kan steeds groeien, veranderen en met elkaar verbonden worden. Ook hoeft er geen vaste volgorde te zijn: bezoekers kunnen zelf door de verschillende onderwerpen en ideeën navigeren.
+
+3. Wat maakt een website ‘webby’?
+   
+Een website is webby wanneer er echt gebruik wordt gemaakt van de mogelijkheden van het web. Denk aan interactie, animaties, hover-effecten, links en verschillende manieren om door de website te navigeren. Je doet als bezoeker dus meer dan alleen tekst lezen en naar afbeeldingen kijken.
+Van de websites die ik heb bekeken inspireert nuel.pw mij het meest. Ik vind het leuk dat deze website speels en onverwacht is en dat je zelf dingen kunt ontdekken. Dat gevoel wil ik ook meenemen in mijn eigen Digital Garden.
+
+5. Waar wil ik mee aan de slag?
+
+Voor mijn eigen Digital Garden wil ik voorlopig aan de slag met het onderwerp matcha. Ik wil hier geen standaard informatieve website van maken, maar een soort interactieve matcha-wereld.
+Ik wil onderwerpen verwerken zoals de geschiedenis van matcha, de Japanse cultuur, het bereidingsproces, verschillende recepten, matcha-tools en mijn eigen favoriete matcha's en matcha-spots. Daarbij wil ik experimenteren met dingen die ik nog niet goed kan, zoals hover-effecten, animaties, geluid en interactieve elementen. Mijn doel is dat bezoekers matcha niet alleen kunnen lezen en bekijken, maar het onderwerp echt kunnen ontdekken en beleven.
