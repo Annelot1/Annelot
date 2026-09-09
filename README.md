@@ -285,6 +285,66 @@ Vanochtend heb ik mijn HTML presentatie gepresenteerd aan Amy, wij werden aan el
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 11 51" src="https://github.com/user-attachments/assets/588db449-4822-45e1-b692-c67f9cabd369" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 12 33" src="https://github.com/user-attachments/assets/10ab25b1-12b1-406f-9410-7012ced0e053" />
 
+Na de presentatie hebben we de vragen beantwoord:
+
+Annelot
+
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+
+De essentie is voor mij dat matcha meer is dan alleen een populair groen drankje. Ik wil de combinatie laten zien tussen de traditionele Japanse cultuur en het vakmanschap achter matcha en de moderne matchacultuur van nu. In mijn beelden komt vooral de bereiding, het matchapoeder, de materialen, beweging en de groene uitstraling terug.
+
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp? 
+
+Woorden die goed bij mijn onderwerp passen zijn: rustgevend, natuurlijk, verfijnd, traditioneel, modern, fris, minimalistisch, zacht, stijlvol en ambachtelijk.
+
+Heeft ‘de ander’ een aanvulling op je onderwerp? 
+
+Amy zei dat ze het leuk vind dat ik echt de wereld achter matcha wil laten zien. Zodat mensen het drankje niet alleen nemen omdat het een hype is maar omdat het ook echt voor iets staat. 
+
+Wat is het karakter/de uitstraling/het gevoel dat bij het onderwerp past? 
+
+Het gevoel dat ik bij mijn onderwerp wil neerzetten is vooral rustig, natuurlijk, fris en verfijnd. Tegelijkertijd wil ik dat het modern en stijlvol aanvoelt. De traditionele Japanse kant zorgt voor rust en vakmanschap, terwijl de moderne matchacultuur het wat speelser en eigentijdser maakt.
+
+Welke inspiratie kun je uit de afbeeldingen halen? 
+
+Stijl, gevoel, vorm, enz.? Uit mijn afbeeldingen haal ik vooral inspiratie uit de groene en natuurlijke kleuren, organische vormen en structuren van het matchapoeder. Ook beweging komt veel terug, bijvoorbeeld bij het kloppen, schenken en mengen van matcha. De beelden voelen rustig en minimalistisch, maar tegelijkertijd modern. Voor mijn Digital Garden wil ik daarom veel werken met groentinten, wit/crème, grote beelden, ronde en organische vormen en een rustige vormgeving.
+
+
+Wat zou je willen vertellen over het onderwerp aan een ander? En hoe zou je dat voor je kunnen zien? Middels welke beeld, tekst, animatie, inhoudelijke content?
+
+Ik wil dit vooral visueel laten zien met veel afbeeldingen en eigen foto's. Daarnaast wil ik korte teksten gebruiken met informatie, mijn eigen ervaringen en mening. Ook wil ik bijvoorbeeld recepten, mijn favoriete matcha-spots, verschillende soorten matcha en korte animaties van het kloppen of schenken van matcha toevoegen. De Garden moet daardoor meer aanvoelen als een persoonlijke verzameling en inspiratieplek dan als een gewone informatieve website.
+
+Ik wil mijn Digital Garden laten gaan over matcha en de combinatie tussen de traditionele Japanse matchacultuur en de moderne matchawereld, en wil dat laten zien doorveel afbeeldingen, eigen foto's, korte teksten, recepten en persoonlijke ervaringen aan content te tonen. Ik begin met een stukje eigen content over hoe ik zelf matcha maak, welke matcha ik lekker vind en mijn favoriete recepten. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door meer recepten, matcha-spots, informatie over de Japanse cultuur, verschillende soorten matcha, verpakkingen, materialen en nieuwe eigen foto's en ervaringen toe te voegen.
+
+Amy
+
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+
+Ik heb gekeken naar de infromatie die ik kon vinden en heb dit kunnen terugkoppelen naar de beeldende content. Ik heb de characters en de sfeer van de filmreeks terug laten zien in mijn collage en foto’s.
+  
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp? 
+
+Beeldend
+ 
+Heeft 'de ander' een aanvulling op je onderwerp? 
+
+Nee niet echt. Ze wist wel wat het was qua naam maar niet de storylines etcetra
+ 
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.) 
+
+Happy en boos. Ik heb vooral donkere afbeeldingen gebruikt over wat ik wilde tonen aangezien dit past bij de darkside.
+ 
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz. 
+
+Heel nerdy stijl maar wel gewoon strak. Ik wil de website wel strak hebben en dat past binnen het thema van het onderwerp.
+
+Wat zou je willen vertellen over het onderwerp aan een ander? En hoe zou je dat voor je kunnen zien? Middels welke beeld, tekst, animatie, inhoudelijke content?
+
+Ik wil een soort info website maken dat je als een bezoeker doormiddel van een soort verhaallijn de website kan ervaren. Denk hierbij dat je baanweg door de website heen te lopen dat je dan daarna de informatie kan terug lezen doormiddel van text, images en aniamties.
+ 
+Ik wil mijn digital garden laten gaan over star wars en wil dat laten zien door de gebruiker een verhaal te laten ervaren door dat via de content te tonen. Ik begin met een eigen stukje content over de light en darkside. Als het begin is gemaakt kan ik mijn garden verder uitbreiden door informatie te geven over de kant die je gekozen hebt.
+
+Mijn sfeerwoord is: ceremonieel 
 Hierna moesten we een sfeerwoord kiezen. Ik had eerst ceremonieel uitgekozen maar later moesten we het woord plakken in de zin: ik voel me..., daar kwam toen ontspannen uit. Dus mijn sfeerwoord was ontspannen. We hebben daarna gewerkt in Miro en verschillende inspiratie opdrachten gedaan:
 
 <img width="727" height="494" alt="Scherm­afbeelding 2026-09-09 om 13 06 10" src="https://github.com/user-attachments/assets/da783d49-9c8c-405c-b63e-9768bf09a383" />
