@@ -66,6 +66,8 @@ De cascade bepaalt welke CSS-regel voorrang krijgt wanneer meerdere regels invlo
 Hierna heb ik de 2e deepdive gevolgd van Nickey over interactie: MMD, micro-interacties, forms.
 We moesten in figma een wok menu bruikbaar maken voor een laptop/iPad. Dit heb ik gedaan: 
 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 34 53" src="https://github.com/user-attachments/assets/4b0d2d1c-811f-4e04-b3f5-ae97eb9e06e0" />
+
 1. Wat is de context?
 
 De gebruiker staat bij Wok to Walk en wil zelf een wokmaaltijd samenstellen. Het papieren keuzemenu wordt omgezet naar een online formulier voor middelgrote schermen, zoals een laptop of iPad. Het doel is om het bestellen sneller, duidelijker en makkelijker te maken.
