@@ -357,6 +357,8 @@ Opdracht 11 – Van Crazy 8 naar mobile-first schetsen
 
 <img width="601" height="809" alt="Scherm­afbeelding 2026-09-09 om 14 40 45" src="https://github.com/user-attachments/assets/80a507ab-b723-41e2-bdc7-7767cc63b376" />
 
+Check-out vragen: 
+
 1. Waar werkt het Visual Research in 3 stappen naartoe?
 
 Het Visual Research helpt mij om stap voor stap te ontdekken welke visuele stijl het beste bij mijn onderwerp matcha en het sfeerwoord ‘ontspannen’ past. Door beelden, kleuren, vormen en typografie te onderzoeken, kom ik uiteindelijk tot een duidelijke visuele richting voor mijn Garden.
