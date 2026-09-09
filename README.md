@@ -154,6 +154,20 @@ Deze website is minder webby omdat hij rustiger, traditioneler en informatiegeri
 
 Opdracht 2 eigen verkenning:
 
+Ik heb verder nog onderzoek gedaan naar deze websites:
+https://www.japan.travel/en/guide/tea-ceremony
+https://www.japan.travel/en/guide/japans-cultural-heritage
+https://www.marukyu-koyamaen.co.jp/english/about-tea/enjoy-matcha.html
+https://naokimatcha.com/blogs/articles/ceremonial-grade-matcha
+https://www.health.harvard.edu/healthy-aging-and-longevity/matcha-a-look-at-possible-health-benefits
+https://www.japan.travel/en/guide/japanese-superfoods
+https://www.japan.travel/en/experiences-in-japan
+https://matcha.com/blogs/news/the-history-of-matcha
+https://naokimatcha.com/pages/our-story
+https://de.pinterest.com/pin/763149099404208457/
+
+Ik heb mij verdiept in de matcha informatie en de style van websites. 
+
 Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
 
 Ik zou zelf een interactieve website over matcha willen maken. Hierin wil ik mijn eigen interesse in matcha combineren met informatie, recepten, verschillende soorten matcha en bijvoorbeeld mijn favoriete matcha-spots in Amsterdam.
