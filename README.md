@@ -260,3 +260,10 @@ Vanochtend heb ik mijn HTML presentatie gepresenteerd aan Amy, wij werden aan el
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 11 51" src="https://github.com/user-attachments/assets/588db449-4822-45e1-b692-c67f9cabd369" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 12 33" src="https://github.com/user-attachments/assets/10ab25b1-12b1-406f-9410-7012ced0e053" />
+
+Hierna moesten we een sfeerwoord kiezen. Ik had eerst ceremonieel uitgekozen maar later moesten we het woord plakken in de zin: ik voel me..., daar kwam toen ontspannen uit. Dus mijn sfeerwoord was ontspannen. We hebben daarna gewerkt in Miro en verschillende inspiratie opdrachten gedaan:
+
+<img width="727" height="494" alt="Scherm­afbeelding 2026-09-09 om 13 06 10" src="https://github.com/user-attachments/assets/da783d49-9c8c-405c-b63e-9768bf09a383" />
+<img width="727" height="597" alt="Scherm­afbeelding 2026-09-09 om 13 06 20" src="https://github.com/user-attachments/assets/d3497214-9fd6-4fbc-9d4d-a719f5b31543" />
+<img width="727" height="570" alt="Scherm­afbeelding 2026-09-09 om 13 06 30" src="https://github.com/user-attachments/assets/0a1d69db-c3e3-445a-93ab-09b43b7e7943" />
+<img width="727" height="697" alt="Scherm­afbeelding 2026-09-09 om 13 06 39" src="https://github.com/user-attachments/assets/e702b4f9-2b25-4f47-b8b8-f5da59e3de9d" />
