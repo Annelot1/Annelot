@@ -387,3 +387,24 @@ Mijn Garden gaat over matcha en het ontspannen gevoel dat ik daarmee associeer. 
 
 3. Welk Crazy 8-idee wil ik verder onderzoeken?
 Ik vind de crazy 8 met de matcha druppels die druipen over het scherm wel een tof idee. Ik wil me daar verder in gaan verdiepen en kijken of dat leuk is op de website. 
+
+Hierna heb ik de deep dive Mooie kleuren en gradients van Sanne gemaakt. Als voorbereiding heb ik de 3 spelletjes gedaan die in DLO stonden:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 21 08" src="https://github.com/user-attachments/assets/b4f9e8bb-edd2-45ef-963e-6f717e1eaaa3" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 21 28" src="https://github.com/user-attachments/assets/a3fb2656-e846-4ad2-850c-0d1132a45f56" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 22 10" src="https://github.com/user-attachments/assets/b38f1688-ea75-4bd0-9b6c-41b154218ff6" />
+
+Opdracht 1 De zes gradients:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 30 21" src="https://github.com/user-attachments/assets/284cf274-f843-4fb0-a8bc-1c31602d24d3" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 30 28" src="https://github.com/user-attachments/assets/b8bfbcc9-8db4-4f10-bb0e-61e996d177ca" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 30 35" src="https://github.com/user-attachments/assets/e2dd0f9d-a45b-40b7-9395-92e9b06d4929" />
+
+Opdracht 2 vlaggen en co:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 34 54" src="https://github.com/user-attachments/assets/14ce7d2a-69d0-4597-bb4b-1281fabdb132" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 36 36" src="https://github.com/user-attachments/assets/c6453217-0889-4c34-a0bb-34cabb0dc9c1" />
+
+Opdracht 3 Gradients animeren:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 38 33" src="https://github.com/user-attachments/assets/ee5e3914-0668-46f5-954c-341a6414432a" />
