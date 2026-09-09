@@ -89,3 +89,53 @@ Opdracht 2 fonts, kleur en effecten:
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 39 26" src="https://github.com/user-attachments/assets/a129b114-f4f8-44c5-9a37-23ec5bf69bf6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 51 23" src="https://github.com/user-attachments/assets/97479bdf-6f66-42b2-a172-1a2a96b3e5d3" />
 
+Opdracht 3 mini posters: 
+
+
+Opdracht 4 transitions: 
+
+### 7 sep 
+Helaas was ik vandaag ziek waardoor ik niet op school kon komen... Ik heb via contact met klasgenoten het huiswerk kunnen volgen en uitgewerkt. Ik heb de artikelen gelezen en samenvattingen van gemaakt:
+
+A Brief History & Ethos of the Digital Garden:
+
+Een Digital Garden is een persoonlijke online plek waar je ideeën, kennis en notities verzamelt. In tegenstelling tot een blog hoeven deze ideeën niet af of perfect te zijn: je blijft ze aanpassen, uitbreiden en met elkaar verbinden.
+Het concept bestaat al sinds de jaren 90. Het draait vooral om vrij ontdekken en navigeren, in plaats van informatie alleen chronologisch te bekijken zoals op blogs en social media.
+Belangrijkste idee: Je kennis is als een tuin: je plant ideeën → verbindt ze → werkt eraan → laat ze groeien. Digital Gardens werden rond 2018–2020 opnieuw populair als reactie op social media feeds en standaard websites.
+Een Digital Garden heeft 6 belangrijke kenmerken:
+1. Verbinding boven tijdlijn – informatie is gekoppeld op onderwerp, niet chronologisch.
+2. Blijft groeien – ideeën zijn nooit definitief en kunnen steeds worden aangepast.
+3. Niet perfect – je deelt ook ideeën die nog in ontwikkeling zijn en leert zo in het openbaar.
+4. Persoonlijk & experimenteel – je garden mag je eigen stijl en structuur hebben.
+5. Verschillende soorten content – tekst, afbeeldingen, video, podcasts, schetsen, code enzovoort kunnen door elkaar gebruikt worden.
+6. Eigen beheer – idealiter bezit en beheer je zelf je Digital Garden, in plaats van afhankelijk te zijn van bijvoorbeeld social media platforms.
+
+MIT Technology Review - Digital Gardens Cultivate Internet:
+
+Een digital garden is een persoonlijke plek op het internet waar je ideeën, interesses, kennis en inspiratie verzamelt. Anders dan bij een traditionele blog hoeft de inhoud niet chronologisch of helemaal af te zijn. Je kunt teksten en pagina’s steeds aanpassen, uitbreiden en met elkaar verbinden wanneer je nieuwe dingen leert. Zo groeit de website als het ware met je mee.
+Digital gardens draaien vooral om creativiteit, persoonlijke ontwikkeling en vrijheid. Iedereen kan zijn eigen stijl en onderwerpen kiezen, zonder vaste regels of formats. Ze worden daarom ook gezien als een alternatief voor sociale media, waar veel draait om likes, viral gaan en snelle content. Een digital garden is juist een rustigere plek waar meer ruimte is voor verdieping, nuance en het leggen van verbanden tussen ideeën.
+Een nadeel is dat het maken van een eigen digital garden soms technische kennis, zoals basiskennis van coderen, vereist en daardoor meer tijd kan kosten.
+
+The Garden and the Stream: A Technopastoral:
+
+De tekst vergelijkt twee manieren waarop we het internet gebruiken: The Garden en The Stream. De Garden is een plek waar kennis steeds wordt opgebouwd, aangepast en met andere informatie wordt verbonden. Er is geen vaste volgorde: verschillende ideeën en bronnen kunnen samen nieuwe inzichten opleveren.
+De Stream lijkt juist op sociale media zoals Instagram, Facebook en Twitter. Hier komt informatie in een chronologische stroom voorbij en ligt de nadruk meer op snelle berichten, gesprekken, meningen en persoonlijke expressie.
+De schrijver vindt dat het internet te veel is veranderd in zo’n Stream. Hij pleit daarom voor meer Garden-denken: minder focussen op snelle content en discussies en meer op het verzamelen, verbinden en verder ontwikkelen van kennis.
+
+Digital Garden Terms of Service:
+
+De tekst gaat over de ongeschreven regels van een Digital Garden. Een Digital Garden is een persoonlijke online plek waar je onafgemaakte ideeën, notities en kennis deelt terwijl je nog aan het leren bent. Het hoeft dus niet perfect of volledig te zijn; de inhoud groeit en verandert mee met wat je leert.
+De schrijver vindt het belangrijk dat er duidelijke afspraken zijn tussen de maker en bezoekers. De belangrijkste punten zijn:
+- Je hebt het recht om fouten te maken en later je mening of informatie aan te passen.
+- Constructieve kritiek en feedback zijn welkom, omdat je daarvan kunt leren.
+- Ideeën mogen worden gedeeld, maar je moet de originele maker vermelden en niet plagiaat plegen.
+- Als maker moet je respectvol omgaan met anderen, privacy beschermen en duidelijk zijn over hoeveel kennis en ervaring je over een onderwerp hebt.
+- Een Digital Garden maak je in de eerste plaats voor je eigen leerproces, niet voor likes, bezoekers of populariteit.
+Het uiteindelijke doel is een online omgeving waarin mensen openlijk kunnen leren, ideeën kunnen uitwisselen en samen kennis verder kunnen ontwikkelen.
+
+You and your mind garden:
+
+De tekst vergelijkt je geest met een tuin die je moet blijven verzorgen. Je plant als het ware zaadjes door nieuwe informatie en ideeën op te doen. Door notities te maken in je eigen woorden, onthoud je informatie beter en groeit je kennis.
+Het is belangrijk om informatie uit verschillende soorten bronnen te verzamelen en je notities niet alleen op te slaan, maar ze ook regelmatig opnieuw te bekijken en met elkaar te verbinden. Door verschillende ideeën te combineren kunnen namelijk weer nieuwe inzichten en ideeën ontstaan.
+Een Digital Garden is een online versie van deze mind garden. Hier verzamel en verbind je notities, ideeën en kennis die steeds verder kunnen groeien. Je kunt deze vervolgens delen met anderen, zodat zij erop kunnen reageren of ervan kunnen leren.
+Het uiteindelijke doel is om informatie niet alleen te consumeren en vergeten, maar deze om te zetten in nieuwe kennis, creativiteit en eigen ideeën.
