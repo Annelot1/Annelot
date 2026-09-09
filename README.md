@@ -67,6 +67,8 @@ Hierna heb ik de 2e deepdive gevolgd van Nickey over interactie: MMD, micro-inte
 We moesten in figma een wok menu bruikbaar maken voor een laptop/iPad. Dit heb ik gedaan: 
 
 
-
 ### 4 sep
-
+Vanochtend heb ik de deepdive van Vasilis gevolgd: praktische CSS. Ik heb gebruik gemaakt van Vasilis zijn "slechte" website omdat ik dat fijner vond werken in de les. Zo kon je precies het overnemen wat Vasilis ook deed, zo begreep ik het het beste. 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 09 18 59" src="https://github.com/user-attachments/assets/a2bf3cfa-b400-4e76-b0e4-f83dd4971285" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 09 52 39" src="https://github.com/user-attachments/assets/73d8c11f-434c-448e-a7a2-666c7856fda3" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 11 02 57" src="https://github.com/user-attachments/assets/7010d057-17d7-45db-a15a-ca27dedd6103" />
