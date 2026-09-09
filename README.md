@@ -68,7 +68,24 @@ We moesten in figma een wok menu bruikbaar maken voor een laptop/iPad. Dit heb i
 
 
 ### 4 sep
-Vanochtend heb ik de deepdive van Vasilis gevolgd: praktische CSS. Ik heb gebruik gemaakt van Vasilis zijn "slechte" website omdat ik dat fijner vond werken in de les. Zo kon je precies het overnemen wat Vasilis ook deed, zo begreep ik het het beste. Ik heb de website mooier gemaakt door het lettertype. witruimte, 
+Vanochtend heb ik de deepdive van Vasilis gevolgd: praktische CSS. Ik heb gebruik gemaakt van Vasilis zijn "slechte" website omdat ik dat fijner vond werken in de les. Zo kon je precies het overnemen wat Vasilis ook deed, zo begreep ik het het beste. Ik heb de website mooier gemaakt door het lettertype. witruimte en hebben we de formulieren aan de onderkant mooier gemaakt. Ik heb altijd met codes dat ik er tegen op kijk omdat ik altijd denk, hoe ga ik dit in vredesnaam doen. Maar door Vasilis zijn uitleg en enthousiasme begrijp ik het beter en weet ik ook dat ik het kan. Ook legde hij uit hoe je de code toepast om light en dark modes toe te voegen. Dat vind ik ook echt heel cool, dat wil ik later ook in mijn website zetten. 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 09 18 59" src="https://github.com/user-attachments/assets/a2bf3cfa-b400-4e76-b0e4-f83dd4971285" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 09 52 39" src="https://github.com/user-attachments/assets/73d8c11f-434c-448e-a7a2-666c7856fda3" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 11 02 57" src="https://github.com/user-attachments/assets/7010d057-17d7-45db-a15a-ca27dedd6103" />
+
+Hierna heb ik de deepdive van Sanne gevolgd: CSS: fonts met kleur en effecten. 
+Samen met Leonie en Julia hebben we de opdrachten gedaan, ik vond het fijn om met hun te doen. Zo kunnen we elkaar helpen en leren van elkaar. 
+
+Opdracht 1 font properties:
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 06 32" src="https://github.com/user-attachments/assets/847a587a-74a4-4527-b0fe-e30c54445cd7" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 12 29" src="https://github.com/user-attachments/assets/e9a33419-4ee6-4fb7-8d8a-44eb0c8b2c14" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 14 27" src="https://github.com/user-attachments/assets/fda5acb6-ab0a-4ed8-93b8-3510fbc18fd0" />
+
+Opdracht 2 fonts, kleur en effecten:
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 30 45" src="https://github.com/user-attachments/assets/a5450e1c-42cc-4183-a7e6-c8352ea15a74" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 32 19" src="https://github.com/user-attachments/assets/3d7f4116-f6f5-4363-8dbe-f95fb4d58221" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 35 38" src="https://github.com/user-attachments/assets/1edb03ff-e843-4000-a2fa-9ba50625359f" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 36 20" src="https://github.com/user-attachments/assets/a474659e-d695-4dee-9992-ce28f37ac4d7" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 39 26" src="https://github.com/user-attachments/assets/a129b114-f4f8-44c5-9a37-23ec5bf69bf6" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 51 23" src="https://github.com/user-attachments/assets/97479bdf-6f66-42b2-a172-1a2a96b3e5d3" />
+
