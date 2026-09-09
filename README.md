@@ -353,3 +353,17 @@ Hierna moesten we een sfeerwoord kiezen. Ik had eerst ceremonieel uitgekozen maa
 <img width="610" height="815" alt="Scherm­afbeelding 2026-09-09 om 13 56 10" src="https://github.com/user-attachments/assets/187e9d6e-ad30-4334-b066-a8b9abfef50c" />
 <img width="882" height="732" alt="Scherm­afbeelding 2026-09-09 om 14 18 25" src="https://github.com/user-attachments/assets/80c0c93a-0d60-4560-b645-7fa81b52ad5d" />
 
+Opdracht 11 – Van Crazy 8 naar mobile-first schetsen
+
+<img width="601" height="809" alt="Scherm­afbeelding 2026-09-09 om 14 40 45" src="https://github.com/user-attachments/assets/80a507ab-b723-41e2-bdc7-7767cc63b376" />
+
+1. Waar werkt het Visual Research in 3 stappen naartoe?
+
+Het Visual Research helpt mij om stap voor stap te ontdekken welke visuele stijl het beste bij mijn onderwerp matcha en het sfeerwoord ‘ontspannen’ past. Door beelden, kleuren, vormen en typografie te onderzoeken, kom ik uiteindelijk tot een duidelijke visuele richting voor mijn Garden.
+
+2. Waar gaat mijn Garden over?
+
+Mijn Garden gaat over matcha en het ontspannen gevoel dat ik daarmee associeer. Ik wil dit laten zien met beelden, korte teksten, rustige kleuren, vloeiende vormen en subtiele animaties die samen een kalme sfeer creëren.
+
+3. Welk Crazy 8-idee wil ik verder onderzoeken?
+Ik vind de crazy 8 met de matcha druppels die druipen over het scherm wel een tof idee. Ik wil me daar verder in gaan verdiepen en kijken of dat leuk is op de website. 
