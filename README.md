@@ -411,6 +411,20 @@ Opdracht 3 Gradients animeren:
 
 ### 11 sep 
 
+Vanochtend heb ik mijn voortgangsgesprek gehad met Barbara & Maarten (studenten begeleiding). 
+
+Ook heb ik mijn huiswerk gedaan voor maandag. Ik heb een YouTube video gekeken en 2 artikelen gelezen en kort samengevat. 
+
+The Guardian:
+
+Het artikel gaat over een grote storing bij Amazon Web Services (AWS), waardoor duizenden websites en apps wereldwijd ongeveer 15 uur problemen hadden. De storing liet zien hoe afhankelijk het internet is van een klein aantal grote cloudbedrijven, vooral Amazon, Microsoft en Google.
+The Guardian waarschuwt dat dit het internet kwetsbaar maakt: als één groot systeem uitvalt, kunnen heel veel diensten tegelijk stoppen. Het artikel pleit daarom voor meer spreiding, Europese cloudinfrastructuur en open standaarden, zodat landen minder afhankelijk worden van grote buitenlandse techbedrijven. 
+
+Het artikel gaat over Tim Berners-Lee, de uitvinder van het World Wide Web, die vindt dat het web te veel is veranderd door commercialisering, sociale media en grote techbedrijven. Volgens hem zijn veel platforms ontworpen om aandacht vast te houden, waardoor problemen zoals verslaving, polarisatie en desinformatie ontstaan. 
+Toch denkt Berners-Lee dat het internet nog te herstellen is. Hij wil gebruikers meer controle over hun eigen gegevensgeven, onder andere via zijn project Solid. Ook maakt hij zich zorgen over de snelle ontwikkeling van AI en pleit hij voor meer onafhankelijk toezicht en samenwerking tussen wetenschappers.
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-11 om 12 35 01" src="https://github.com/user-attachments/assets/a7a78b27-efeb-4781-b3bb-25ab4a9444ee" />
+
 Ik heb de deep dive Grid 101 + Media queries van Sanne gedaan. Ik heb de voorbereidingen gedaan die in DLO stonden:
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 43 11" src="https://github.com/user-attachments/assets/38308dab-5f63-40b6-8844-24cda2e56f71" />
