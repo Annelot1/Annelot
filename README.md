@@ -413,6 +413,8 @@ Opdracht 3 Gradients animeren:
 
 Vanochtend heb ik mijn voortgangsgesprek gehad met Barbara & Maarten (studenten begeleiding). 
 
+We hebben mijn README bekeken en Barbara vond dat ik alles goed bij had gehouden en dat ik bij ben met al het huiswerk. Ik vond dat een fijn compliment omdat ik de week niet goed was begonnen ivm ziekte. Gelukkig heb ik dus alles aan kunnen vullen en ben ik helemaal bij. Ze vind mijn concept leuk en het onderwerp. Ik ben nu in het conceptontwikkeling fase en dat is voor nu goed. Ik ga nieuwe mobiel first schetsen maken en die verder uitwerken. 
+
 Ook heb ik mijn huiswerk gedaan voor maandag. Ik heb een YouTube video gekeken en 2 artikelen gelezen en kort samengevat. 
 
 The Guardian:
