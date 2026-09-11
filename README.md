@@ -408,26 +408,3 @@ Opdracht 2 vlaggen en co:
 Opdracht 3 Gradients animeren:
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 38 33" src="https://github.com/user-attachments/assets/ee5e3914-0668-46f5-954c-341a6414432a" />
-
-### 11 sep 
-
-Ik heb de deep dive Grid 101 + Media queries van Sanne gedaan. Ik heb de voorbereidingen gedaan die in DLO stonden:
-
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 43 11" src="https://github.com/user-attachments/assets/38308dab-5f63-40b6-8844-24cda2e56f71" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 43 24" src="https://github.com/user-attachments/assets/13156981-884c-498a-a80d-6516ee365da8" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 43 54" src="https://github.com/user-attachments/assets/ff32816b-6587-498a-a2bd-6dbf943aff0f" />
-
-Opdracht 1 Meet the properties:
-
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 48 28" src="https://github.com/user-attachments/assets/8f0d0574-9f1e-4a7a-8d49-2d0ae98614a0" />
-
-Opdracht 2 Cards cards cards 
-
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 50 53" src="https://github.com/user-attachments/assets/fc50e234-3f6a-40d3-bb13-6cce1e236efb" />
-
-Opdracht 3 Responsive webshop 
-
-Ik vind de laatste opdracht echt heel lastig.. Ik ben tot hier gekomen want het lukt mij niet meer verder.
-
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 57 51" src="https://github.com/user-attachments/assets/3c392546-940e-43d2-8008-a4bf2eb58fa5" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 57 56" src="https://github.com/user-attachments/assets/606b6123-03c6-401a-b252-d463a4e73c00" />
