@@ -1,16 +1,14 @@
 /* LETTERTYPE */
 @font-face {
   font-family: "Shuriken";
-  src: url("../type/The%20Last%20Shuriken.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  src: url("../type/The Last Shuriken.ttf") format("truetype");
 }
 
 /* ALGEMEEN */
 body {
+  font-family: "Shuriken", sans-serif;
   background-color: Canvas;
   color: CanvasText;
-  color-scheme: light dark;
   margin: 0;
   padding: 0;
 }
