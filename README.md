@@ -447,3 +447,28 @@ Ik vind de laatste opdracht echt heel lastig.. Ik ben tot hier gekomen want het 
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 57 51" src="https://github.com/user-attachments/assets/3c392546-940e-43d2-8008-a4bf2eb58fa5" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 57 56" src="https://github.com/user-attachments/assets/606b6123-03c6-401a-b252-d463a4e73c00" />
+
+### 14 sep 
+
+Vanochtend begonnen met de eerste Bi-Weekly Geek. Hier heb ik de gezamenlijke opdracht gedaan met Leonie, Julia en Tamar:
+
+<img width="1200" height="1600" alt="488f0083-546e-4c60-96cc-5d1308da7b8b" src="https://github.com/user-attachments/assets/5f12b1de-1372-43b4-bba1-17c1363cdb31" />
+<img width="1200" height="1600" alt="8ace64f2-ffb6-4d50-8aac-2f3cc372f851" src="https://github.com/user-attachments/assets/82cc4c88-1179-4d10-af7f-1a860b4c6b4e" />
+
+Check-out vragen:
+
+1. Leg uit wanneer een website 'lelijk' wordt
+
+1. Als alle elementen niet responsief zijn 
+2. Als afbeeldingen heel groot worden weergegeven 
+3. Styling past niet bij elkaar 
+Hiervoor kun je mediacurse gebruiken. Denk bijv aan procenten. 
+
+
+3. Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Maak eerst de website mobile first en daarna grootte van laptop 
+
+5. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+We maken beide onze website mobile first en er zijn geen vage knoppen in het scherm. 
