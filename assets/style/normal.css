@@ -1,7 +1,7 @@
 /* LETTERTYPE */
 @font-face {
-  font-family: "japans";
-  src: url("../type/The-Last-Shuriken.otf") format("opentype");
+  font-family: "Shuriken";
+  src: url("../type/The%20Last%20Shuriken.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
@@ -81,7 +81,11 @@ body {
   z-index: 1000;
   background: white;
 
-  font-family: "japans", sans-serif;
+  font-family: "Shuriken", sans-serif;
+}
+
+.navbar a {
+  font-family: "Shuriken", sans-serif;
 }
 
 /* LOGO */
