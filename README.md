@@ -1,5 +1,3 @@
-<img width="1312" height="1199" alt="Sam stickers" src="https://github.com/user-attachments/assets/fe32a87c-4331-42e2-b2cf-6ebe962542b3" />## Learning Log
-
 ### 31 aug - Kickoff
 Tijdens de kickoff heb ik mijn eigen domein naam gekocht: www.tuintjevanannelot.nl. Ik heb alles ingestalleerd om tijdens dit blok met mijn website aan de gang te kunnen gaan. 
 Bij de checkout ben ik gekoppeld aan Bera, we hebben samen de vragen beantwoord: 
@@ -519,7 +517,7 @@ Ik ben verder gegaan met het ontwerpen van mijn website. Ik had al gauw een idee
 
 Omdat we voor vrijdag een basis af moeten hebben heb ik het ook voor mijzelf zo minimalistisch probeer te houden omdat ik ook nog niet goed weet wat ik met de inhoud en rest van de website wil doen. Dus wilde ik heel graag de hoofdpagina af hebben met de foto's effecten, titels, logo & menubalk die werkt om erop te klikken. Dit is allemaal gelukt en daar ben ik super blij mee. 
 
-Met code heb ik altijd dat ik er best tegenop kijk omdat ik dan denk waar moet ik beginnen... Maar als ik eenmaal bezig ben en een beetje zie dat er iets ontstaat, vind ik het steeds leuker worden. 
+Met code heb ik altijd dat ik er best tegenop kijk omdat ik dan denk waar moet ik beginnen... Maar als ik eenmaal bezig ben en een beetje zie dat er iets ontstaat, vind ik het steeds leuker worden. Ook heb ik de light/dark toegepast en is de menubalk voor de dark thema zwart. Ook heb ik de codes toegevoegd dat de website ook mobile toegankelijk. Dit werkt alleen nog als de mobiel horizontaal is en nog niet verticaal, dit wil ik later verder oppakken. Ik heb met behulp van de deal dives, DLO, leraren, klasgenoten en ChatGPT gekeken naar de codes. Ik heb de codes zelf geformuleerd maar met behulp van mijn bronnen zodat ik wat op weg geholpen kon worden, hier leer ik dan ook het meeste van. 
 
 Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn website:
 
