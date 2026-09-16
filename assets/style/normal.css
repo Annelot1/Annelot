@@ -47,3 +47,14 @@ body {
   object-position: center;
   display: block;
 }
+
+.slide-2 {
+  height: auto;
+}
+
+.slide-2 img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
