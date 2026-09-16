@@ -1,4 +1,4 @@
-## Learning Log
+<img width="1312" height="1199" alt="Sam stickers" src="https://github.com/user-attachments/assets/fe32a87c-4331-42e2-b2cf-6ebe962542b3" />## Learning Log
 
 ### 31 aug - Kickoff
 Tijdens de kickoff heb ik mijn eigen domein naam gekocht: www.tuintjevanannelot.nl. Ik heb alles ingestalleerd om tijdens dit blok met mijn website aan de gang te kunnen gaan. 
@@ -455,15 +455,34 @@ Vanochtend begonnen met de eerste Bi-Weekly Geek. Hier heb ik de gezamenlijke op
 <img width="1200" height="1600" alt="488f0083-546e-4c60-96cc-5d1308da7b8b" src="https://github.com/user-attachments/assets/5f12b1de-1372-43b4-bba1-17c1363cdb31" />
 <img width="1200" height="1600" alt="8ace64f2-ffb6-4d50-8aac-2f3cc372f851" src="https://github.com/user-attachments/assets/82cc4c88-1179-4d10-af7f-1a860b4c6b4e" />
 
-Check-out vragen:
+Samenvatting 5 Principles of Visual Design in UX:
 
-1. Leg uit wanneer een website 'lelijk' wordt
+Het artikel van Nielsen Norman Group beschrijft 5 belangrijke principes voor goed visueel ontwerp:
+Schaal: belangrijke onderdelen maak je groter, zodat ze sneller opvallen.
+Visuele hiërarchie: grootte, kleur, positie en ruimte sturen de kijker naar wat het belangrijkst is.
+Balans: verdeel elementen zo dat het ontwerp rustig en evenwichtig aanvoelt; dit hoeft niet symmetrisch te zijn.
+Contrast: verschillen in bijvoorbeeld kleur en grootte maken onderdelen herkenbaar en tekst beter leesbaar.
+Gestalt: mensen zien elementen die bij elkaar staan of op elkaar lijken automatisch als één groep.
+De kern is dat goed visueel ontwerp niet alleen mooi moet zijn, maar vooral helpt om een website duidelijk, begrijpelijk en makkelijk te gebruiken te maken.
+
+Samenvatting Design Consistency Guide UI and UX Best Practices:
+
+Dit artikel van UXPin gaat vooral over consistentie in UI- en UX-design.
+Consistent ontwerp: gebruik overal dezelfde kleuren, lettertypes, afstanden en stijlen.
+Voorspelbaarheid: knoppen en andere elementen moeten op verschillende pagina’s op dezelfde manier werken.
+Visuele hiërarchie: maak duidelijk wat het belangrijkst is door verschil in grootte, kleur en positie.
+Herkenbare patronen: gebruik bekende websitepatronen, zodat gebruikers snel begrijpen hoe iets werkt.
+Consistente teksten: gebruik steeds dezelfde woorden voor dezelfde functies.
+Design system: leg kleuren, typografie, knoppen en andere onderdelen vast zodat je ze overal hetzelfde kunt toepassen.
+
+Check-out vragen samen met Amy gedaan:
+
+Leg uit wanneer een website 'lelijk' wordt
 
 1. Als alle elementen niet responsief zijn 
 2. Als afbeeldingen heel groot worden weergegeven 
 3. Styling past niet bij elkaar 
 Hiervoor kun je mediacurse gebruiken. Denk bijv aan procenten. 
-
 
 3. Vertel welke volgende stap je neemt om je website responsive te maken.
 
@@ -472,3 +491,42 @@ Maak eerst de website mobile first en daarna grootte van laptop
 5. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 We maken beide onze website mobile first en er zijn geen vage knoppen in het scherm. 
+
+### 16 Sep
+
+Vanochtend bij de presentatie van Diederik geweest over Gestalt en symmetrie. Interessant en ik probeer dit ook toe te passen op mijn website. 
+
+Ik heb de opdrachten samen met Leonie gedaan: 
+
+<img width="593" height="673" alt="Scherm­afbeelding 2026-09-16 om 19 38 29" src="https://github.com/user-attachments/assets/9311a683-627d-4d61-bf17-9730b49ba6a0" />
+
+Check out:
+
+1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+Contrast: verschillen in bijvoorbeeld kleur, grootte of lettertype zorgen ervoor dat belangrijke elementen meer opvallen.
+Nabijheid (proximity): elementen die dicht bij elkaar staan, zien we automatisch als onderdelen die bij elkaar horen.
+Visuele hiërarchie: door bepaalde onderdelen groter, opvallender of hoger te plaatsen, laat je zien wat de gebruiker als eerste moet bekijken.
+
+2. Wat wordt bedoeld met vrijheid én vastigheid van een grid?
+Een grid is een systeem van denkbeeldige lijnen en kolommen waarop je elementen kunt plaatsen.
+Met vastigheid wordt bedoeld dat het grid zorgt voor structuur. Teksten, afbeeldingen en andere elementen worden bijvoorbeeld steeds op dezelfde lijnen uitgelijnd. Hierdoor ontstaat een rustig en samenhangend ontwerp.
+Met vrijheid wordt bedoeld dat je binnen dat grid nog steeds kunt variëren. Een afbeelding kan bijvoorbeeld 3 kolommen breed zijn en een andere afbeelding 6 kolommen. 
+
+3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+Ik neem mee dat ik meer tekst op de hoofdpagina moet zetten ipv afbeeldingen. Ik dacht zelf, omdat ik zo in het onderwerp zit, dat veel mensen wel de route weten van matcha maar dat is natuurlijk niet vanzelf sprekend. Ik moet mij daar mee op aanpassen en weten dat mijn doelgroep echt de mensen zijn die niet veel matcha afweten. 
+
+Ik ben verder gegaan met het ontwerpen van mijn website. Ik had al gauw een idee dat ik een effect wilde met de foto's omdat ik de reis en geschiedenis wil laten zien van Matcha. Hierdoor krijg je op de hoofdpagina al een snel beeld van hoe het kort zit. Dankzij Maarten (de hulp student) kreeg ik codes die ik heel goed kan gebruiken, dus dat is top. 
+
+Omdat we voor vrijdag een basis af moeten hebben heb ik het ook voor mijzelf zo minimalistisch probeer te houden omdat ik ook nog niet goed weet wat ik met de inhoud en rest van de website wil doen. Dus wilde ik heel graag de hoofdpagina af hebben met de foto's effecten, titels, logo & menubalk die werkt om erop te klikken. Dit is allemaal gelukt en daar ben ik super blij mee. 
+
+Met code heb ik altijd dat ik er best tegenop kijk omdat ik dan denk waar moet ik beginnen... Maar als ik eenmaal bezig ben en een beetje zie dat er iets ontstaat, vind ik het steeds leuker worden. 
+
+Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn website:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-14 om 15 03 15" src="https://github.com/user-attachments/assets/5613a0b1-498b-4a0d-a597-83253c83510b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 38" src="https://github.com/user-attachments/assets/c727294a-e74f-43fb-b60b-d42ed673e73b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-14 om 15 03 15" src="https://github.com/user-attachments/assets/f15292e5-3b0e-4fd8-b471-bce224780ec5" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 45" src="https://github.com/user-attachments/assets/ae80c713-95ee-466d-9808-9cb5bf85fa70" /><img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 40" src="https://github.com/user-attachments/assets/e6d784c7-49ee-484c-8e11-89e05879273c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 42" src="https://github.com/user-attachments/assets/683f1e42-7958-483d-87b4-da8d25d2ccb8" />
+
+Deep dive responsive grid + grid-areas:
