@@ -136,7 +136,7 @@ body {
   font-family: Didot, Georgia, serif;
   font-size: var(--step-0);
   font-weight: 600;
-  color: black;
+  color: white;
   text-align: center;
   white-space: nowrap;
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
