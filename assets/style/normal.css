@@ -5,8 +5,6 @@
   font-style: normal;
 }
 
-/* UTOPIA RESPONSIVE TEKST */
-
 :root {
   --step--2: clamp(0.5627rem, 0.9836rem + -0.4677vw, 0.8784rem);
   --step--1: clamp(0.7956rem, 0.9844rem + -0.2098vw, 0.9372rem);
@@ -18,35 +16,24 @@
   --step-5: clamp(1.383rem, -0.2757rem + 7.3721vw, 6.3592rem);
 }
 
-/* LIGHT & DARK MODE */
-
 html {
   color-scheme: light dark;
-
   --color: light-dark(#222222, #ffffff);
   --background: light-dark(#ffffff, #1c1c1c);
 }
 
-/* ALGEMEEN */
-
 body {
   background-color: var(--background);
   color: var(--color);
-
   margin: 0;
   padding: 0;
 }
 
-/* AFBEELDINGEN */
-
 .hero {
   height: 100vh;
-
   overflow-y: auto;
-
   scroll-snap-type: y proximity;
   scroll-behavior: normal;
-
   scrollbar-width: none;
 }
 
@@ -57,14 +44,10 @@ body {
 .slide {
   position: sticky;
   top: 0;
-
   width: 100%;
   height: 100vh;
-
   margin: 0;
-
   overflow: hidden;
-
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
@@ -72,114 +55,75 @@ body {
 .slide img {
   width: 100%;
   height: 100%;
-
   object-fit: cover;
   object-position: center;
-
   display: block;
 }
-
-/* TWEEDE AFBEELDING */
 
 .slide-2 img {
   width: 100%;
   height: auto;
-
   object-fit: contain;
-
   display: block;
 }
 
-/* MENUBALK */
-
 .navbar {
   position: fixed;
-
   top: 0;
   left: 0;
-
   width: 100%;
   height: 70px;
-
   display: flex;
   align-items: center;
   justify-content: space-between;
-
   padding: 0 40px;
-
   box-sizing: border-box;
-
   z-index: 1000;
-
   background-color: var(--background);
 }
 
-/* THE GREEN RITUAL */
-
 .navbar .logo {
   font-family: Didot, Georgia, serif;
-
   color: var(--color);
-
   text-decoration: none;
-
   font-size: var(--step-2);
-
   white-space: nowrap;
 }
-
-/* MENU RECHTS */
 
 .menu {
   display: flex;
   align-items: center;
-
   gap: 35px;
-
   list-style: none;
-
   margin: 0;
   padding: 0;
 }
 
 .navbar .menu a {
   font-family: "Shuriken", sans-serif;
-
   color: var(--color);
-
   text-decoration: none;
-
   font-size: var(--step--1);
-
   white-space: nowrap;
 }
-
-/* HOVER */
 
 .navbar .menu a:hover {
   opacity: 0.5;
 }
-
-/* TEKST OP EERSTE AFBEELDING */
 
 .slide-1 h1 {
   position: absolute;
   top: 47%;
   left: 65%;
   transform: translate(-50%, -50%);
-
   margin: 0;
-
   font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
   font-weight: 600;
-
   color: white;
   text-align: center;
   white-space: nowrap;
-
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-
   z-index: 2;
 }
 
@@ -188,38 +132,27 @@ body {
   top: 52%;
   left: 75%;
   transform: translate(-50%, -50%);
-
   margin: 0;
-
   font-family: Didot, Georgia, serif;
   font-size: var(--step-0);
   font-weight: 600;
-
   color: white;
   text-align: center;
   white-space: nowrap;
-
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-
   z-index: 2;
 }
 
 .slide-2 h2 {
   position: absolute;
-
   top: 47%;
   left: 50%;
-
   transform: translate(-50%, -50%);
-
   margin: 0;
-
   font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
   font-weight: 600;
-
   color: #fff8e8;
-
   text-align: center;
   white-space: nowrap;
 }
@@ -229,19 +162,14 @@ body {
   top: 47%;
   left: 65%;
   transform: translate(-50%, -50%);
-
   margin: 0;
-
   font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
   font-weight: 600;
-
   color: white;
   text-align: center;
   white-space: nowrap;
-
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-
   z-index: 2;
 }
 
@@ -250,18 +178,13 @@ body {
   top: 30%;
   left: 75%;
   transform: translate(-50%, -50%);
-
   margin: 0;
-
   font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
   font-weight: 600;
-
   color: white;
   text-align: center;
   white-space: nowrap;
-
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-
   z-index: 2;
 }
