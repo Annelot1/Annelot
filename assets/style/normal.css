@@ -5,11 +5,20 @@
   font-style: normal;
 }
 
+/* LIGHT & DARK MODE */
+
+html {
+  color-scheme: light dark;
+
+  --color: light-dark(#222222, #ffffff);
+  --background: light-dark(#ffffff, #1c1c1c);
+}
+
 /* ALGEMEEN */
 
 body {
-  background-color: Canvas;
-  color: CanvasText;
+  background-color: var(--background);
+  color: var(--color);
   margin: 0;
   padding: 0;
 }
@@ -31,10 +40,13 @@ body {
 .slide {
   position: sticky;
   top: 0;
+
   width: 100%;
   height: 100vh;
+
   margin: 0;
   overflow: hidden;
+
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
@@ -42,15 +54,21 @@ body {
 .slide img {
   width: 100%;
   height: 100%;
+
   object-fit: cover;
   object-position: center;
+
   display: block;
 }
+
+/* TWEEDE AFBEELDING */
 
 .slide-2 img {
   width: 100%;
   height: auto;
+
   object-fit: contain;
+
   display: block;
 }
 
@@ -60,6 +78,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
+
   width: 100%;
   height: 70px;
 
@@ -71,14 +90,17 @@ body {
   box-sizing: border-box;
 
   z-index: 1000;
-  background: white;
+
+  background-color: var(--background);
 }
 
 /* THE GREEN RITUAL */
 
 .navbar .logo {
   font-family: Didot, Georgia, serif;
-  color: #222;
+
+  color: var(--color);
+
   text-decoration: none;
   font-size: 30px;
 }
@@ -88,31 +110,22 @@ body {
 .menu {
   display: flex;
   gap: 35px;
+
   list-style: none;
+
   margin: 0;
   padding: 0;
 }
 
 .navbar .menu a {
   font-family: "Shuriken", sans-serif;
-  color: #222;
+
+  color: var(--color);
+
   text-decoration: none;
   font-size: 16px;
 }
 
 .navbar .menu a:hover {
   opacity: 0.5;
-}
-
-/* RITUAL PAGINA */
-
-.ritual-page {
-  background: white;
-  min-height: 100vh;
-}
-
-html {
-  color-scheme: light dark;
-  --color: light-dark (black, white);
-  --background: light-dark (white, black);
 }
