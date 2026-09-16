@@ -48,12 +48,3 @@ body {
   object-position: center;
   display: block;
 }
-
-.matchapoeder {
-  transform: rotate(90deg);
-
-  width: 100vh;
-  height: 100vw;
-
-  object-fit: cover;
-}
