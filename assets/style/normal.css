@@ -5,6 +5,19 @@
   font-style: normal;
 }
 
+/* UTOPIA RESPONSIVE TEKST */
+
+:root {
+  --step--2: clamp(0.5627rem, 0.9836rem + -0.4677vw, 0.8784rem);
+  --step--1: clamp(0.7956rem, 0.9844rem + -0.2098vw, 0.9372rem);
+  --step-0: clamp(1rem, 0.9583rem + 0.1852vw, 1.125rem);
+  --step-1: clamp(1.067rem, 0.8924rem + 0.7759vw, 1.5908rem);
+  --step-2: clamp(1.1385rem, 0.7682rem + 1.6457vw, 2.2493rem);
+  --step-3: clamp(1.2148rem, 0.5595rem + 2.9123vw, 3.1805rem);
+  --step-4: clamp(1.2962rem, 0.2291rem + 4.7424vw, 4.4973rem);
+  --step-5: clamp(1.383rem, -0.2757rem + 7.3721vw, 6.3592rem);
+}
+
 /* LIGHT & DARK MODE */
 
 html {
@@ -19,6 +32,7 @@ html {
 body {
   background-color: var(--background);
   color: var(--color);
+
   margin: 0;
   padding: 0;
 }
@@ -27,9 +41,12 @@ body {
 
 .hero {
   height: 100vh;
+
   overflow-y: auto;
+
   scroll-snap-type: y proximity;
   scroll-behavior: normal;
+
   scrollbar-width: none;
 }
 
@@ -45,6 +62,7 @@ body {
   height: 100vh;
 
   margin: 0;
+
   overflow: hidden;
 
   scroll-snap-align: start;
@@ -76,6 +94,7 @@ body {
 
 .navbar {
   position: fixed;
+
   top: 0;
   left: 0;
 
@@ -87,6 +106,7 @@ body {
   justify-content: space-between;
 
   padding: 0 40px;
+
   box-sizing: border-box;
 
   z-index: 1000;
@@ -102,13 +122,18 @@ body {
   color: var(--color);
 
   text-decoration: none;
-  font-size: 30px;
+
+  font-size: var(--step-2);
+
+  white-space: nowrap;
 }
 
 /* MENU RECHTS */
 
 .menu {
   display: flex;
+  align-items: center;
+
   gap: 35px;
 
   list-style: none;
@@ -123,8 +148,13 @@ body {
   color: var(--color);
 
   text-decoration: none;
-  font-size: 16px;
+
+  font-size: var(--step--1);
+
+  white-space: nowrap;
 }
+
+/* HOVER */
 
 .navbar .menu a:hover {
   opacity: 0.5;
