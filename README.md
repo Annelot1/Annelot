@@ -484,9 +484,7 @@ Leg uit wanneer een website 'lelijk' wordt
 3. Styling past niet bij elkaar 
 Hiervoor kun je mediacurse gebruiken. Denk bijv aan procenten. 
 
-
 3. Vertel welke volgende stap je neemt om je website responsive te maken.
-<img width="593" height="673" alt="Scherm­afbeelding 2026-09-16 om 19 38 29" src="https://github.com/user-attachments/assets/dfb6cfa9-3dec-475f-9ac3-c83b12b85be4" />
 
 Maak eerst de website mobile first en daarna grootte van laptop 
 
@@ -494,13 +492,12 @@ Maak eerst de website mobile first en daarna grootte van laptop
 
 We maken beide onze website mobile first en er zijn geen vage knoppen in het scherm. 
 
-Deep dive responsive grid + grid-areas:
-
 ### 16 Sep
 
 Vanochtend bij de presentatie van Diederik geweest over Gestalt en symmetrie. Interessant en ik probeer dit ook toe te passen op mijn website. 
 
 Ik heb de opdracht samen met Leonie gedaan: 
+
 <img width="593" height="673" alt="Scherm­afbeelding 2026-09-16 om 19 38 29" src="https://github.com/user-attachments/assets/9311a683-627d-4d61-bf17-9730b49ba6a0" />
 
 Check out:
@@ -517,3 +514,5 @@ Met vrijheid wordt bedoeld dat je binnen dat grid nog steeds kunt variëren. Een
 
 3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
 Ik neem mee dat ik meer tekst op de hoofdpagina moet zetten ipv afbeeldingen. Ik dacht zelf, omdat ik zo in het onderwerp zit, dat veel mensen wel de route weten van matcha maar dat is natuurlijk niet vanzelf sprekend. Ik moet mij daar mee op aanpassen en weten dat mijn doelgroep echt de mensen zijn die niet veel matcha afweten. 
+
+Deep dive responsive grid + grid-areas:
