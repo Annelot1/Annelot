@@ -1,7 +1,9 @@
 /* LETTERTYPE */
 @font-face {
   font-family: "Shuriken";
-  src: url("../type/The Last Shuriken.ttf") format("truetype");
+  src: url("../type/The-Last-Shuriken.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* ALGEMEEN */
