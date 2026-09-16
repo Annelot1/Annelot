@@ -1,8 +1,8 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 400;
+  font-family: "The Last Shuriken";
+  src: url("../type/The-Last-Shuriken.otf") format("opentype");
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -72,6 +72,7 @@ body {
   color: #222;
   text-decoration: none;
   font-size: 20px;
+  font-family: "The Last Shuriken", sans-serif;
 }
 
 .menu {
