@@ -1,31 +1,42 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="[jouw naam]" />
-    <meta name="color-scheme" content="dark light" />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>The Green Ritual</title>
-    <link rel="stylesheet" href="./assets/style/normal.css" />
+  <title>The Green Ritual</title>
 
-    <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-  </head>
+  <link rel="stylesheet" href="style/normal.css" />
 
-  <section class="hero">
-    <figure class="slide slide-1">
+  <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"
+    rel="stylesheet"
+  />
+</head>
+
+<body>
+  <section id="hero">
+    <div id="progress"></div>
+
+    <div class="controls">
+      <button class="button-up" onclick="hero.scrollBy(0, -window.innerHeight)">
+        <i class="ri-arrow-up-circle-line"></i>
+      </button>
+
+      <button
+        class="button-down"
+        onclick="hero.scrollBy(0, window.innerHeight)"
+      >
+        <i class="ri-arrow-down-circle-line"></i>
+      </button>
+    </div>
+
+    <!-- FOTO 1 -->
+    <figure>
+      <img src="assets/images/Matchapoeder.jpg" alt="Matcha poeder" />
+    </figure>
+
+    <!-- FOTO 2 -->
+    <figure>
       <img src="assets/images/Matchatuin.jpg" alt="Matcha tuin" />
     </figure>
-
-    <figure class="slide slide-2">
-      <img src="assets/images/Matchapoeder.jpg" alt="Matcha poeder" />
-      <figure class="slide">
-        <img
-          class="matchapoeder"
-          src="assets/images/Matchapoeder.jpg"
-          alt="Matcha poeder"
-        />
-      </figure>
-    </figure>
   </section>
-</html>
+</body>
