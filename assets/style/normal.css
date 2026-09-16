@@ -1,13 +1,13 @@
-/* HIER KOMT JOUW CSS */
+/* LETTERTYPE */
 @font-face {
-  font-family: "The Last Shuriken";
+  font-family: "japans";
   src: url("../type/The-Last-Shuriken.otf") format("opentype");
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 }
 
+/* ALGEMEEN */
 body {
-  font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
@@ -15,11 +15,14 @@ body {
   padding: 0;
 }
 
+/* AFBEELDINGEN */
 .hero {
   height: 100vh;
   overflow-y: auto;
+
   scroll-snap-type: y proximity;
   scroll-behavior: normal;
+
   scrollbar-width: none;
 }
 
@@ -30,10 +33,13 @@ body {
 .slide {
   position: sticky;
   top: 0;
+
   width: 100%;
   height: 100vh;
+
   margin: 0;
   overflow: hidden;
+
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
@@ -41,40 +47,51 @@ body {
 .slide img {
   width: 100%;
   height: 100%;
+
   object-fit: cover;
   object-position: center;
+
   display: block;
 }
 
 .slide-2 img {
   width: 100%;
   height: auto;
+
   object-fit: contain;
   display: block;
 }
 
+/* MENUBALK */
 .navbar {
   position: fixed;
   top: 0;
   left: 0;
+
   width: 100%;
   height: 70px;
+
   display: flex;
   align-items: center;
   justify-content: space-between;
+
   padding: 0 40px;
   box-sizing: border-box;
+
   z-index: 1000;
   background: white;
+
+  font-family: "japans", sans-serif;
 }
 
+/* LOGO */
 .logo {
   color: #222;
   text-decoration: none;
-  font-size: 20px;
-  font-family: "The Last Shuriken", sans-serif;
+  font-size: 30px;
 }
 
+/* MENU RECHTS */
 .menu {
   display: flex;
   gap: 35px;
@@ -84,6 +101,7 @@ body {
   color: #222;
   text-decoration: none;
   font-size: 16px;
+  font-family: "japans", sans-serif;
 }
 
 .menu a:hover {
