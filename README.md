@@ -1,4 +1,4 @@
-## Learning Log
+<img width="1312" height="1199" alt="Sam stickers" src="https://github.com/user-attachments/assets/fe32a87c-4331-42e2-b2cf-6ebe962542b3" />## Learning Log
 
 ### 31 aug - Kickoff
 Tijdens de kickoff heb ik mijn eigen domein naam gekocht: www.tuintjevanannelot.nl. Ik heb alles ingestalleerd om tijdens dit blok met mijn website aan de gang te kunnen gaan. 
@@ -523,6 +523,10 @@ Met code heb ik altijd dat ik er best tegenop kijk omdat ik dan denk waar moet i
 
 Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn website:
 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-14 om 15 03 15" src="https://github.com/user-attachments/assets/5613a0b1-498b-4a0d-a597-83253c83510b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 38" src="https://github.com/user-attachments/assets/c727294a-e74f-43fb-b60b-d42ed673e73b" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-14 om 15 03 15" src="https://github.com/user-attachments/assets/f15292e5-3b0e-4fd8-b471-bce224780ec5" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 45" src="https://github.com/user-attachments/assets/ae80c713-95ee-466d-9808-9cb5bf85fa70" /><img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 40" src="https://github.com/user-attachments/assets/e6d784c7-49ee-484c-8e11-89e05879273c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 42" src="https://github.com/user-attachments/assets/683f1e42-7958-483d-87b4-da8d25d2ccb8" />
 
 Deep dive responsive grid + grid-areas:
