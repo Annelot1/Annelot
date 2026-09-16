@@ -1,5 +1,3 @@
-<img width="1312" height="1199" alt="Sam stickers" src="https://github.com/user-attachments/assets/fe32a87c-4331-42e2-b2cf-6ebe962542b3" />## Learning Log
-
 ### 31 aug - Kickoff
 Tijdens de kickoff heb ik mijn eigen domein naam gekocht: www.tuintjevanannelot.nl. Ik heb alles ingestalleerd om tijdens dit blok met mijn website aan de gang te kunnen gaan. 
 Bij de checkout ben ik gekoppeld aan Bera, we hebben samen de vragen beantwoord: 
