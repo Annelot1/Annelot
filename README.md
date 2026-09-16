@@ -455,9 +455,29 @@ Vanochtend begonnen met de eerste Bi-Weekly Geek. Hier heb ik de gezamenlijke op
 <img width="1200" height="1600" alt="488f0083-546e-4c60-96cc-5d1308da7b8b" src="https://github.com/user-attachments/assets/5f12b1de-1372-43b4-bba1-17c1363cdb31" />
 <img width="1200" height="1600" alt="8ace64f2-ffb6-4d50-8aac-2f3cc372f851" src="https://github.com/user-attachments/assets/82cc4c88-1179-4d10-af7f-1a860b4c6b4e" />
 
-Check-out vragen:
+Samenvatting 5 Principles of Visual Design in UX:
 
-1. Leg uit wanneer een website 'lelijk' wordt
+Het artikel van Nielsen Norman Group beschrijft 5 belangrijke principes voor goed visueel ontwerp:
+Schaal: belangrijke onderdelen maak je groter, zodat ze sneller opvallen.
+Visuele hiërarchie: grootte, kleur, positie en ruimte sturen de kijker naar wat het belangrijkst is.
+Balans: verdeel elementen zo dat het ontwerp rustig en evenwichtig aanvoelt; dit hoeft niet symmetrisch te zijn.
+Contrast: verschillen in bijvoorbeeld kleur en grootte maken onderdelen herkenbaar en tekst beter leesbaar.
+Gestalt: mensen zien elementen die bij elkaar staan of op elkaar lijken automatisch als één groep.
+De kern is dat goed visueel ontwerp niet alleen mooi moet zijn, maar vooral helpt om een website duidelijk, begrijpelijk en makkelijk te gebruiken te maken.
+
+Samenvatting Design Consistency Guide UI and UX Best Practices:
+
+Dit artikel van UXPin gaat vooral over consistentie in UI- en UX-design.
+Consistent ontwerp: gebruik overal dezelfde kleuren, lettertypes, afstanden en stijlen.
+Voorspelbaarheid: knoppen en andere elementen moeten op verschillende pagina’s op dezelfde manier werken.
+Visuele hiërarchie: maak duidelijk wat het belangrijkst is door verschil in grootte, kleur en positie.
+Herkenbare patronen: gebruik bekende websitepatronen, zodat gebruikers snel begrijpen hoe iets werkt.
+Consistente teksten: gebruik steeds dezelfde woorden voor dezelfde functies.
+Design system: leg kleuren, typografie, knoppen en andere onderdelen vast zodat je ze overal hetzelfde kunt toepassen.
+
+Check-out vragen samen met Amy gedaan:
+
+Leg uit wanneer een website 'lelijk' wordt
 
 1. Als alle elementen niet responsief zijn 
 2. Als afbeeldingen heel groot worden weergegeven 
@@ -466,9 +486,34 @@ Hiervoor kun je mediacurse gebruiken. Denk bijv aan procenten.
 
 
 3. Vertel welke volgende stap je neemt om je website responsive te maken.
+<img width="593" height="673" alt="Scherm­afbeelding 2026-09-16 om 19 38 29" src="https://github.com/user-attachments/assets/dfb6cfa9-3dec-475f-9ac3-c83b12b85be4" />
 
 Maak eerst de website mobile first en daarna grootte van laptop 
 
 5. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 We maken beide onze website mobile first en er zijn geen vage knoppen in het scherm. 
+
+Deep dive responsive grid + grid-areas:
+
+### 16 Sep
+
+Vanochtend bij de presentatie van Diederik geweest over Gestalt en symmetrie. Interessant en ik probeer dit ook toe te passen op mijn website. 
+
+Ik heb de opdracht samen met Leonie gedaan: 
+<img width="593" height="673" alt="Scherm­afbeelding 2026-09-16 om 19 38 29" src="https://github.com/user-attachments/assets/9311a683-627d-4d61-bf17-9730b49ba6a0" />
+
+Check out:
+
+1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+Contrast: verschillen in bijvoorbeeld kleur, grootte of lettertype zorgen ervoor dat belangrijke elementen meer opvallen.
+Nabijheid (proximity): elementen die dicht bij elkaar staan, zien we automatisch als onderdelen die bij elkaar horen.
+Visuele hiërarchie: door bepaalde onderdelen groter, opvallender of hoger te plaatsen, laat je zien wat de gebruiker als eerste moet bekijken.
+
+2. Wat wordt bedoeld met vrijheid én vastigheid van een grid?
+Een grid is een systeem van denkbeeldige lijnen en kolommen waarop je elementen kunt plaatsen.
+Met vastigheid wordt bedoeld dat het grid zorgt voor structuur. Teksten, afbeeldingen en andere elementen worden bijvoorbeeld steeds op dezelfde lijnen uitgelijnd. Hierdoor ontstaat een rustig en samenhangend ontwerp.
+Met vrijheid wordt bedoeld dat je binnen dat grid nog steeds kunt variëren. Een afbeelding kan bijvoorbeeld 3 kolommen breed zijn en een andere afbeelding 6 kolommen. 
+
+3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+Ik neem mee dat ik meer tekst op de hoofdpagina moet zetten ipv afbeeldingen. Ik dacht zelf, omdat ik zo in het onderwerp zit, dat veel mensen wel de route weten van matcha maar dat is natuurlijk niet vanzelf sprekend. Ik moet mij daar mee op aanpassen en weten dat mijn doelgroep echt de mensen zijn die niet veel matcha afweten. 
