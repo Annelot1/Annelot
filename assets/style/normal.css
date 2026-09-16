@@ -110,3 +110,9 @@ body {
   background: white;
   min-height: 100vh;
 }
+
+html {
+  color-scheme: light dark;
+  --color: light-dark (black, white);
+  --background: light-dark (white, black);
+}
