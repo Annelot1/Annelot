@@ -496,7 +496,7 @@ We maken beide onze website mobile first en er zijn geen vage knoppen in het sch
 
 Vanochtend bij de presentatie van Diederik geweest over Gestalt en symmetrie. Interessant en ik probeer dit ook toe te passen op mijn website. 
 
-Ik heb de opdracht samen met Leonie gedaan: 
+Ik heb de opdrachten samen met Leonie gedaan: 
 
 <img width="593" height="673" alt="Scherm­afbeelding 2026-09-16 om 19 38 29" src="https://github.com/user-attachments/assets/9311a683-627d-4d61-bf17-9730b49ba6a0" />
 
@@ -514,5 +514,15 @@ Met vrijheid wordt bedoeld dat je binnen dat grid nog steeds kunt variëren. Een
 
 3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?
 Ik neem mee dat ik meer tekst op de hoofdpagina moet zetten ipv afbeeldingen. Ik dacht zelf, omdat ik zo in het onderwerp zit, dat veel mensen wel de route weten van matcha maar dat is natuurlijk niet vanzelf sprekend. Ik moet mij daar mee op aanpassen en weten dat mijn doelgroep echt de mensen zijn die niet veel matcha afweten. 
+
+Ik ben verder gegaan met het ontwerpen van mijn website. Ik had al gauw een idee dat ik een effect wilde met de foto's omdat ik de reis en geschiedenis wil laten zien van Matcha. Hierdoor krijg je op de hoofdpagina al een snel beeld van hoe het kort zit. Dankzij Maarten (de hulp student) kreeg ik codes die ik heel goed kan gebruiken, dus dat is top. 
+
+Omdat we voor vrijdag een basis af moeten hebben heb ik het ook voor mijzelf zo minimalistisch probeer te houden omdat ik ook nog niet goed weet wat ik met de inhoud en rest van de website wil doen. Dus wilde ik heel graag de hoofdpagina af hebben met de foto's effecten, titels, logo & menubalk die werkt om erop te klikken. Dit is allemaal gelukt en daar ben ik super blij mee. 
+
+Met code heb ik altijd dat ik er best tegenop kijk omdat ik dan denk waar moet ik beginnen... Maar als ik eenmaal bezig ben en een beetje zie dat er iets ontstaat, vind ik het steeds leuker worden. 
+
+Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn website:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-14 om 15 03 15" src="https://github.com/user-attachments/assets/f15292e5-3b0e-4fd8-b471-bce224780ec5" />
 
 Deep dive responsive grid + grid-areas:
