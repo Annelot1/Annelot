@@ -557,4 +557,14 @@ Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 45" src="https://github.com/user-attachments/assets/ae80c713-95ee-466d-9808-9cb5bf85fa70" /><img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 40" src="https://github.com/user-attachments/assets/e6d784c7-49ee-484c-8e11-89e05879273c" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 42" src="https://github.com/user-attachments/assets/683f1e42-7958-483d-87b4-da8d25d2ccb8" />
 
-Deep dive responsive grid + grid-areas:
+### 18 Sep 
+
+Vanochtend heb ik de retrospect gedaan en afgerond: 
+
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 10" src="https://github.com/user-attachments/assets/c2718b3f-ade5-4344-a3d5-342fbb8342cb" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 17" src="https://github.com/user-attachments/assets/32774604-b654-4d97-a0e2-6e70377ffb62" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 30" src="https://github.com/user-attachments/assets/7dd27892-89c7-424f-bdb7-da64e37e567c" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 21 45" src="https://github.com/user-attachments/assets/1f379b6d-ae1f-4d16-9b00-ce6473c5e533" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 21 55" src="https://github.com/user-attachments/assets/b4cf10aa-de95-41c7-ae28-0b6a249c3bec" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 02" src="https://github.com/user-attachments/assets/4bf6c4ed-90e3-4072-8f20-11a0403b0a50" />
+
