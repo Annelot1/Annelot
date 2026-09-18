@@ -688,27 +688,88 @@ Wat was het resultaat?
 
 Een website genaamd The Green Ritual, waarin ik de wereld en reis van matcha op een visuele manier laat zien.
 
-Wat weet ik nu (niet)? Ik begrijp HTML en CSS steeds beter en weet bijvoorbeeld hoe ik elementen kan positioneren en scroll-effecten kan maken. Animaties en complexere CSS wil ik nog verder leren.
-20. Wat wilde ik bereiken? Ik wilde een rustige, visuele en interactieve website maken waarbij de bezoeker meer leert over matcha.
-21. Wat heb ik gedaan? Ik heb onderzoek gedaan, inspiratie verzameld, mijn website ontworpen en vervolgens mijn ontwerp met HTML en CSS gebouwd en aangepast.
-22. Wat vond ik (niet) leuk? Ik vind het leuk dat ik met CSS mijn eigen vormgeving echt tot leven kan brengen. Soms vind ik het lastig wanneer iets technisch niet meteen doet wat ik wil.
-23. Voldoet het nog aan de eisen? Dat moet ik tijdens het maken blijven controleren. Ik moet bijvoorbeeld kijken naar de techniek, toegankelijkheid, verschillende schermgroottes en of mijn website voldoende webby blijft. 
+Wat weet ik nu (niet)?
+
+Ik begrijp HTML en CSS steeds beter en weet bijvoorbeeld hoe ik elementen kan positioneren en scroll-effecten kan maken. Animaties en complexere CSS wil ik nog verder leren.
+
+Wat wilde ik bereiken? 
+
+Ik wilde een rustige, visuele en interactieve website maken waarbij de bezoeker meer leert over matcha.
+
+Wat heb ik gedaan? 
+
+Ik heb onderzoek gedaan, inspiratie verzameld, mijn website ontworpen en vervolgens mijn ontwerp met HTML en CSS gebouwd en aangepast.
+Wat vond ik (niet) leuk? 
+
+Ik vind het leuk dat ik met CSS mijn eigen vormgeving echt tot leven kan brengen. Soms vind ik het lastig wanneer iets technisch niet meteen doet wat ik wil.
+
+Voldoet het nog aan de eisen? 
+
+Dat moet ik tijdens het maken blijven controleren. Ik moet bijvoorbeeld kijken naar de techniek, toegankelijkheid, verschillende schermgroottes en of mijn website voldoende webby blijft. 
 
 Checks voor mijn website
-24. Is mijn HTML nog valide? Ja mijn website is valide en doet het goed. 
-25. Klopt mijn HTML? Mijn HTML heeft een duidelijke structuur met onder andere een navigatie, sections, figures, afbeeldingen en headings.
-26. Gebruik ik de juiste elementen op de juiste plek? Voor mijn huidige homepage gebruik ik bijvoorbeeld <nav> voor mijn navigatie, <img> voor afbeeldingen en <h1> en <h2>voor mijn titels.
-27. Is mijn website goed te gebruiken met het toetsenbord? Dit moet ik testen door mijn website zonder muis te gebruiken en bijvoorbeeld met Tab door de links te gaan.
-28. Is mijn website te begrijpen met een screenreader? Dit moet ik nog testen. Een goede HTML-structuur en duidelijke teksten helpen hierbij.
-29. Zitten er alt-teksten op de afbeeldingen? Ja. Ik gebruik bijvoorbeeld alt="Matcha tuin", alt="Matcha poeder" en alt="Matcha kom".
-30. Is het contrast overal hoog genoeg? Bij de teksten over foto's gebruik ik witte tekst met een donkere text-shadow. Daardoor probeer ik de tekst duidelijk leesbaar te houden.
-31. Is mijn website nog wel adaptief? Gedeeltelijk. Ik gebruik bijvoorbeeld clamp() waardoor mijn tekstgroottes zich aanpassen aan de schermgrootte. Ik moet de volledige website nog op verschillende schermformaten controleren.
-32. Werkt mijn website met light- en darkmode? Ja, in mijn CSS gebruik ik color-scheme: light dark en light-dark() voor de algemene tekst- en achtergrondkleur.
-33. Wat gebeurt er met prefers-reduced-motion? Dit heb ik op dit moment nog niet toegevoegd. Dit kan ik nog verbeteren zodat mensen die minder beweging willen ook prettig gebruik kunnen maken van mijn website.
-34. Werkt mijn website op verschillende schermgroottes? Een aantal onderdelen past zich al aan, maar dit moet ik nog testen op bijvoorbeeld mobiel, tablet en desktop.
-35. Voldoet mijn website nog wel aan de wet? Ik moet onder andere controleren of ik mijn afbeeldingen en lettertypes volgens de juiste licenties mag gebruiken en rekening houden met privacy als ik persoonsgegevens verzamel.
-36. Overtreed ik de wet niet? Dat moet ik blijven controleren, vooral bij afbeeldingen, fonts, auteursrecht en eventuele persoonsgegevens.
-37. Zie ik mezelf nog wel terug in wat ik doe? Ja. Ik heb zelf voor matcha gekozen en de rustige, natuurlijke en visuele stijl past bij hoe ik het onderwerp wil presenteren.
-38. Is dit wat ik wil maken? Ja. Ik wil geen standaard informatieve website maken, maar een website waarbij de bezoeker matcha op een visuele en interactieve manier ontdekt.
-39. Is dit wat ik wil leren? Ja. Ik wil beter worden in HTML en CSS en vooral leren hoe ik vormgeving, interactie en beweging kan combineren in een website. 
+
+Is mijn HTML nog valide?
+
+Ja mijn website is valide en doet het goed. 
+
+Klopt mijn HTML? 
+
+Mijn HTML heeft een duidelijke structuur met onder andere een navigatie, sections, figures, afbeeldingen en headings.
+
+Gebruik ik de juiste elementen op de juiste plek? 
+
+Voor mijn huidige homepage gebruik ik bijvoorbeeld <nav> voor mijn navigatie, img voor afbeeldingen en h1 en h2 voor mijn titels.
+
+Is mijn website goed te gebruiken met het toetsenbord? 
+
+Dit moet ik testen door mijn website zonder muis te gebruiken en bijvoorbeeld met Tab door de links te gaan.
+
+Is mijn website te begrijpen met een screenreader?
+
+Dit moet ik nog testen. Een goede HTML-structuur en duidelijke teksten helpen hierbij.
+
+Zitten er alt-teksten op de afbeeldingen?
+
+Ja. Ik gebruik bijvoorbeeld alt="Matcha tuin", alt="Matcha poeder" en alt="Matcha kom".
+
+Is het contrast overal hoog genoeg?
+
+Bij de teksten over foto's gebruik ik witte tekst met een donkere text-shadow. Daardoor probeer ik de tekst duidelijk leesbaar te houden.
+
+Is mijn website nog wel adaptief? 
+
+Gedeeltelijk. Ik gebruik bijvoorbeeld clamp() waardoor mijn tekstgroottes zich aanpassen aan de schermgrootte. Ik moet de volledige website nog op verschillende schermformaten controleren.
+
+Werkt mijn website met light- en darkmode? 
+
+Ja, in mijn CSS gebruik ik color-scheme: light dark en light-dark() voor de algemene tekst- en achtergrondkleur.
+
+Wat gebeurt er met prefers-reduced-motion? 
+
+Dit heb ik op dit moment nog niet toegevoegd. Dit kan ik nog verbeteren zodat mensen die minder beweging willen ook prettig gebruik kunnen maken van mijn website.
+
+Werkt mijn website op verschillende schermgroottes? 
+
+Een aantal onderdelen past zich al aan, maar dit moet ik nog testen op bijvoorbeeld mobiel, tablet en desktop.
+
+Voldoet mijn website nog wel aan de wet?
+
+Ik moet onder andere controleren of ik mijn afbeeldingen en lettertypes volgens de juiste licenties mag gebruiken en rekening houden met privacy als ik persoonsgegevens verzamel.
+
+Overtreed ik de wet niet? 
+
+Dat moet ik blijven controleren, vooral bij afbeeldingen, fonts, auteursrecht en eventuele persoonsgegevens.
+
+Zie ik mezelf nog wel terug in wat ik doe? 
+
+Ja. Ik heb zelf voor matcha gekozen en de rustige, natuurlijke en visuele stijl past bij hoe ik het onderwerp wil presenteren.
+
+Is dit wat ik wil maken?
+
+Ja. Ik wil geen standaard informatieve website maken, maar een website waarbij de bezoeker matcha op een visuele en interactieve manier ontdekt.
+
+Is dit wat ik wil leren? 
+
+Ja. Ik wil beter worden in HTML en CSS en vooral leren hoe ik vormgeving, interactie en beweging kan combineren in een website. 
 
