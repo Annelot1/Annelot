@@ -609,3 +609,106 @@ Tussendoor heb ik mijn voortgangsgesprek gehad voor sprint 1. Dit ging super goe
    Box sizing voor elke border box gebruiken. 
    Voor de foto's heb ik veel code herhaald, alles bij elkaar zetten. Dit in de body zetten.
    Tekst en kleur net niet een goede combinatie. Maarten heeft mij een goede tip gegeven van een fijne website die dit duidelijk laat zien:             https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
+
+  Check-out vragen:
+
+Oriënteren en begrijpen
+  
+Waarom geven de docenten deze opdracht?
+
+Om te leren hoe ik een website zelf kan ontwerpen en bouwen met HTML en CSS. Ook leer ik nadenken over hoe ik het web op een creatieve en interactieve manier kan gebruiken.
+
+Welke technieken gebruik ik?
+
+Ik gebruik vooral HTML en CSS. HTML gebruik ik voor de inhoud en structuur van mijn website en CSS voor de vormgeving, positionering, responsive tekst en effecten.
+
+Wat zijn de randvoorwaarden?
+
+Mijn website moet onder andere werken met HTML en CSS, toegankelijk zijn, op verschillende schermgroottes werken en echt webby zijn. Ik moet dus niet alleen een statisch ontwerp maken. Ook moet het mobile responsive zijn. 
+
+Waar gebruik je HTML/CSS voor?
+
+HTML gebruik ik om de inhoud van mijn website te structureren, zoals mijn navigatie, titels, teksten en afbeeldingen. CSS gebruik ik om deze onderdelen vorm te geven en bijvoorbeeld scroll- en hovereffecten toe te voegen.
+
+Wat kan er allemaal met CSS?
+
+Met CSS kan ik kleuren, lettertypes, formaten en posities aanpassen. Ik kan ook layouts maken en interacties, transities en animaties toevoegen.
+
+Verbeelden en conceptualiseren
+
+Lukt het om verschillende ideeën te bedenken? 
+
+Ja. Ik heb verschillende ideeën onderzocht voor hoe ik matcha visueel kan laten zien. Uiteindelijk heb ik gekozen om de bezoeker mee te nemen door de reis van matcha.
+
+Lukt het om je ideeën te schetsen?
+
+Ja. Door mijn ideeën eerst visueel uit te werken, kan ik beter bepalen waar afbeeldingen, teksten en interactieve onderdelen moeten komen.
+
+Wat doet deze CSS-property? 
+
+Dat verschilt per property. Bijvoorbeeld position: sticky zorgt ervoor dat mijn afbeelding tijdens het scrollen tijdelijk op zijn plek blijft staan. text-shadow geeft mijn tekst een schaduw zodat deze beter leesbaar is.
+
+Welke content en welke HTML heb ik nodig? 
+
+Ik heb afbeeldingen, titels, teksten en een navigatie nodig. Daarvoor gebruik ik onder andere nav, section, figure, img, h1, h2 en p.
+
+Hoe kan ik dit soort content vormgeven?
+
+Met grote beeldvullende foto's, rustige typografie en tekst over de afbeeldingen. Ik wil dat de website aansluit bij de rustige en natuurlijke sfeer van matcha.
+
+Wat als ik hier nu eens 1000 invul? 
+
+Dan probeer ik bewust een extreme waarde uit. Hierdoor zie ik duidelijk wat een CSS-property doet en kan ik soms onverwachte ideeën of effecten ontdekken. 
+
+Prototypen en uitwerken
+
+Begrijpen bezoekers de site? 
+
+Dat kan ik testen door anderen mijn website te laten gebruiken en te kijken of ze begrijpen waar ze moeten klikken, scrollen en waar ze informatie kunnen vinden. Vasilis had ook gelijk de site door om te scrollen naar beneden. 
+
+Wat vindt de opdrachtgever ervan? 
+
+In dit geval zijn mijn docenten eigenlijk mijn opdrachtgever. Door mijn werkende website te laten zien, kunnen zij feedback geven op mijn ontwerp en uitwerking.
+
+Werkt dit wel? 
+
+Dat ontdek ik door mijn ideeën meteen in HTML en CSS uit te proberen. Soms ziet iets er in mijn hoofd goed uit, maar werkt het technisch niet zoals verwacht.
+
+Evalueren
+
+Wat wilde ik weten?
+
+Ik wilde weten hoe ik een interessante en webby website over matcha kon maken.
+
+Wat deed ik om daarachter te komen?
+
+Ik heb inspiratie onderzocht, verschillende ontwerpen bekeken, ideeën uitgeprobeerd en vervolgens zelf met HTML en CSS gebouwd.
+
+Wat was het resultaat?
+
+Een website genaamd The Green Ritual, waarin ik de wereld en reis van matcha op een visuele manier laat zien.
+
+Wat weet ik nu (niet)? Ik begrijp HTML en CSS steeds beter en weet bijvoorbeeld hoe ik elementen kan positioneren en scroll-effecten kan maken. Animaties en complexere CSS wil ik nog verder leren.
+20. Wat wilde ik bereiken? Ik wilde een rustige, visuele en interactieve website maken waarbij de bezoeker meer leert over matcha.
+21. Wat heb ik gedaan? Ik heb onderzoek gedaan, inspiratie verzameld, mijn website ontworpen en vervolgens mijn ontwerp met HTML en CSS gebouwd en aangepast.
+22. Wat vond ik (niet) leuk? Ik vind het leuk dat ik met CSS mijn eigen vormgeving echt tot leven kan brengen. Soms vind ik het lastig wanneer iets technisch niet meteen doet wat ik wil.
+23. Voldoet het nog aan de eisen? Dat moet ik tijdens het maken blijven controleren. Ik moet bijvoorbeeld kijken naar de techniek, toegankelijkheid, verschillende schermgroottes en of mijn website voldoende webby blijft. 
+
+Checks voor mijn website
+24. Is mijn HTML nog valide? Ja mijn website is valide en doet het goed. 
+25. Klopt mijn HTML? Mijn HTML heeft een duidelijke structuur met onder andere een navigatie, sections, figures, afbeeldingen en headings.
+26. Gebruik ik de juiste elementen op de juiste plek? Voor mijn huidige homepage gebruik ik bijvoorbeeld <nav> voor mijn navigatie, <img> voor afbeeldingen en <h1> en <h2>voor mijn titels.
+27. Is mijn website goed te gebruiken met het toetsenbord? Dit moet ik testen door mijn website zonder muis te gebruiken en bijvoorbeeld met Tab door de links te gaan.
+28. Is mijn website te begrijpen met een screenreader? Dit moet ik nog testen. Een goede HTML-structuur en duidelijke teksten helpen hierbij.
+29. Zitten er alt-teksten op de afbeeldingen? Ja. Ik gebruik bijvoorbeeld alt="Matcha tuin", alt="Matcha poeder" en alt="Matcha kom".
+30. Is het contrast overal hoog genoeg? Bij de teksten over foto's gebruik ik witte tekst met een donkere text-shadow. Daardoor probeer ik de tekst duidelijk leesbaar te houden.
+31. Is mijn website nog wel adaptief? Gedeeltelijk. Ik gebruik bijvoorbeeld clamp() waardoor mijn tekstgroottes zich aanpassen aan de schermgrootte. Ik moet de volledige website nog op verschillende schermformaten controleren.
+32. Werkt mijn website met light- en darkmode? Ja, in mijn CSS gebruik ik color-scheme: light dark en light-dark() voor de algemene tekst- en achtergrondkleur.
+33. Wat gebeurt er met prefers-reduced-motion? Dit heb ik op dit moment nog niet toegevoegd. Dit kan ik nog verbeteren zodat mensen die minder beweging willen ook prettig gebruik kunnen maken van mijn website.
+34. Werkt mijn website op verschillende schermgroottes? Een aantal onderdelen past zich al aan, maar dit moet ik nog testen op bijvoorbeeld mobiel, tablet en desktop.
+35. Voldoet mijn website nog wel aan de wet? Ik moet onder andere controleren of ik mijn afbeeldingen en lettertypes volgens de juiste licenties mag gebruiken en rekening houden met privacy als ik persoonsgegevens verzamel.
+36. Overtreed ik de wet niet? Dat moet ik blijven controleren, vooral bij afbeeldingen, fonts, auteursrecht en eventuele persoonsgegevens.
+37. Zie ik mezelf nog wel terug in wat ik doe? Ja. Ik heb zelf voor matcha gekozen en de rustige, natuurlijke en visuele stijl past bij hoe ik het onderwerp wil presenteren.
+38. Is dit wat ik wil maken? Ja. Ik wil geen standaard informatieve website maken, maar een website waarbij de bezoeker matcha op een visuele en interactieve manier ontdekt.
+39. Is dit wat ik wil leren? Ja. Ik wil beter worden in HTML en CSS en vooral leren hoe ik vormgeving, interactie en beweging kan combineren in een website. 
+
