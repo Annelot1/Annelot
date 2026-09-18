@@ -561,6 +561,32 @@ Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn 
 
 Vanochtend heb ik de retrospect gedaan en afgerond: 
 
+Welke tekening is het best? 
+
+Ik vind de tekening met het schip en de tekening met de titel in het midden het leukst. Ik vind dat de verschillen tussen titels en bij tekst heel leuk is toegevoegd. Ook de tekening met het schip vind ik origineel en zoiets inspireert mij ook om zo iets te maken.  
+
+Welke het minst? Probeer de keuzes te beargumenteren.
+
+Ik vind de tekening met alleen potloot getekend het minst mooist omdat er geen verdeling in tekst zit waardoor het heel eentonig lijkt. 
+
+Wat maakt een tekening goed en wat niet? 
+
+Do’s:
+
+1. Maak een duidelijk aandachtspunt – laat zien wat het belangrijkste is.
+2. Gebruik contrast – bijvoorbeeld licht/donker, groot/klein of dik/dun.
+3. Denk na over compositie – verdeel de onderdelen bewust over het vlak.
+4. Gebruik kleuren die bij elkaar passen – en bij de gewenste sfeer.
+5. Houd je stijl consistent – gebruik bijvoorbeeld dezelfde soort lijnen en vormen.
+
+Don’ts
+
+1. Maak niet alles even opvallend – dan weet je niet waar je moet kijken.
+2. Gebruik niet te veel verschillende kleuren – dit kan onrustig worden.
+3. Zet niet zomaar alles ergens neer – voorkom een rommelige compositie.
+4. Gebruik niet te veel details – alleen details die iets toevoegen.
+5. Kopieer niet klakkeloos – maak bewuste keuzes die passen bij jouw eigen idee.
+
 <img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 10" src="https://github.com/user-attachments/assets/c2718b3f-ade5-4344-a3d5-342fbb8342cb" />
 <img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 17" src="https://github.com/user-attachments/assets/32774604-b654-4d97-a0e2-6e70377ffb62" />
 <img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 30" src="https://github.com/user-attachments/assets/7dd27892-89c7-424f-bdb7-da64e37e567c" />
@@ -568,3 +594,16 @@ Vanochtend heb ik de retrospect gedaan en afgerond:
 <img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 21 55" src="https://github.com/user-attachments/assets/b4cf10aa-de95-41c7-ae28-0b6a249c3bec" />
 <img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 02" src="https://github.com/user-attachments/assets/4bf6c4ed-90e3-4072-8f20-11a0403b0a50" />
 
+Tussendoor heb ik mijn voortgangsgesprek gehad voor sprint 1. Dit ging super goed, ik had dit samen met Vasilis en Maarten. Vasilis vond mijn website heel clean en duidelijk. Mijn feedback is het volgende: 
+
+- Ik moet meer mijn stappen documenteren en laten zien wat mijn voortgang is. Niet alleen laten zien wat het eindproduct is maar ook de route er naar toe.
+
+- Mijn website moet meer responsive, grid-bases layout krijgen.
+
+- Feedback vanuit Maarten op mijn code:
+
+   Section moet naar main gezet worden.
+   Html color schema in root zetten.
+   Box sizing voor elke border box gebruiken. 
+   Voor de foto's heb ik veel code herhaald, alles bij elkaar zetten. Dit in de body zetten.
+   Tekst en kleur net niet een goede combinatie. Maarten heeft mij een goede tip gegeven van een fijne website die dit duidelijk laat zien:             https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
