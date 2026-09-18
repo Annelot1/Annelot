@@ -610,166 +610,167 @@ Tussendoor heb ik mijn voortgangsgesprek gehad voor sprint 1. Dit ging super goe
    Voor de foto's heb ik veel code herhaald, alles bij elkaar zetten. Dit in de body zetten.
    Tekst en kleur net niet een goede combinatie. Maarten heeft mij een goede tip gegeven van een fijne website die dit duidelijk laat zien:             https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
 
-  Check-out vragen:
+Check-out vragen:
 
 Oriënteren en begrijpen
   
-Waarom geven de docenten deze opdracht?
+- Waarom geven de docenten deze opdracht?
 
 Om te leren hoe ik een website zelf kan ontwerpen en bouwen met HTML en CSS. Ook leer ik nadenken over hoe ik het web op een creatieve en interactieve manier kan gebruiken.
 
-Welke technieken gebruik ik?
+- Welke technieken gebruik ik?
 
 Ik gebruik vooral HTML en CSS. HTML gebruik ik voor de inhoud en structuur van mijn website en CSS voor de vormgeving, positionering, responsive tekst en effecten.
 
-Wat zijn de randvoorwaarden?
+- Wat zijn de randvoorwaarden?
 
 Mijn website moet onder andere werken met HTML en CSS, toegankelijk zijn, op verschillende schermgroottes werken en echt webby zijn. Ik moet dus niet alleen een statisch ontwerp maken. Ook moet het mobile responsive zijn. 
 
-Waar gebruik je HTML/CSS voor?
+- Waar gebruik je HTML/CSS voor?
 
 HTML gebruik ik om de inhoud van mijn website te structureren, zoals mijn navigatie, titels, teksten en afbeeldingen. CSS gebruik ik om deze onderdelen vorm te geven en bijvoorbeeld scroll- en hovereffecten toe te voegen.
 
-Wat kan er allemaal met CSS?
+- Wat kan er allemaal met CSS?
 
 Met CSS kan ik kleuren, lettertypes, formaten en posities aanpassen. Ik kan ook layouts maken en interacties, transities en animaties toevoegen.
 
 Verbeelden en conceptualiseren
 
-Lukt het om verschillende ideeën te bedenken? 
+- Lukt het om verschillende ideeën te bedenken? 
 
 Ja. Ik heb verschillende ideeën onderzocht voor hoe ik matcha visueel kan laten zien. Uiteindelijk heb ik gekozen om de bezoeker mee te nemen door de reis van matcha.
 
-Lukt het om je ideeën te schetsen?
+- Lukt het om je ideeën te schetsen?
 
 Ja. Door mijn ideeën eerst visueel uit te werken, kan ik beter bepalen waar afbeeldingen, teksten en interactieve onderdelen moeten komen.
 
-Wat doet deze CSS-property? 
+- Wat doet deze CSS-property? 
 
 Dat verschilt per property. Bijvoorbeeld position: sticky zorgt ervoor dat mijn afbeelding tijdens het scrollen tijdelijk op zijn plek blijft staan. text-shadow geeft mijn tekst een schaduw zodat deze beter leesbaar is.
 
-Welke content en welke HTML heb ik nodig? 
+- Welke content en welke HTML heb ik nodig? 
 
 Ik heb afbeeldingen, titels, teksten en een navigatie nodig. Daarvoor gebruik ik onder andere nav, section, figure, img, h1, h2 en p.
 
-Hoe kan ik dit soort content vormgeven?
+- Hoe kan ik dit soort content vormgeven?
 
 Met grote beeldvullende foto's, rustige typografie en tekst over de afbeeldingen. Ik wil dat de website aansluit bij de rustige en natuurlijke sfeer van matcha.
 
-Wat als ik hier nu eens 1000 invul? 
+- Wat als ik hier nu eens 1000 invul? 
 
 Dan probeer ik bewust een extreme waarde uit. Hierdoor zie ik duidelijk wat een CSS-property doet en kan ik soms onverwachte ideeën of effecten ontdekken. 
 
 Prototypen en uitwerken
 
-Begrijpen bezoekers de site? 
+- Begrijpen bezoekers de site? 
 
 Dat kan ik testen door anderen mijn website te laten gebruiken en te kijken of ze begrijpen waar ze moeten klikken, scrollen en waar ze informatie kunnen vinden. Vasilis had ook gelijk de site door om te scrollen naar beneden. 
 
-Wat vindt de opdrachtgever ervan? 
+- Wat vindt de opdrachtgever ervan? 
 
 In dit geval zijn mijn docenten eigenlijk mijn opdrachtgever. Door mijn werkende website te laten zien, kunnen zij feedback geven op mijn ontwerp en uitwerking.
 
-Werkt dit wel? 
+- Werkt dit wel? 
 
 Dat ontdek ik door mijn ideeën meteen in HTML en CSS uit te proberen. Soms ziet iets er in mijn hoofd goed uit, maar werkt het technisch niet zoals verwacht.
 
 Evalueren
 
-Wat wilde ik weten?
+- Wat wilde ik weten?
 
 Ik wilde weten hoe ik een interessante en webby website over matcha kon maken.
 
-Wat deed ik om daarachter te komen?
+- Wat deed ik om daarachter te komen?
 
 Ik heb inspiratie onderzocht, verschillende ontwerpen bekeken, ideeën uitgeprobeerd en vervolgens zelf met HTML en CSS gebouwd.
 
-Wat was het resultaat?
+- Wat was het resultaat?
 
 Een website genaamd The Green Ritual, waarin ik de wereld en reis van matcha op een visuele manier laat zien.
 
-Wat weet ik nu (niet)?
+- Wat weet ik nu (niet)?
 
 Ik begrijp HTML en CSS steeds beter en weet bijvoorbeeld hoe ik elementen kan positioneren en scroll-effecten kan maken. Animaties en complexere CSS wil ik nog verder leren.
 
-Wat wilde ik bereiken? 
+- Wat wilde ik bereiken? 
 
 Ik wilde een rustige, visuele en interactieve website maken waarbij de bezoeker meer leert over matcha.
 
-Wat heb ik gedaan? 
+- Wat heb ik gedaan? 
 
 Ik heb onderzoek gedaan, inspiratie verzameld, mijn website ontworpen en vervolgens mijn ontwerp met HTML en CSS gebouwd en aangepast.
-Wat vond ik (niet) leuk? 
+
+- Wat vond ik (niet) leuk? 
 
 Ik vind het leuk dat ik met CSS mijn eigen vormgeving echt tot leven kan brengen. Soms vind ik het lastig wanneer iets technisch niet meteen doet wat ik wil.
 
-Voldoet het nog aan de eisen? 
+- Voldoet het nog aan de eisen? 
 
 Dat moet ik tijdens het maken blijven controleren. Ik moet bijvoorbeeld kijken naar de techniek, toegankelijkheid, verschillende schermgroottes en of mijn website voldoende webby blijft. 
 
 Checks voor mijn website
 
-Is mijn HTML nog valide?
+- Is mijn HTML nog valide?
 
 Ja mijn website is valide en doet het goed. 
 
-Klopt mijn HTML? 
+- Klopt mijn HTML? 
 
 Mijn HTML heeft een duidelijke structuur met onder andere een navigatie, sections, figures, afbeeldingen en headings.
 
-Gebruik ik de juiste elementen op de juiste plek? 
+- Gebruik ik de juiste elementen op de juiste plek? 
 
 Voor mijn huidige homepage gebruik ik bijvoorbeeld <nav> voor mijn navigatie, img voor afbeeldingen en h1 en h2 voor mijn titels.
 
-Is mijn website goed te gebruiken met het toetsenbord? 
+- Is mijn website goed te gebruiken met het toetsenbord? 
 
 Dit moet ik testen door mijn website zonder muis te gebruiken en bijvoorbeeld met Tab door de links te gaan.
 
-Is mijn website te begrijpen met een screenreader?
+- Is mijn website te begrijpen met een screenreader?
 
 Dit moet ik nog testen. Een goede HTML-structuur en duidelijke teksten helpen hierbij.
 
-Zitten er alt-teksten op de afbeeldingen?
+- Zitten er alt-teksten op de afbeeldingen?
 
 Ja. Ik gebruik bijvoorbeeld alt="Matcha tuin", alt="Matcha poeder" en alt="Matcha kom".
 
-Is het contrast overal hoog genoeg?
+- Is het contrast overal hoog genoeg?
 
 Bij de teksten over foto's gebruik ik witte tekst met een donkere text-shadow. Daardoor probeer ik de tekst duidelijk leesbaar te houden.
 
-Is mijn website nog wel adaptief? 
+- Is mijn website nog wel adaptief? 
 
 Gedeeltelijk. Ik gebruik bijvoorbeeld clamp() waardoor mijn tekstgroottes zich aanpassen aan de schermgrootte. Ik moet de volledige website nog op verschillende schermformaten controleren.
 
-Werkt mijn website met light- en darkmode? 
+- Werkt mijn website met light- en darkmode? 
 
 Ja, in mijn CSS gebruik ik color-scheme: light dark en light-dark() voor de algemene tekst- en achtergrondkleur.
 
-Wat gebeurt er met prefers-reduced-motion? 
+- Wat gebeurt er met prefers-reduced-motion? 
 
 Dit heb ik op dit moment nog niet toegevoegd. Dit kan ik nog verbeteren zodat mensen die minder beweging willen ook prettig gebruik kunnen maken van mijn website.
 
-Werkt mijn website op verschillende schermgroottes? 
+- Werkt mijn website op verschillende schermgroottes? 
 
 Een aantal onderdelen past zich al aan, maar dit moet ik nog testen op bijvoorbeeld mobiel, tablet en desktop.
 
-Voldoet mijn website nog wel aan de wet?
+- Voldoet mijn website nog wel aan de wet?
 
 Ik moet onder andere controleren of ik mijn afbeeldingen en lettertypes volgens de juiste licenties mag gebruiken en rekening houden met privacy als ik persoonsgegevens verzamel.
 
-Overtreed ik de wet niet? 
+- Overtreed ik de wet niet? 
 
 Dat moet ik blijven controleren, vooral bij afbeeldingen, fonts, auteursrecht en eventuele persoonsgegevens.
 
-Zie ik mezelf nog wel terug in wat ik doe? 
+- Zie ik mezelf nog wel terug in wat ik doe? 
 
 Ja. Ik heb zelf voor matcha gekozen en de rustige, natuurlijke en visuele stijl past bij hoe ik het onderwerp wil presenteren.
 
-Is dit wat ik wil maken?
+- Is dit wat ik wil maken?
 
 Ja. Ik wil geen standaard informatieve website maken, maar een website waarbij de bezoeker matcha op een visuele en interactieve manier ontdekt.
 
-Is dit wat ik wil leren? 
+- Is dit wat ik wil leren? 
 
 Ja. Ik wil beter worden in HTML en CSS en vooral leren hoe ik vormgeving, interactie en beweging kan combineren in een website. 
 
