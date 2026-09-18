@@ -1,5 +1,32 @@
 ## Bronnen
 
+https://www.japan.travel/en/guide/tea-ceremony
+
+https://www.japan.travel/en/guide/japans-cultural-heritage
+
+https://www.marukyu-koyamaen.co.jp/english/about-tea/enjoy-matcha.html
+
+https://naokimatcha.com/blogs/articles/ceremonial-grade-matcha
+
+https://www.health.harvard.edu/healthy-aging-and-longevity/matcha-a-look-at-possible-health-benefits
+
+https://www.japan.travel/en/guide/japanese-superfoods
+
+https://www.japan.travel/en/experiences-in-japan
+
+https://matcha.com/blogs/news/the-history-of-matcha
+
+https://naokimatcha.com/pages/our-story
+
+https://de.pinterest.com/pin/763149099404208457/
+
+https://nl.pinterest.com/pin/41869471531942793/
+
+https://nl.pinterest.com/pin/50735933300144578/
+
+https://nl.pinterest.com/pin/140806234238616/
+
+https://www.1001fonts.com/japanese-fonts.html
 
 ### 31 aug - Kickoff
 Tijdens de kickoff heb ik mijn eigen domein naam gekocht: www.tuintjevanannelot.nl. Ik heb alles ingestalleerd om tijdens dit blok met mijn website aan de gang te kunnen gaan. 
