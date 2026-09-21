@@ -25,7 +25,7 @@ HTML landmark role elements zijn onderdelen in HTML die aangeven welke functie e
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
 
 Heading elementen zijn koppen en tussenkoppen in HTML. Ze lopen van h1 tot en met h6, waarbij h1 de belangrijkste kop is en <h6> de minst belangrijke.
-Deze headings moeten logisch genest worden. Dat betekent dat je ze in de juiste volgorde gebruikt. Je begint met een h1 voor de hoofdtitel. Onderwerpen daaronder krijgen een h2. 
+Deze headings moeten logisch genest worden. 
 
 ## Sprint 1 
 
