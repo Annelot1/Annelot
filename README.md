@@ -11,6 +11,11 @@ Vandaag een presentatie gekregen van Justus en Vasilis over html. Ik vond het we
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 27 39" src="https://github.com/user-attachments/assets/8f60da53-cc43-42a4-8736-3aa974d1b02d" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 27 42" src="https://github.com/user-attachments/assets/1adb1c67-22d0-4564-acc1-35a19bc6efdd" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 32 11" src="https://github.com/user-attachments/assets/b46f31ad-3767-4602-a990-a3133d56d06e" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 14 01" src="https://github.com/user-attachments/assets/6d78a57b-de37-445b-ba9b-36c4cc74aa05" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 14 30" src="https://github.com/user-attachments/assets/ca5cdbd3-225b-4f24-b60a-c27c7478ee1d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 14 57" src="https://github.com/user-attachments/assets/bc48f5be-5905-49b5-9602-61a7f1212182" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 15 31" src="https://github.com/user-attachments/assets/578e32ef-9453-4f32-be19-0f60fef4555b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 16 05" src="https://github.com/user-attachments/assets/af48a68b-789b-4d3e-83a1-d35040cc6419" />
 
 Hierna heb ik met Julia de opdracht gemaakt over Cookies:
 
@@ -25,6 +30,11 @@ HTML landmark role elements zijn onderdelen in HTML die aangeven welke functie e
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
 
 Heading elementen zijn koppen en tussenkoppen in HTML. Ze lopen van h1 tot en met h6, waarbij h1 de belangrijkste kop is en h6 de minst belangrijke. Deze headings moeten logisch genest worden. Dat betekent dat je ze in de juiste volgorde gebruikt. Je begint met een h1 voor de hoofdtitel. Onderwerpen daaronder krijgen een h2. 
+
+3. Hoe ga je met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+Voor dit college accepteerde ik cookies eigenlijk vaak zonder er echt bij na te denken. Ik wilde vooral snel verder op de website en koos daarom meestal voor ‘alles accepteren’. Ik stond niet echt stil bij welke gegevens er verzameld werden en waarvoor deze werden gebruikt.
+Na het volgen van dit college ben ik me bewuster geworden van mijn privacy en van de manier waarop websites mij proberen te sturen in mijn keuze. Ik kijk nu beter naar de verschillende opties en kies liever alleen voor noodzakelijke cookies. Ook let ik meer op hoe een cookiemelding is ontworpen. Als ‘alles accepteren’ heel opvallend is en weigeren moeilijk te vinden is, herken ik dit nu sneller als een manier om mijn keuze te beïnvloeden.
 
 ## Huiswerk voor woensdag:
 
