@@ -41,6 +41,15 @@ Dark patterns zijn ontwerpkeuzes in websites en apps die gebruikers bewust sture
 Deceptive patterns zijn ontwerp keuzes die gebruikers misleiden of sturen om iets te doen wat vooral voordelig is voor het bedrijf, maar niet per se voor de gebruiker. Denk aan het moeilijk maken om een abonnement op te zeggen, automatisch extra opties aanvinken of iemand een schuldgevoel geven wanneer diegene iets weigert.
 Het verschil met gewone overtuigende UX is dat een deceptive pattern de gebruiker misleidt of belemmert. Een ontwerp mag iemand best overtuigen, zolang de informatie eerlijk is en de gebruiker vrij en duidelijk kan kiezen. Voor UX-designers is het daarom belangrijk om ontwerpen kritisch te controleren: kan de gebruiker makkelijk alle keuzes vinden, is alle informatie duidelijk en wordt niemand onder druk gezet? Goede UX probeert zowel de doelen van het bedrijf als de belangen van de gebruiker te respecteren.
 
+Deep dive Buttons, states en selectors (Vasilis) 
+
+Ik heb eerst de 2 artikelen gelezen en samengevat:
+
+Pseudo-classes in CSS gebruik je om een element een andere stijl te geven wanneer het zich in een bepaalde situatie of status bevindt. Je schrijft een pseudo-class met een dubbele punt : achter het element. Een bekend voorbeeld is hover. Hiermee verander je bijvoorbeeld een knop zodra iemand er met de muis overheen gaat. Andere voorbeelden zijn focus, wanneer bijvoorbeeld een invoerveld geselecteerd is, checked voor een aangevinkte checkbox en first-child om het eerste element binnen een groep te selecteren.
+
+User interaction in CSS gaat over het geven van visuele feedback wanneer een gebruiker iets doet op een website. Bijvoorbeeld wanneer iemand over een knop beweegt, op een link klikt of een invoerveld selecteert. Zonder zulke feedback kan het onduidelijk zijn of iets klikbaar is of dat een actie gelukt is.
+Hiervoor kun je pseudo-classes gebruiken, zoals hover, focus-visible, checked, valid en invalid. Zo kun je bijvoorbeeld laten zien of een formulier correct is ingevuld of welk element iemand met het toetsenbord heeft geselecteerd. Dit maakt een website niet alleen duidelijker, maar ook toegankelijker.
+
 ## Sprint 1 
 
 ## Bronnen
