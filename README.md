@@ -6,6 +6,16 @@ https://nl.wikipedia.org/wiki/Matcha
 
 ### Ma 21 sep 
 
+Vandaag een presentatie gekregen van Justus en Vasilis over html. Ik vond het wel snel gaan maar later heeft Justus zijn code gedeeld gelukkig dus kon ik het nog terug krijgen. Hieronder wat screenshots met mijn wijzigingen: 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 27 39" src="https://github.com/user-attachments/assets/8f60da53-cc43-42a4-8736-3aa974d1b02d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 27 42" src="https://github.com/user-attachments/assets/1adb1c67-22d0-4564-acc1-35a19bc6efdd" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 32 11" src="https://github.com/user-attachments/assets/b46f31ad-3767-4602-a990-a3133d56d06e" />
+
+Hierna heb ik met Julia de opdracht gemaakt over Cookies:
+
+<img width="996" height="728" alt="Scherm­afbeelding 2026-09-21 om 14 38 16" src="https://github.com/user-attachments/assets/4968ab89-46d9-40b0-a6dc-70382d3f29da" />
+
 ## Sprint 1 
 
 ## Bronnen
