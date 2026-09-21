@@ -22,6 +22,9 @@ Check-out:
 
 HTML landmark role elements zijn onderdelen in HTML die aangeven welke functie een bepaald gedeelte van een website heeft. Ze zorgen ervoor dat een webpagina een duidelijke structuur krijgt. Zo geeft header bijvoorbeeld de bovenkant van een pagina aan, nav het navigatiemenu, main de belangrijkste inhoud en footer de onderkant van de pagina. Dit is vooral belangrijk voor de toegankelijkheid van een website, omdat screenreaders door deze landmarks beter begrijpen hoe de pagina is opgebouwd. Hierdoor kunnen gebruikers makkelijker door de verschillende onderdelen van een website navigeren.
 
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Heading elementen zijn koppen en tussenkoppen in HTML. Ze lopen van h1 tot en met h6, waarbij h1 de belangrijkste kop is en <h6> de minst belangrijke.
 
 ## Sprint 1 
 
