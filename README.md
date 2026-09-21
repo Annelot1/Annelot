@@ -38,7 +38,7 @@ Dark patterns zijn ontwerpkeuzes in websites en apps die gebruikers bewust sture
 
 3. Samenvatting Deceptive Patterns in UX: How to Recognize and Avoid Them:
 
-Deceptive patterns zijn ontwerpkeuzes die gebruikers misleiden of sturen om iets te doen wat vooral voordelig is voor het bedrijf, maar niet per se voor de gebruiker. Denk aan het moeilijk maken om een abonnement op te zeggen, automatisch extra opties aanvinken of iemand een schuldgevoel geven wanneer diegene iets weigert.
+Deceptive patterns zijn ontwerp keuzes die gebruikers misleiden of sturen om iets te doen wat vooral voordelig is voor het bedrijf, maar niet per se voor de gebruiker. Denk aan het moeilijk maken om een abonnement op te zeggen, automatisch extra opties aanvinken of iemand een schuldgevoel geven wanneer diegene iets weigert.
 Het verschil met gewone overtuigende UX is dat een deceptive pattern de gebruiker misleidt of belemmert. Een ontwerp mag iemand best overtuigen, zolang de informatie eerlijk is en de gebruiker vrij en duidelijk kan kiezen. Voor UX-designers is het daarom belangrijk om ontwerpen kritisch te controleren: kan de gebruiker makkelijk alle keuzes vinden, is alle informatie duidelijk en wordt niemand onder druk gezet? Goede UX probeert zowel de doelen van het bedrijf als de belangen van de gebruiker te respecteren.
 
 ## Sprint 1 
