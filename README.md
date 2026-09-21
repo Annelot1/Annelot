@@ -27,20 +27,6 @@ HTML landmark role elements zijn onderdelen in HTML die aangeven welke functie e
 Heading elementen zijn koppen en tussenkoppen in HTML. Ze lopen van h1 tot en met h6, waarbij h1 de belangrijkste kop is en <h6> de minst belangrijke.
 Deze headings moeten logisch genest worden. Dat betekent dat je ze in de juiste volgorde gebruikt. Je begint met een h1 voor de hoofdtitel. Onderwerpen daaronder krijgen een h2. 
 
-Huiswerk voor woensdag:
-
-1. Samenvatting video Microinteractions Design with Details:
-   
-Micro-interactions zijn kleine momenten waarop een gebruiker interactie heeft met een website of app. Denk bijvoorbeeld aan een knop die verandert wanneer je erop klikt, een melding nadat je iets hebt opgeslagen of een animatie wanneer je een actie uitvoert. Deze kleine details geven de gebruiker feedback en laten zien wat er gebeurt. Volgens Saffer kunnen juist deze kleine interacties ervoor zorgen dat een product duidelijker, prettiger en leuker in gebruik wordt. Het gaat dus niet alleen om hoe een ontwerp eruitziet, maar vooral om hoe het reageert op de gebruiker.
-
-2. Samenvatting artikel What are dark patterns in UX?:
-Dark patterns zijn ontwerpkeuzes in websites en apps die gebruikers bewust sturen of misleiden om iets te doen wat vooral voordelig is voor het bedrijf. Bijvoorbeeld onbewust een abonnement afsluiten, extra kosten betalen, persoonlijke gegevens delen of moeite hebben om een abonnement op te zeggen. Voorbeelden zijn verborgen kosten bij het afrekenen, een opvallende knop die je richting een bepaalde keuze stuurt, automatisch verlengde proefabonnementen en confirm-shaming, waarbij je je bijna schuldig voelt als je iets weigert. Ook FOMO zoals “Nog maar 2 beschikbaar!” kan als dark pattern worden ingezet om iemand onder druk te zetten. Voor UX-designers is het daarom belangrijk om transparant en eerlijk te ontwerpen. De gebruiker moet gemakkelijk kunnen begrijpen wat er gebeurt en vrij een keuze kunnen maken. Goede UX draait om de behoeften van de gebruiker, terwijl dark patterns vooral het belang van het bedrijf dienen.
-
-3. Samenvatting Deceptive Patterns in UX: How to Recognize and Avoid Them:
-
-Deceptive patterns zijn ontwerp keuzes die gebruikers misleiden of sturen om iets te doen wat vooral voordelig is voor het bedrijf, maar niet per se voor de gebruiker. Denk aan het moeilijk maken om een abonnement op te zeggen, automatisch extra opties aanvinken of iemand een schuldgevoel geven wanneer diegene iets weigert.
-Het verschil met gewone overtuigende UX is dat een deceptive pattern de gebruiker misleidt of belemmert. Een ontwerp mag iemand best overtuigen, zolang de informatie eerlijk is en de gebruiker vrij en duidelijk kan kiezen. Voor UX-designers is het daarom belangrijk om ontwerpen kritisch te controleren: kan de gebruiker makkelijk alle keuzes vinden, is alle informatie duidelijk en wordt niemand onder druk gezet? Goede UX probeert zowel de doelen van het bedrijf als de belangen van de gebruiker te respecteren.
-
 ## Sprint 1 
 
 ## Bronnen
