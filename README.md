@@ -50,6 +50,9 @@ Pseudo-classes in CSS gebruik je om een element een andere stijl te geven wannee
 User interaction in CSS gaat over het geven van visuele feedback wanneer een gebruiker iets doet op een website. Bijvoorbeeld wanneer iemand over een knop beweegt, op een link klikt of een invoerveld selecteert. Zonder zulke feedback kan het onduidelijk zijn of iets klikbaar is of dat een actie gelukt is.
 Hiervoor kun je pseudo-classes gebruiken, zoals hover, focus-visible, checked, valid en invalid. Zo kun je bijvoorbeeld laten zien of een formulier correct is ingevuld of welk element iemand met het toetsenbord heeft geselecteerd. Dit maakt een website niet alleen duidelijker, maar ook toegankelijker.
 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 05 39" src="https://github.com/user-attachments/assets/0cc796d7-0f60-4d1a-b90b-f67d8c17ab77" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 08 07" src="https://github.com/user-attachments/assets/4311cccb-b4bb-460f-be88-3873b371aacf" />
+
 ## Sprint 1 
 
 ## Bronnen
