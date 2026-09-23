@@ -14,7 +14,7 @@ Vanochtend een college gehad van Hans de Zwart over privacy. Dit heeft mij wel a
 
 We hebben samen in min groepje Gina Tricot website uitgekozen. Hier komen wij vaak om te shoppen :)
 
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-23 om 10 52 23" src="https://github.com/user-attachments/assets/53d572cb-03f0-4923-be36-14779e91aaa4" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-23 om 10 52 23" src="https://github.com/user-attachments/assets/19b2dd69-bca8-4ad0-8e70-21506a254a19" />
 
 2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
 
