@@ -10,15 +10,67 @@ https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?u
 
 Vanochtend een college gehad van Hans de Zwart over privacy. Dit heeft mij wel aan het denken gezet over mijn eigen privacy en hoe ik hier mee om ga. 
 
+Hoe teken je wireflows opdracht:
+
+<img width="607" height="450" alt="Scherm­afbeelding 2026-09-23 om 11 47 48" src="https://github.com/user-attachments/assets/06c3212a-8db6-4ddf-8276-ee0198363ab2" />
+
+Dark Pattern opdracht:
+
 1. Jullie hebben voor het huiswerk een aantal bronnen over dark-patterns gelezen. Kies in een groepje van vier een website die jullie vaak gebruiken en maak wireframes en een wire flow van de manier van werken.
 
 We hebben samen in min groepje Gina Tricot website uitgekozen. Hier komen wij vaak om te shoppen :)
 
+<img width="607" height="450" alt="Scherm­afbeelding 2026-09-23 om 11 47 05" src="https://github.com/user-attachments/assets/9f755276-ba71-41fd-852f-74e67effbff0" />
+
 2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
 
 We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
-
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."
+
+Human Consent Component opdracht:
+
+1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
+
+Op mijn digital garden verzamel ik zelf weinig gegevens. Toch kunnen diensten zoals Github Pages en het digitaaltuintje-component technische gegevens verwerken. Zoals IP-adres, browsers en apparaattype. Ook externe video's, lettertypes of andere onderdelen kunnen gegevens verzamelen. 
+
+2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+
+Dit kan met een duidelijke privacyverklaring en wanneer nodig een cookiebanner. Hierin leg je kort uit welke gegevens worden verwerkt, waarom en door welke diensten. 
+
+3. Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+
+   1. Cookiebanner
+   2. Cookiepop-up
+   3. Checkbox
+   4. Aan/uit schakelaar
+   5. Cookievoorkeuren kiezen
+   6. Toestemming bij een formulier
+   7. Toestemming voor externe video's
+   8. Socialmedia-content activeren
+   9. Locatietoestemming
+   10. Toestemming voor notificaties 
+
+4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
+
+Ik zou onderaan mijn website een kleine, rustige cookiemelding plaatsen die bij mijn vormgeving past. Bijvoorbeeld met alles accepteren, alleen noodzakelijk en zelf kiezen. Zo blijft de website rustig, maar is het voor bezoekers wel duidelijk wat er met hun gegevens gebeurt.
+
+Check-out:
+
+1. Wat is een wireflow en wat heb je er aan?
+
+Een wireflow is een combinatie van wireframes en een flowchart. Je laat zien welke schermen een gebruiker doorloopt en welke stappen diegene neemt. Hierdoor kan je vooraf controleren of de navigatie logisch en gebruiksvriendelijk is. 
+
+2. Wat zijn dark UX patterns? Geef drie voorbeelden.
+
+   1. Verborgen kosten, extra kosten verschijnen pas aan het einde van een bestelling.
+
+   2. Moeilijk afmelden, aanmelden is makkelijk maar een abbonement opzeggen word bewust lastig gemaakt.
+
+   3. Misleidende knoppen, accepteren is heel opvallend en weigeren is klein of verstopt. 
+
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
+Als ontwerper moet je zorgen dat de gebruiker begrijpt waarvoor toestemming word gevraagd en echt vrij kan kiezen. Gebruik eenvoudige taal, maak accepteren en weigeren duidelijk zichtbaar en probeer de gebruiker niet naar een keuze te sturen. Ook moet toestemming eenvoudig weer ingetrokken kunnen worden. 
 
 ### Ma 21 sep 
 
