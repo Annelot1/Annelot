@@ -12,11 +12,7 @@ Vanochtend een college gehad van Hans de Zwart over privacy. Dit heeft mij wel a
 
 1. Jullie hebben voor het huiswerk een aantal bronnen over dark-patterns gelezen. Kies in een groepje van vier een website die jullie vaak gebruiken en maak wireframes en een wire flow van de manier van werken.
 
-<img width="2806" height="3820" alt="7e35bd34-4172-4684-8ebf-3e7080ef8bbc" src="https://github.com/user-attachments/assets/4f2b88a5-1200-4900-81e4-c1e97a68182f" />
-
 We hebben samen in min groepje Gina Tricot website uitgekozen. Hier komen wij vaak om te shoppen :)
-
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-23 om 10 52 23" src="https://github.com/user-attachments/assets/19b2dd69-bca8-4ad0-8e70-21506a254a19" />
 
 2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
 
