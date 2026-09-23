@@ -39,16 +39,16 @@ Dit kan met een duidelijke privacyverklaring en wanneer nodig een cookiebanner. 
 
 3. Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
 
-   1. Cookiebanner
-   2. Cookiepop-up
-   3. Checkbox
-   4. Aan/uit schakelaar
-   5. Cookievoorkeuren kiezen
-   6. Toestemming bij een formulier
-   7. Toestemming voor externe video's
-   8. Socialmedia-content activeren
-   9. Locatietoestemming
-   10. Toestemming voor notificaties 
+   -  Cookiebanner
+   -  Cookiepop-up
+   -  Checkbox
+   -  Aan/uit schakelaar
+   -  Cookievoorkeuren kiezen
+   -  Toestemming bij een formulier
+   -  Toestemming voor externe video's
+   -  Socialmedia-content activeren
+   -  Locatietoestemming
+   -  Toestemming voor notificaties 
 
 4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
@@ -62,11 +62,11 @@ Een wireflow is een combinatie van wireframes en een flowchart. Je laat zien wel
 
 2. Wat zijn dark UX patterns? Geef drie voorbeelden.
 
-   1. Verborgen kosten, extra kosten verschijnen pas aan het einde van een bestelling.
+   - Verborgen kosten, extra kosten verschijnen pas aan het einde van een bestelling.
 
-   2. Moeilijk afmelden, aanmelden is makkelijk maar een abbonement opzeggen word bewust lastig gemaakt.
+   - Moeilijk afmelden, aanmelden is makkelijk maar een abbonement opzeggen word bewust lastig gemaakt.
 
-   3. Misleidende knoppen, accepteren is heel opvallend en weigeren is klein of verstopt. 
+   - Misleidende knoppen, accepteren is heel opvallend en weigeren is klein of verstopt. 
 
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 
