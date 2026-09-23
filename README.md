@@ -4,9 +4,23 @@
 
 https://nl.wikipedia.org/wiki/Matcha
 
+https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
+
 ### Woe 23 sep 
 
 Vanochtend een college gehad van Hans de Zwart over privacy. Dit heeft mij wel aan het denken gezet over mijn eigen privacy en hoe ik hier mee om ga. 
+
+1. Jullie hebben voor het huiswerk een aantal bronnen over dark-patterns gelezen. Kies in een groepje van vier een website die jullie vaak gebruiken en maak wireframes en een wire flow van de manier van werken.
+
+We hebben samen in min groepje Gina Tricot website uitgekozen. Hier komen wij vaak om te shoppen :)
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-23 om 10 52 23" src="https://github.com/user-attachments/assets/53d572cb-03f0-4923-be36-14779e91aaa4" />
+
+2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
+
+We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+
+Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."
 
 ### Ma 21 sep 
 
