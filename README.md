@@ -4,6 +4,10 @@
 
 https://nl.wikipedia.org/wiki/Matcha
 
+### Woe 23 sep 
+
+Vanochtend een college gehad van Hans de Zwart over privacy. Dit heeft mij wel aan het denken gezet over mijn eigen privacy en hoe ik hier mee om ga. 
+
 ### Ma 21 sep 
 
 Vandaag een presentatie gekregen van Justus en Vasilis over html. Ik vond het wel snel gaan maar later heeft Justus zijn code gedeeld gelukkig dus kon ik het nog terug krijgen. Hieronder wat screenshots met mijn wijzigingen: 
