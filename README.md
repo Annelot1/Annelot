@@ -18,8 +18,10 @@ Ik vond de NS opdracht heel interessant, ik kon hierdoor echt zien hoe belangrij
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 40 10" src="https://github.com/user-attachments/assets/4887f493-fd2b-4132-b19b-9602da72624f" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 14 29 12" src="https://github.com/user-attachments/assets/1f1731fd-d2a0-439a-a082-057b857bc9c1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 14 40 23" src="https://github.com/user-attachments/assets/e6c450b0-8e99-4658-9402-665d99b1e811" />
 
 Check-out:
+
 ### Vrij 25 sep 
 
 Vanochtend hebben we in groepsvorm een feedback moment gehad met Vasilis. Dit was heel fijn want nu weet ik meer waar ik op moet focussen. Hij vertelde dat we moeten focussen op wat echt in de website moet en alle "extra's" later nog toegevoegd kunnen worden. Ook dat wij alles goed moeten loggen in dit logboek. Hier ga ik verder mee aan de slag en heb ik de flow te pakken. 
