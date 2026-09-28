@@ -14,6 +14,7 @@ Vanochtend gestart met de Bi-weekly geek. Dit heb ik samen met Julia, Ana en Sar
 <img width="592" height="388" alt="Scherm­afbeelding 2026-09-28 om 13 36 23" src="https://github.com/user-attachments/assets/de6d96cc-40ff-4d2c-a50a-e1cd8a159e13" />
 
 Screenreader opdracht:
+
 Ik vond de NS opdracht heel interessant, ik kon hierdoor echt zien hoe belangrijk het is om je website voor iedereen toegankelijk te maken. Ik vond het werken met het toetsenbord nog wel lastig, vooral met een andere datum kiezen om te reizen lukte eerst nog niet goed. Uiteindelijk heb ik gevonden hoe je dit kon veranderen maar het was erg irritant dat de voice over steeds opnieuw begon. 
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 40 10" src="https://github.com/user-attachments/assets/4887f493-fd2b-4132-b19b-9602da72624f" />
