@@ -6,9 +6,70 @@ https://nl.wikipedia.org/wiki/Matcha
 
 https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
 
+### Ma 28 sep 
+
+Vanochtend gestart met de Bi-weekly geek. Dit heb ik samen met Julia, Ana en Sara gedaan. 
+
+<img width="592" height="388" alt="Scherm­afbeelding 2026-09-28 om 13 36 03" src="https://github.com/user-attachments/assets/2e9ef439-3e3d-4cb7-a655-b1080793909d" />
+<img width="592" height="388" alt="Scherm­afbeelding 2026-09-28 om 13 36 23" src="https://github.com/user-attachments/assets/de6d96cc-40ff-4d2c-a50a-e1cd8a159e13" />
+
+Screenreader opdracht:
+Ik vond de NS opdracht heel interessant, ik kon hierdoor echt zien hoe belangrijk het is om je website voor iedereen toegankelijk te maken. Ik vond het werken met het toetsenbord nog wel lastig, vooral met een andere datum kiezen om te reizen lukte eerst nog niet goed. Uiteindelijk heb ik gevonden hoe je dit kon veranderen maar het was erg irritant dat de voice over steeds opnieuw begon. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 40 10" src="https://github.com/user-attachments/assets/4887f493-fd2b-4132-b19b-9602da72624f" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 14 29 12" src="https://github.com/user-attachments/assets/1f1731fd-d2a0-439a-a082-057b857bc9c1" />
+
+Check-out:
 ### Vrij 25 sep 
 
+Vanochtend hebben we in groepsvorm een feedback moment gehad met Vasilis. Dit was heel fijn want nu weet ik meer waar ik op moet focussen. Hij vertelde dat we moeten focussen op wat echt in de website moet en alle "extra's" later nog toegevoegd kunnen worden. Ook dat wij alles goed moeten loggen in dit logboek. Hier ga ik verder mee aan de slag en heb ik de flow te pakken. 
 
+Opdracht HTML valideren:
+
+Ik heb mijn HTML en CSS code in de website geplakt. Hier kwam het volgende uit:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 23 17" src="https://github.com/user-attachments/assets/b753d027-bd48-436c-a1db-a8ba5e3a9618" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 23 40" src="https://github.com/user-attachments/assets/dcedd081-37db-4379-9832-8e949b184cee" />
+
+Ik heb de errors aangepast en nu is de code volledig schoon van errors. 
+
+Check-out: 
+
+1. Wat is HTML-validatie?
+   
+HTML-validatie is het controleren of je HTML-code correct is geschreven en voldoet aan de officiële HTML-regels. Dit is belangrijk omdat fouten in je code ervoor kunnen zorgen dat je website niet goed werkt of er anders uitziet in verschillende browsers.
+
+2. Hoe heb je dat vandaag uitgevoerd?
+   
+Vandaag heb ik mijn HTML-code gecontroleerd met een HTML-validator. Deze gaf aan waar fouten of waarschuwingen in mijn code zaten. Vervolgens heb ik deze aangepast en opnieuw gecontroleerd.
+
+3. Welke dingen vielen je op?
+   
+Het viel me op dat kleine foutjes snel over het hoofd worden gezien, bijvoorbeeld een verkeerd geplaatst of niet afgesloten element. Ook merkte ik dat de validator duidelijk aangeeft waar een probleem zit, waardoor je fouten makkelijker kunt vinden en oplossen.
+
+Huiswerk voor maandag:
+
+Samenvattingen:
+
+Het einde van ‘Wild West’-internet: DSA uitgelegd:
+
+De video legt uit dat het internet steeds meer regels krijgt door de Digital Services Act (DSA) van de Europese Unie. Grote online platforms moeten transparanter zijn over bijvoorbeeld advertenties, algoritmes en het verwijderen van illegale content. Ook krijgen gebruikers meer rechten en bescherming online. Het doel is om het internet veiliger en eerlijker te maken en grote platforms meer verantwoordelijkheid te geven.
+
+ChatGPT faces tougher rules under EU online safety regime:
+
+ChatGPT, Reddit en Roblox krijgen te maken met strengere regels van de Europese Unie onder de Digital Services Act (DSA). Dit komt doordat ze meer dan 45 miljoen maandelijkse gebruikers in de EU hebben. Daardoor moeten ze onder andere beter optreden tegen illegale content en meer aandacht besteden aan de privacy en veiligheid van minderjarigen.
+Als bedrijven zich niet aan deze regels houden, kunnen ze een boete krijgen van maximaal 6% van hun wereldwijde omzet. De EU wil hiermee grote online platforms meer verantwoordelijkheid geven en gebruikers beter beschermen.
+
+AI chatbots citing Russian propaganda sourced from EU-sanctioned outlet:
+
+Het artikel gaat over onderzoek waaruit blijkt dat AI-chatbots soms Russische propaganda als betrouwbare informatie gebruiken. Onderzoekers testten vijf grote AI-modellen en zagen dat sommige antwoorden informatie overnamen van een door de EU gesanctioneerde bron, zonder duidelijk te maken dat deze bron als onderdeel van een Russische beïnvloedingsoperatie wordt gezien. 
+
+Dit laat zien dat AI niet automatisch betrouwbare informatie geeft en dat het belangrijk blijft om bronnen zelf te controleren. Het artikel waarschuwt ook voor Generative Engine Optimisation (GEO): technieken waarmee online informatie zo kan worden aangepast dat AI-systemen deze sneller vinden en mogelijk meenemen in hun antwoorden.
+
+Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?:
+
+In de VS loopt een grote rechtszaak tegen Meta. Bijna dertig Amerikaanse staten beschuldigen het bedrijf ervan Facebook en Instagram bewust verslavend te maken voor jongeren. Functies zoals eindeloos scrollen, automatisch afspelende video’s, likes en filters zouden ervoor zorgen dat jongeren langer op de apps blijven. 
+De staten stellen dat dit schadelijk kan zijn voor de mentale en fysieke gezondheid van jongeren en willen dat Meta deze functies aanpast. Meta bestrijdt de beschuldigingen en zegt juist maatregelen te hebben genomen om tieners beter te beschermen. 
 
 ### Woe 23 sep 
 
