@@ -6,6 +6,227 @@ https://nl.wikipedia.org/wiki/Matcha
 
 https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
 
+### Vrij 9 okt
+
+Check-out:
+
+1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+Ik gebruik verschillende lettergroottes, letterdiktes, letterafstanden en regelafstanden om de songtekst vorm te geven.
+
+2. Wat voegt iedere variabele toe aan je ontwerp?
+
+- Lettergrootte: Benadrukt belangrijke woorden en zorgt voor hiërarchie.
+
+- Letterdikte: Laat bepaalde woorden extra opvallen.
+
+- Letterafstand: Geeft de tekst meer ruimte en beïnvloedt de uitstraling.
+
+- Regelafstand: Zorgt voor overzicht en betere leesbaarheid.
+
+3. Hoe zou je animatie kunnen toepassen?
+
+Ik zou woorden laten bewegen of groter laten worden op het ritme van de muziek. Bij een harde beat kunnen woorden bijvoorbeeld kort vergroten en bij rustige stukken langzaam verschijnen. Zo wordt het ritme van de muziek ook visueel duidelijk.
+
+Huiswerk voor Bi-Weekly geek 3:
+
+Samenvatting – AI Slop (The Guardian)
+
+Het artikel gaat over AI slop: goedkope, vaak bizarre afbeeldingen en video's die met kunstmatige intelligentie worden gemaakt en sociale media overspoelen.
+
+- AI-content: Door AI kan iedereen gemakkelijk afbeeldingen en video's maken.
+
+- Voorbeelden: Bizarre afbeeldingen zoals Jezus als garnaal, pratende katten en nepvideo's.
+
+- Doel: Makers willen zoveel mogelijk views, likes en geld verdienen.
+
+- Sociale media: Algoritmes verspreiden opvallende content snel, ook als de kwaliteit slecht is.
+
+- Gevolgen: Het internet raakt voller met nepcontent, waardoor echte en waardevolle content minder opvalt.
+
+
+Samenvatting – The Dead Internet Theory
+
+Het artikel gaat over de Dead Internet Theory: de theorie dat het internet steeds minder door echte mensen en steeds meer door AI, bots en algoritmes wordt bepaald.
+
+- AI en bots: Steeds meer berichten, afbeeldingen en reacties worden automatisch gegenereerd.
+
+- Nepinteracties: Bots zorgen voor kunstmatige likes, reacties en views.
+
+- Sociale media: Platforms richten zich vooral op aandacht, clicks en geld verdienen.
+
+- Minder authenticiteit: Echte menselijke interacties en originele content worden minder zichtbaar.
+
+- Gevolgen: Meer nepnieuws, manipulatie en moeite om echte content te herkennen.
+
+- Oplossing: Meer transparantie, verantwoord gebruik van AI en kritisch omgaan met online informatie.
+
+
+Samenvatting – Alive Internet Theory
+
+Het artikel gaat over de Alive Internet Theory: het idee dat het internet niet doodgaat door AI en bots, omdat mensen altijd manieren blijven vinden om online met elkaar in contact te komen.
+
+- AI en bots: Het internet raakt steeds voller met AI-content en automatische berichten.
+
+- Menselijke verbinding: Ondanks AI blijven mensen behoefte hebben aan echte contacten en creativiteit.
+
+- Sociale media: Grote platforms richten zich vooral op likes, views en geld verdienen.
+
+- Kleine online communities: Forums, persoonlijke websites en creatieve platforms zorgen voor een persoonlijker internet.
+
+- Toekomst: We moeten het internet weer een plek maken waar mensen samenkomen, ontdekken en creëren.
+
+
+Samenvatting – Cursor Camp (Neal.fun)
+
+Cursor Camp is een interactieve website waarop je met je muiscursor een digitale camping kunt ontdekken en andere bezoekers kunt ontmoeten.
+
+- Interactief: Je bestuurt je cursor en ontdekt verschillende activiteiten en verborgen verrassingen.
+
+- Sociale verbinding: Je ziet de cursors van andere echte bezoekers, zonder dat je hoeft te chatten.
+
+- Creativiteit: De website laat zien dat een simpele muiscursor een leuke en originele gebruikerservaring kan creëren.
+
+- Ontdekken: Er zijn geen vaste doelen. Je kunt vrij rondkijken en spelen.
+
+- Menselijk internet: De website laat zien hoe mensen op een speelse manier online samen kunnen komen. 
+  
+### Woe 7 okt
+
+Check-out:
+
+1. Waarom is het goed om een grid toe te passen?
+
+- Voor de ontwerper: Een grid geeft structuur en maakt het makkelijker om elementen netjes te plaatsen.
+
+- Voor de bezoeker: De website wordt overzichtelijker en informatie is makkelijker te vinden.
+
+2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+1. Gebruik een grid: Zorg voor een duidelijke indeling.
+
+2. Gebruik witruimte: Geef elementen voldoende ruimte.
+
+3. Zorg voor consistentie: Gebruik dezelfde kleuren, lettertypes en afstanden.
+
+
+3. Hoeveel gekkigheid moet er in je werk zitten?
+
+Ik vind dat er best wat gekkigheid in een ontwerp mag zitten, omdat dit het uniek en creatief maakt. Maar het moet niet ten koste gaan van de gebruiksvriendelijkheid. Een goede balans tussen creativiteit en overzichtelijkheid is belangrijk.
+
+Huiswerk: 
+
+Samenvatting: Using Grids in Interface Designg, NNGroup
+
+Dit artikel legt uit waarom grids belangrijk zijn bij het ontwerpen van websites. Een grid helpt om tekst, afbeeldingen en andere onderdelen netjes te plaatsen. Hierdoor wordt een website overzichtelijker en makkelijker te gebruiken. Ook zorgen grids voor consistentie en helpen ze bij het ontwerpen voor verschillende schermgroottes. Je kunt soms van het grid afwijken om bepaalde onderdelen extra aandacht te geven.
+
+Samenvatting: Rhythm in Graphic Design (Code Chefs)
+
+Het artikel gaat over ritme in grafisch ontwerp. Door kleuren, vormen, tekst en afstanden te herhalen, ontstaat er beweging en structuur in een ontwerp. Er zijn drie soorten ritme: regelmatig ritme, waarbij elementen steeds op dezelfde afstand terugkomen, afwisselend ritme, waarbij bijvoorbeeld kleuren of groottes elkaar afwisselen, en willekeurig ritme, waarbij elementen speels maar gecontroleerd worden geplaatst. Ritme helpt om de aandacht van bezoekers te sturen en een ontwerp overzichtelijker te maken. Het is belangrijk om een goede balans te vinden tussen herhaling en afwisseling, zodat het ontwerp niet saai of chaotisch wordt.
+
+Samenvatting: Grids in Graphic Design
+
+De video gaat over het gebruik van grids (rasters) in grafisch ontwerp. Een grid helpt om tekst, afbeeldingen en vormen op een gestructureerde manier te plaatsen. Hierdoor ontstaat er rust, balans en samenhang. Tegelijkertijd biedt een grid ruimte voor creativiteit, omdat je elementen kunt verschuiven, combineren of bewust buiten het raster kunt plaatsen.
+
+### Ma 5 okt
+
+Samenvatting: Modular Scale and Meaningful Typography
+
+Dit hoofdstuk gaat over het gebruik van een modular scale om structuur en hiërarchie aan te brengen in typografie. In plaats van willekeurige lettergroottes te kiezen, gebruik je een vaste verhouding tussen de verschillende tekstgroottes. Je begint met een basisgrootte, bijvoorbeeld 18 pixels, en kiest vervolgens een verhouding, zoals 1,5. Hiermee bepaal je de groottes van titels, tussenkoppen en kleinere teksten. Dit zorgt voor een rustig, consistent en overzichtelijk ontwerp. Ook wordt je CSS makkelijker te onderhouden, omdat je steeds dezelfde vooraf bepaalde groottes gebruikt.
+
+Samenvatting:Rhythm & Tension
+
+Deze tekst gaat over hoe je ritme en spanning in typografie kunt creëren. Ritme ontstaat door herhaling van bijvoorbeeld lettergroottes, regelafstanden en uitlijning. Door contrast toe te voegen in grootte, kleur, ruimte, dikte of vorm kun je bepaalde onderdelen extra laten opvallen. Dit zorgt voor een duidelijk focuspunt. Ook kun je sterke verticale lijnen gebruiken om meer structuur aan te brengen. Spatial tension ontstaat door elementen bewust uit het midden te plaatsen, ongelijke witruimtes te gebruiken en te spelen met diepte en de randen van een ontwerp.
+
+Samenvatting: Respect Thy Typography
+
+Dit artikel gaat over het belang van typografie in grafisch ontwerp. Goede typografie draait niet alleen om mooie letters en decoratie, maar vooral om het duidelijk overbrengen van een boodschap. Vroeger lag de nadruk op eenvoud en leesbaarheid, terwijl moderne ontwerpers ook experimenteren met vormen, beweging en emoties. Typografie kan een ontwerp versterken door bewust gebruik te maken van lettergroottes, afstanden en compositie. Het is belangrijk dat creatieve effecten de boodschap ondersteunen en niet afleiden.
+
+Samenvatting: Typesetting Factors (Typography Fundamentals)
+
+Deze tekst gaat over hoe je typografie op een goede en overzichtelijke manier vormgeeft. Hierbij spelen letterafstand (kerning en tracking), regelafstand (leading), uitlijning en witruimte een belangrijke rol. Ook wordt uitgelegd dat een regellengte van ongeveer 45 tot 75 tekens prettig leest. Door verschillende lettergroottes, diktes, kleuren en posities te gebruiken, creëer je een duidelijke visuele hiërarchie. Daarnaast is het belangrijk om storende witruimtes, onhandige woordafbrekingen en ongelijke tekstverdelingen te voorkomen.
+
+Check-out:
+
+1. Betekenis van de termen
+
+- Kerning: De ruimte tussen twee specifieke letters aanpassen.
+
+- Tracking: De ruimte tussen alle letters van een woord of tekst aanpassen.
+
+- Leading: De ruimte tussen de regels tekst (regelafstand).
+
+- Flush-left: Tekst is links uitgelijnd.
+
+- Flush-right: Tekst is rechts uitgelijnd.
+
+- Centered: Tekst staat gecentreerd.
+
+- Justified: Tekst is aan beide kanten uitgelijnd (uitgevuld).
+
+- Indent: Een regel of tekstblok laten inspringen.
+
+- Outdent: Een regel of tekst buiten de normale kantlijn laten uitsteken.
+
+- Modular scale: Een vaste verhouding gebruiken voor verschillende lettergroottes, zodat er eenheid ontstaat.
+
+- Movable type: Losse letters die vroeger gebruikt werden om teksten te drukken.
+
+- Focuspunt: Het onderdeel van een ontwerp dat als eerste de aandacht trekt.
+
+- Vijf soorten contrast:
+
+  1. Grootte: groot tegenover klein.
+
+  2. Kleur: licht tegenover donker of verschillende kleuren.
+
+  3. Vorm: rond tegenover hoekig.
+
+  4. Gewicht: dikke tegenover dunne letters.
+
+  5. Ruimte: veel tegenover weinig witruimte.
+
+2. Wat is jouw ideale regellengte (measure)?
+
+Mijn ideale regellengte is ongeveer 50 tot 75 tekens per regel. Dit leest prettig, omdat je ogen niet te ver hoeven te bewegen en je makkelijk de volgende regel kunt vinden.
+
+3. Welke variabele zou je gebruiken voor hiërarchie en waarom?
+
+Ik zou kiezen voor grootte. Door belangrijke teksten groter te maken dan minder belangrijke teksten, ziet de gebruiker meteen wat het belangrijkst is. Zo ontstaat er een duidelijke hiërarchie en blijft het ontwerp overzichtelijk.
+
+Huiswerk: 
+
+Samenvatting: Technical Web Typography: Guidelines and Techniques
+
+Dit artikel gaat over hoe je typografie op websites leesbaar en overzichtelijk maakt met behulp van CSS. Het legt uit hoe belangrijk de juiste lettergrootte, regelafstand, regellengte en uitlijning zijn. Een prettige regellengte bestaat uit ongeveer 45 tot 75 tekens. Door een grid en vaste afstanden te gebruiken, ontstaat er een consistent ritme in het ontwerp. Ook wordt uitgelegd hoe je met een typografische schaal verschillende lettergroottes voor titels en gewone tekst bepaalt. Daarnaast zijn details zoals aanhalingstekens, leestekens en witruimte belangrijk voor een professionele uitstraling.
+
+### Vrij 2 okt
+
+
+### Woe 30 sep 
+
+Check-out:
+
+1. Waar staat WCAG en A11y voor?
+   
+-WCAG staat voor Web Content Accessibility Guidelines. Dit zijn richtlijnen om websites toegankelijk te maken voor iedereen.
+
+- A11y staat voor Accessibility (toegankelijkheid). De 11 staat voor de 11 letters tussen de A en Y.
+
+2. Wat vind je lastiger, bedienen met toetsenbord of screenreader?
+
+Ik vind een screenreader lastiger, omdat je niet kunt zien waar je precies bent op een website. Je moet goed begrijpen hoe de website is opgebouwd. Ik moet nog oefenen met het navigeren via een screenreader en het gebruiken van de juiste HTML-elementen.
+
+3. Met welke beperking rekening houden vind je het lastigst?
+
+Ik vind het lastigst om rekening te houden met mensen met een visuele beperking. Je moet goed nadenken over kleurcontrasten, afbeeldingen en navigatie.
+Word je beperkt in wat je kunt ontwerpen?
+Een beetje, omdat je niet alles zomaar kunt vormgeven. Maar ik denk dat je nog steeds mooie en creatieve websites kunt maken.
+
+4. Hoe kun je toch leuke extra's toevoegen?
+
+Door eerst een toegankelijke basis te maken en daarna extra's toe te voegen, zoals animaties, hover-effecten en mooie kleuren. Hierbij moet je rekening houden met de voorkeuren van de gebruiker, bijvoorbeeld door animaties te verminderen als iemand dat heeft ingesteld.
+
 ### Ma 28 sep 
 
 Vanochtend gestart met de Bi-weekly geek. Dit heb ik samen met Julia, Ana en Sara gedaan. 
@@ -22,6 +243,28 @@ Ik vond de NS opdracht heel interessant, ik kon hierdoor echt zien hoe belangrij
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 14 40 23" src="https://github.com/user-attachments/assets/e6c450b0-8e99-4658-9402-665d99b1e811" />
 
 Check-out:
+
+1. Wat bedoelt Vasilis met de uitspraak?
+
+Hij bedoelt dat het niet alleen belangrijk is om de juiste HTML-elementen te gebruiken, maar vooral dat een website prettig en toegankelijk werkt voor iedereen. De gebruikerservaring (UX) staat centraal.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
+- Visuele beperkingen: slechtziendheid, blindheid of kleurenblindheid.
+
+- Motorische beperkingen: moeite met het gebruiken van een muis of toetsenbord.
+
+- Auditieve beperkingen: slechthorendheid of doofheid.
+
+- Cognitieve beperkingen: moeite met lezen, concentreren of informatie begrijpen.
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+
+1. Met de Tab-toets: navigeren tussen links, knoppen en andere interactieve elementen.
+
+2. Via headings (koppen): snel van de ene titel naar de andere springen.
+
+3. Via landmarks: direct naar onderdelen van de website gaan, zoals het menu, de hoofdinhoud of de footer.
 
 ### Vrij 25 sep 
 
