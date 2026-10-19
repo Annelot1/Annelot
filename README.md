@@ -93,6 +93,57 @@ Cursor Camp is een interactieve website waarop je met je muiscursor een digitale
   
 ### Woe 7 okt
 
+Feedback op mijn songtekstpagina, Let It Happen
+
+Wat gaat goed?
+
+Ritme: De tekst wordt van boven naar beneden steeds groter, waardoor er een duidelijk ritme ontstaat. 
+
+Hiërarchie: Door het verschil in lettergrootte wordt de aandacht naar de onderkant van de pagina getrokken. 
+
+Compositie: De tekst staat mooi gecentreerd en vormt een driehoek, waardoor het lijkt op een landingsbaan. 
+
+Typografie: Het lettertype Seraphs geeft de pagina een sterke, herkenbare uitstraling. 
+
+Contrast: Het gebruik van zwarte tekst op een witte achtergrond zorgt voor goede leesbaarheid. 
+
+Wat kan beter?
+
+Measure: Sommige zinnen zijn erg lang, waardoor ze buiten de gewenste vorm van de landingsbaan kunnen vallen. 
+
+Line-height: De afstand tussen de zinnen kan nog iets consistenter worden gemaakt. 
+
+Perspectief: De laatste twee zinnen kunnen beter op elkaar aansluiten, zodat de tekst van boven naar beneden steeds breder wordt. 
+
+Responsiviteit: Op kleinere schermen kunnen de grootste zinnen buiten beeld vallen.  
+Verbeterslag, Let It Happen
+
+Voor mijn songtekstpagina van Let It Happen van Tame Impala heb ik gekozen voor een ontwerp dat lijkt op een landingsbaan. Door de tekst van boven naar beneden steeds groter en breder te maken, wil ik beweging en diepte creëren.
+
+Wat gaat goed?
+
+Ik vind dat de hiërarchie en het ritme goed zichtbaar zijn. De tekst begint klein en wordt steeds groter, waardoor je blik automatisch naar beneden wordt getrokken. Ook ben ik tevreden over het gebruik van het lettertype Seraphs en de gecentreerde compositie.
+
+Wat wil ik verbeteren?
+
+Line-height: Ik wil de afstand tussen de zinnen nog beter op elkaar afstemmen, zodat de tekst een geheel vormt.
+
+Font-size: Ik wil de lettergroottes aanpassen zodat iedere regel steeds breder wordt en het landingsbaaneffect sterker is.
+
+Measure: Sommige zinnen zijn langer dan andere. Ik wil hiermee experimenteren zodat de tekst een mooiere, gelijkmatige vorm krijgt.
+
+Letter-spacing: Ik wil kijken of ik met de ruimte tussen letters de breedte van de zinnen beter kan laten aansluiten.
+
+Responsiviteit: Ik wil ervoor zorgen dat de tekst ook op kleinere schermen goed zichtbaar blijft.
+
+Mijn volgende stappen
+
+Ik ga verder experimenteren met font-size, line-height en letter-spacing in CSS. Daarnaast wil ik de verdeling van de songtekst over de regels aanpassen om een duidelijker perspectief te creëren.
+
+Conclusie
+
+Mijn ontwerp heeft al een duidelijke richting, maar ik wil de compositie nog strakker maken. Mijn doel is dat de songtekst niet alleen leesbaar is, maar ook visueel het gevoel van beweging en opstijgen overbrengt.
+
 Check-out:
 
 1. Waarom is het goed om een grid toe te passen?
@@ -173,6 +224,19 @@ Ik kies voor schets 2, waarbij de tekst steeds meer vervormt. Dit past goed bij 
 Ik kan de songtekst in HTML plaatsen en met CSS vormgeven. Met font-size, letter-spacing, transform en text-shadow kan ik de tekst aanpassen en vervormen. Met keyframes kan ik animaties toevoegen, zodat de woorden langzaam bewegen of vervagen.
 
 Opdracht 3:
+
+1. Bepaal de line-height bij je gekozen font-size
+
+Ik gebruik het lettertype Seraphs. De tekst begint klein en wordt steeds groter. Ik kies een line-height van 1.1, zodat de regels dicht bij elkaar staan en samen een landingsbaan vormen.
+
+2. Baseer je column-width op een veelvoud van je line-height
+
+Ik gebruik de regelhoogte als basis voor de breedte van mijn tekstkolom. Omdat mijn tekst naar beneden steeds groter wordt, wil ik ook dat de kolom geleidelijk breder wordt.
+
+Bijvoorbeeld:
+Font-size: 20 px Line-height: 22 px Column-width: 440 px (20 × 22 px)  3. Kun je daarmee een grid maken dat past bij je paginaontwerp, rekening houdend met je measure?
+
+Ja. Mijn ontwerp bestaat uit één gecentreerde tekstkolom die naar beneden steeds breder wordt. De measure (regellengte) verandert mee met de tekstgrootte. Hierdoor ontstaat het perspectief van een landingsbaan.
 
 Check-out:
 
