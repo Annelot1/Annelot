@@ -242,6 +242,12 @@ Font-size: 20 px Line-height: 22 px Column-width: 440 px (20 × 22 px)  
 
 Ja. Mijn ontwerp bestaat uit één gecentreerde tekstkolom die naar beneden steeds breder wordt. De measure (regellengte) verandert mee met de tekstgrootte. Hierdoor ontstaat het perspectief van een landingsbaan.
 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 33 31" src="https://github.com/user-attachments/assets/3abe3912-aac7-4790-8a1e-c2db5ab90ca2" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 37 17" src="https://github.com/user-attachments/assets/1de2930d-b4f5-4813-b008-a99a9fda6a41" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 42 14" src="https://github.com/user-attachments/assets/61e05bf4-78b6-4d3b-9428-451bdfe80bc2" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 49 32" src="https://github.com/user-attachments/assets/b3ae8118-bd4e-4bb4-a809-84544e0400d2" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 55 54" src="https://github.com/user-attachments/assets/6bba79ef-c628-41bf-938b-cc9f5cbe8c82" />
+
 Check-out:
 
 1. Betekenis van de termen
