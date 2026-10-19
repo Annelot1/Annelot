@@ -6,6 +6,10 @@ https://nl.wikipedia.org/wiki/Matcha
 
 https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
 
+### Ma 19 okt 
+
+<img width="612" height="449" alt="Scherm­afbeelding 2026-10-19 om 21 25 30" src="https://github.com/user-attachments/assets/7c0a5bf3-c5b8-4dfb-b6be-685da5deb3b8" />
+
 ### Vrij 9 okt
 
 Check-out:
@@ -294,6 +298,9 @@ Dit artikel gaat over hoe je typografie op websites leesbaar en overzichtelijk m
 
 ### Vrij 2 okt
 
+[Ontwerp zonder titel.pdf](https://github.com/user-attachments/files/33683280/Ontwerp.zonder.titel.pdf)
+
+<img width="581" height="781" alt="Scherm­afbeelding 2026-10-19 om 21 28 22" src="https://github.com/user-attachments/assets/1aea0194-1974-41ff-ad67-5d96049b4bf7" />
 
 ### Woe 30 sep 
 
