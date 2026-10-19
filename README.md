@@ -146,6 +146,34 @@ Samenvatting: Typesetting Factors (Typography Fundamentals)
 
 Deze tekst gaat over hoe je typografie op een goede en overzichtelijke manier vormgeeft. Hierbij spelen letterafstand (kerning en tracking), regelafstand (leading), uitlijning en witruimte een belangrijke rol. Ook wordt uitgelegd dat een regellengte van ongeveer 45 tot 75 tekens prettig leest. Door verschillende lettergroottes, diktes, kleuren en posities te gebruiken, creëer je een duidelijke visuele hiërarchie. Daarnaast is het belangrijk om storende witruimtes, onhandige woordafbrekingen en ongelijke tekstverdelingen te voorkomen.
 
+Opdracht 1:
+
+Ik heb gekozen voor het nummer Let it happen van Tame Impala. Dit zijn met 10 schetsen:
+
+<img width="550" height="778" alt="Scherm­afbeelding 2026-10-19 om 19 55 10" src="https://github.com/user-attachments/assets/155806a4-2d9c-42d1-9f1c-fe2d1ca06efb" />
+<img width="550" height="778" alt="Scherm­afbeelding 2026-10-19 om 19 55 17" src="https://github.com/user-attachments/assets/53606db9-8904-468d-ba26-b5ca957a5f76" />
+<img width="570" height="450" alt="Scherm­afbeelding 2026-10-19 om 19 55 31" src="https://github.com/user-attachments/assets/e8e0bec2-11fb-4c2e-a185-2d2990235fde" />
+
+Opdracht 2:
+
+1. Wat wil je bij de kijker bereiken met je vormgeving?
+
+Ik wil dat de kijker het ritme en de emotie van het nummer Let It Happen ervaart. Door te spelen met lettergroottes, herhaling, vervorming en beweging wil ik de tekst tot leven brengen.
+
+2. Hoe voegt jouw opzet iets toe aan de tekst?
+
+Mijn vormgeving versterkt de betekenis van de songtekst. Door bepaalde woorden groter te maken, zinnen te herhalen en tekst te vervormen, leg ik de nadruk op de emoties en de dynamiek van het nummer.
+
+3. Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?
+
+Ik kies voor schets 2, waarbij de tekst steeds meer vervormt. Dit past goed bij het psychedelische karakter van Tame Impala. De vervorming zorgt voor beweging en maakt het ontwerp interessant.
+
+4. Hoe zou je dit kunnen aanpakken in code?
+
+Ik kan de songtekst in HTML plaatsen en met CSS vormgeven. Met font-size, letter-spacing, transform en text-shadow kan ik de tekst aanpassen en vervormen. Met keyframes kan ik animaties toevoegen, zodat de woorden langzaam bewegen of vervagen.
+
+Opdracht 3:
+
 Check-out:
 
 1. Betekenis van de termen
