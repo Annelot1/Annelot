@@ -205,6 +205,8 @@ Samenvatting: Grids in Graphic Design
 
 De video gaat over het gebruik van grids (rasters) in grafisch ontwerp. Een grid helpt om tekst, afbeeldingen en vormen op een gestructureerde manier te plaatsen. Hierdoor ontstaat er rust, balans en samenhang. Tegelijkertijd biedt een grid ruimte voor creativiteit, omdat je elementen kunt verschuiven, combineren of bewust buiten het raster kunt plaatsen.
 
+## Sprint 3
+
 ### Ma 5 okt
 
 Samenvatting: Modular Scale and Meaningful Typography
