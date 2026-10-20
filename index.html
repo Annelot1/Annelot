@@ -5,6 +5,42 @@
     <title>The Green Ritual</title>
   </head>
 
+  <section class="cookie-widget" aria-label="Cookievoorkeuren">
+    <!-- OPENEN EN SLUITEN -->
+    <input
+      type="radio"
+      name="cookie-status"
+      id="cookie-open"
+      class="cookie-toggle"
+    />
+
+    <input
+      type="radio"
+      name="cookie-status"
+      id="cookie-close"
+      class="cookie-toggle"
+    />
+
+    <!-- COOKIE POP-UP -->
+    <div class="cookie-popup">
+      <!-- MATCHA ICOON -->
+      <label for="cookie-open" class="matcha-cookie"> 🍵 </label>
+
+      <!-- INHOUD -->
+      <div class="cookie-content">
+        <h2>A little cookie?</h2>
+
+        <p>The Green Ritual gebruikt cookies om je ervaring te verbeteren.</p>
+
+        <!-- KNOPPEN -->
+        <div class="cookie-buttons">
+          <label for="cookie-close">Accepteren</label>
+          <label for="cookie-close">Weigeren</label>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <body>
     <nav class="navbar">
       <a href="index.html" class="logo">The Green Ritual</a>

@@ -173,3 +173,238 @@ body {
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
   z-index: 2;
 }
+
+/* =========================
+   COOKIE WIDGET
+========================= */
+
+.cookie-widget {
+  position: fixed;
+  bottom: 25px;
+  left: 25px;
+  z-index: 9999;
+  font-family: Georgia, serif;
+}
+
+/* RADIO BUTTONS VERBERGEN */
+
+.cookie-toggle {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+/* =========================
+   COOKIE POP-UP
+========================= */
+
+.cookie-popup {
+  width: 65px;
+  height: 65px;
+  box-sizing: border-box;
+  overflow: hidden;
+
+  background: #a4b67c;
+  border-radius: 50%;
+  box-shadow: 0 5px 20px #0003;
+
+  /* Automatisch openen na 5 seconden */
+  animation: cookieExpand 0.8s ease 5s forwards;
+
+  transition:
+    width 0.5s ease,
+    height 0.5s ease,
+    border-radius 0.5s ease,
+    background-color 0.5s ease;
+}
+
+/* =========================
+   MATCHA ICOON
+========================= */
+
+.matcha-cookie {
+  width: 65px;
+  height: 65px;
+  display: grid;
+  place-items: center;
+
+  font-size: 35px;
+  cursor: pointer;
+  position: relative;
+  z-index: 2;
+}
+
+/* =========================
+   POP-UP INHOUD
+========================= */
+
+.cookie-content {
+  padding: 0 25px 25px;
+  opacity: 0;
+  visibility: hidden;
+
+  animation: cookieText 0.5s ease 5.6s forwards;
+
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease;
+}
+
+.cookie-content h2 {
+  font-size: 24px;
+  margin: 0 0 10px;
+  color: #344e41;
+}
+
+.cookie-content p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #344e41;
+}
+
+/* =========================
+   KNOPPEN
+========================= */
+
+.cookie-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.cookie-buttons label {
+  flex: 1;
+  padding: 12px 8px;
+  text-align: center;
+
+  background: #344e41;
+  color: white;
+  border-radius: 8px;
+
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.cookie-buttons label:hover {
+  background: #588157;
+}
+
+/* =========================
+   ANIMATIE NA 5 SECONDEN
+========================= */
+
+@keyframes cookieExpand {
+  from {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background: #a4b67c;
+  }
+
+  to {
+    width: 330px;
+    height: 250px;
+    border-radius: 18px;
+    background: #f7f4ec;
+  }
+}
+
+@keyframes cookieText {
+  from {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  to {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+/* =========================
+   NA ACCEPTEREN / WEIGEREN
+   INKLAPPEN NAAR ICOON
+========================= */
+
+.cookie-widget:has(#cookie-close:checked) .cookie-popup {
+  animation: none;
+
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  background: #a4b67c;
+}
+
+.cookie-widget:has(#cookie-close:checked) .cookie-content {
+  animation: none;
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* =========================
+   OPNIEUW OPENEN VIA ICOON
+========================= */
+
+.cookie-widget:has(#cookie-open:checked) .cookie-popup {
+  animation: none;
+
+  width: 330px;
+  height: 250px;
+  border-radius: 18px;
+  background: #f7f4ec;
+}
+
+.cookie-widget:has(#cookie-open:checked) .cookie-content {
+  animation: none;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* =========================
+   TOETSENBORD FOCUS
+========================= */
+
+.cookie-widget:has(.cookie-toggle:focus-visible) .matcha-cookie {
+  outline: 3px solid #344e41;
+  outline-offset: 3px;
+}
+
+/* =========================
+   MOBIEL
+========================= */
+
+@media (max-width: 400px) {
+  .cookie-widget:has(#cookie-open:checked) .cookie-popup {
+    width: calc(100vw - 50px);
+  }
+
+  @keyframes cookieExpand {
+    to {
+      width: calc(100vw - 50px);
+      height: 250px;
+      border-radius: 18px;
+      background: #f7f4ec;
+    }
+  }
+}
+
+/* =========================
+   MINDER BEWEGING
+========================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .cookie-popup {
+    animation: none;
+    width: min(330px, calc(100vw - 50px));
+    height: 250px;
+    border-radius: 18px;
+    background: #f7f4ec;
+  }
+
+  .cookie-content {
+    animation: none;
+    opacity: 1;
+    visibility: visible;
+  }
+}
