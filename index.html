@@ -2,6 +2,10 @@
 <html lang="nl">
   <head>
     <link rel="stylesheet" href="./assets/style/normal.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🍵%3C/text%3E%3C/svg%3E"
+    />
     <title>The Green Ritual</title>
   </head>
 
@@ -40,8 +44,12 @@
           Deze website maakt gebruik van GitHub Pages voor de technische hosting
           en om de website online te houden. Daarnaast verbindt het
           Digitaaltuintje-component deze website met een groter netwerk van
-          digitale tuintjes. We vragen je toestemming voor het gebruik van
-          eventuele optionele cookies.
+          digitale tuintjes.
+        </p>
+
+        <p>
+          We vragen je toestemming voor het gebruik van eventuele optionele
+          cookies.
         </p>
 
         <!-- KNOPPEN -->
@@ -49,6 +57,58 @@
           <label for="cookie-close">Accepteren</label>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- NIEUWSBRIEF POP-UP -->
+
+  <section class="newsletter" aria-label="Nieuwsbrief inschrijving">
+    <!-- CHECKBOX VOOR SLUITEN -->
+    <input type="checkbox" id="newsletter-close" class="newsletter-toggle" />
+
+    <div class="newsletter-popup">
+      <!-- KRUISJE RECHTSBOVEN -->
+      <label
+        for="newsletter-close"
+        class="newsletter-close"
+        aria-label="Nieuwsbrief weigeren en sluiten"
+      >
+        &times;
+      </label>
+
+      <!-- TITEL -->
+      <h2>A little matcha in your inbox?</h2>
+
+      <!-- TEKST -->
+      <p>
+        Schrijf je in voor onze nieuwsbrief en ontdek meer over matcha, rituelen
+        en recepten.
+      </p>
+
+      <!-- FORMULIER -->
+      <form action="#" method="get">
+        <label for="newsletter-name">Naam</label>
+        <input
+          type="text"
+          id="newsletter-name"
+          name="name"
+          placeholder="Jouw naam"
+          autocomplete="name"
+          required
+        />
+
+        <label for="newsletter-email">E-mailadres</label>
+        <input
+          type="email"
+          id="newsletter-email"
+          name="email"
+          placeholder="jouw@email.nl"
+          autocomplete="email"
+          required
+        />
+
+        <button type="submit">Inschrijven</button>
+      </form>
     </div>
   </section>
 
