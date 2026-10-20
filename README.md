@@ -97,6 +97,19 @@ Cursor Camp is een interactieve website waarop je met je muiscursor een digitale
   
 ### Woe 7 okt
 
+1. Bepaal de line-height bij je gekozen font-size
+
+Ik gebruik het lettertype Seraphs. De tekst begint klein en wordt steeds groter. Ik kies een line-height van 1.1, zodat de regels dicht bij elkaar staan en samen een landingsbaan vormen.
+
+2. Baseer je column-width op een veelvoud van je line-height
+
+Ik gebruik de regelhoogte als basis voor de breedte van mijn tekstkolom. Omdat mijn tekst naar beneden steeds groter wordt, wil ik ook dat de kolom geleidelijk breder wordt.
+
+Bijvoorbeeld:
+Font-size: 20 px Line-height: 22 px Column-width: 440 px (20 × 22 px)  3. Kun je daarmee een grid maken dat past bij je paginaontwerp, rekening houdend met je measure?
+
+Ja. Mijn ontwerp bestaat uit één gecentreerde tekstkolom die naar beneden steeds breder wordt. De measure (regellengte) verandert mee met de tekstgrootte. Hierdoor ontstaat het perspectief van een landingsbaan.
+
 Feedback op mijn songtekstpagina, Let It Happen
 
 Wat gaat goed?
@@ -226,21 +239,6 @@ Ik kies voor schets 2, waarbij de tekst steeds meer vervormt. Dit past goed bij 
 4. Hoe zou je dit kunnen aanpakken in code?
 
 Ik kan de songtekst in HTML plaatsen en met CSS vormgeven. Met font-size, letter-spacing, transform en text-shadow kan ik de tekst aanpassen en vervormen. Met keyframes kan ik animaties toevoegen, zodat de woorden langzaam bewegen of vervagen.
-
-Opdracht 3:
-
-1. Bepaal de line-height bij je gekozen font-size
-
-Ik gebruik het lettertype Seraphs. De tekst begint klein en wordt steeds groter. Ik kies een line-height van 1.1, zodat de regels dicht bij elkaar staan en samen een landingsbaan vormen.
-
-2. Baseer je column-width op een veelvoud van je line-height
-
-Ik gebruik de regelhoogte als basis voor de breedte van mijn tekstkolom. Omdat mijn tekst naar beneden steeds groter wordt, wil ik ook dat de kolom geleidelijk breder wordt.
-
-Bijvoorbeeld:
-Font-size: 20 px Line-height: 22 px Column-width: 440 px (20 × 22 px)  3. Kun je daarmee een grid maken dat past bij je paginaontwerp, rekening houdend met je measure?
-
-Ja. Mijn ontwerp bestaat uit één gecentreerde tekstkolom die naar beneden steeds breder wordt. De measure (regellengte) verandert mee met de tekstgrootte. Hierdoor ontstaat het perspectief van een landingsbaan.
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 33 31" src="https://github.com/user-attachments/assets/3abe3912-aac7-4790-8a1e-c2db5ab90ca2" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 37 17" src="https://github.com/user-attachments/assets/1de2930d-b4f5-4813-b008-a99a9fda6a41" />
