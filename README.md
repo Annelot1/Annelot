@@ -1,5 +1,565 @@
 ## Bronnen
 
+https://nl.wikipedia.org/wiki/Matcha
+
+https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
+
+### Ma 19 okt 
+
+<img width="612" height="449" alt="Scherm­afbeelding 2026-10-19 om 21 25 30" src="https://github.com/user-attachments/assets/7c0a5bf3-c5b8-4dfb-b6be-685da5deb3b8" />
+
+### Vrij 9 okt
+
+Check-out:
+
+1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+Ik gebruik verschillende lettergroottes, letterdiktes, letterafstanden en regelafstanden om de songtekst vorm te geven.
+
+2. Wat voegt iedere variabele toe aan je ontwerp?
+
+- Lettergrootte: Benadrukt belangrijke woorden en zorgt voor hiërarchie.
+
+- Letterdikte: Laat bepaalde woorden extra opvallen.
+
+- Letterafstand: Geeft de tekst meer ruimte en beïnvloedt de uitstraling.
+
+- Regelafstand: Zorgt voor overzicht en betere leesbaarheid.
+
+3. Hoe zou je animatie kunnen toepassen?
+
+Ik zou woorden laten bewegen of groter laten worden op het ritme van de muziek. Bij een harde beat kunnen woorden bijvoorbeeld kort vergroten en bij rustige stukken langzaam verschijnen. Zo wordt het ritme van de muziek ook visueel duidelijk.
+
+Huiswerk voor Bi-Weekly geek 3:
+
+Samenvatting – AI Slop (The Guardian)
+
+Het artikel gaat over AI slop: goedkope, vaak bizarre afbeeldingen en video's die met kunstmatige intelligentie worden gemaakt en sociale media overspoelen.
+
+- AI-content: Door AI kan iedereen gemakkelijk afbeeldingen en video's maken.
+
+- Voorbeelden: Bizarre afbeeldingen zoals Jezus als garnaal, pratende katten en nepvideo's.
+
+- Doel: Makers willen zoveel mogelijk views, likes en geld verdienen.
+
+- Sociale media: Algoritmes verspreiden opvallende content snel, ook als de kwaliteit slecht is.
+
+- Gevolgen: Het internet raakt voller met nepcontent, waardoor echte en waardevolle content minder opvalt.
+
+
+Samenvatting – The Dead Internet Theory
+
+Het artikel gaat over de Dead Internet Theory: de theorie dat het internet steeds minder door echte mensen en steeds meer door AI, bots en algoritmes wordt bepaald.
+
+- AI en bots: Steeds meer berichten, afbeeldingen en reacties worden automatisch gegenereerd.
+
+- Nepinteracties: Bots zorgen voor kunstmatige likes, reacties en views.
+
+- Sociale media: Platforms richten zich vooral op aandacht, clicks en geld verdienen.
+
+- Minder authenticiteit: Echte menselijke interacties en originele content worden minder zichtbaar.
+
+- Gevolgen: Meer nepnieuws, manipulatie en moeite om echte content te herkennen.
+
+- Oplossing: Meer transparantie, verantwoord gebruik van AI en kritisch omgaan met online informatie.
+
+
+Samenvatting – Alive Internet Theory
+
+Het artikel gaat over de Alive Internet Theory: het idee dat het internet niet doodgaat door AI en bots, omdat mensen altijd manieren blijven vinden om online met elkaar in contact te komen.
+
+- AI en bots: Het internet raakt steeds voller met AI-content en automatische berichten.
+
+- Menselijke verbinding: Ondanks AI blijven mensen behoefte hebben aan echte contacten en creativiteit.
+
+- Sociale media: Grote platforms richten zich vooral op likes, views en geld verdienen.
+
+- Kleine online communities: Forums, persoonlijke websites en creatieve platforms zorgen voor een persoonlijker internet.
+
+- Toekomst: We moeten het internet weer een plek maken waar mensen samenkomen, ontdekken en creëren.
+
+
+Samenvatting – Cursor Camp (Neal.fun)
+
+Cursor Camp is een interactieve website waarop je met je muiscursor een digitale camping kunt ontdekken en andere bezoekers kunt ontmoeten.
+
+- Interactief: Je bestuurt je cursor en ontdekt verschillende activiteiten en verborgen verrassingen.
+
+- Sociale verbinding: Je ziet de cursors van andere echte bezoekers, zonder dat je hoeft te chatten.
+
+- Creativiteit: De website laat zien dat een simpele muiscursor een leuke en originele gebruikerservaring kan creëren.
+
+- Ontdekken: Er zijn geen vaste doelen. Je kunt vrij rondkijken en spelen.
+
+- Menselijk internet: De website laat zien hoe mensen op een speelse manier online samen kunnen komen. 
+  
+### Woe 7 okt
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/ef9f4f74-47c6-4546-9f72-0e26ec86f4ec" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/97888d8b-32d8-4b14-aaee-23d27c55b94e" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 44" src="https://github.com/user-attachments/assets/00d638cd-e1cb-499b-ab84-86650f393c2f" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 46" src="https://github.com/user-attachments/assets/202efaec-a802-4c49-9be4-c097c10f6afe" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 54 09" src="https://github.com/user-attachments/assets/f2d8dcb1-006d-4173-b00b-2d2f483ae096" />
+
+1. Bepaal de line-height bij je gekozen font-size
+
+Ik gebruik het lettertype Seraphs. De tekst begint klein en wordt steeds groter. Ik kies een line-height van 1.1, zodat de regels dicht bij elkaar staan en samen een landingsbaan vormen.
+
+2. Baseer je column-width op een veelvoud van je line-height
+
+Ik gebruik de regelhoogte als basis voor de breedte van mijn tekstkolom. Omdat mijn tekst naar beneden steeds groter wordt, wil ik ook dat de kolom geleidelijk breder wordt.
+
+Bijvoorbeeld:
+Font-size: 20 px Line-height: 22 px Column-width: 440 px (20 × 22 px)  3. Kun je daarmee een grid maken dat past bij je paginaontwerp, rekening houdend met je measure?
+
+Ja. Mijn ontwerp bestaat uit één gecentreerde tekstkolom die naar beneden steeds breder wordt. De measure (regellengte) verandert mee met de tekstgrootte. Hierdoor ontstaat het perspectief van een landingsbaan.
+
+Feedback op mijn songtekstpagina, Let It Happen
+
+Wat gaat goed?
+
+Ritme: De tekst wordt van boven naar beneden steeds groter, waardoor er een duidelijk ritme ontstaat. 
+
+Hiërarchie: Door het verschil in lettergrootte wordt de aandacht naar de onderkant van de pagina getrokken. 
+
+Compositie: De tekst staat mooi gecentreerd en vormt een driehoek, waardoor het lijkt op een landingsbaan. 
+
+Typografie: Het lettertype Seraphs geeft de pagina een sterke, herkenbare uitstraling. 
+
+Contrast: Het gebruik van zwarte tekst op een witte achtergrond zorgt voor goede leesbaarheid. 
+
+Wat kan beter?
+
+Measure: Sommige zinnen zijn erg lang, waardoor ze buiten de gewenste vorm van de landingsbaan kunnen vallen. 
+
+Line-height: De afstand tussen de zinnen kan nog iets consistenter worden gemaakt. 
+
+Perspectief: De laatste twee zinnen kunnen beter op elkaar aansluiten, zodat de tekst van boven naar beneden steeds breder wordt. 
+
+Responsiviteit: Op kleinere schermen kunnen de grootste zinnen buiten beeld vallen.  
+Verbeterslag, Let It Happen
+
+Voor mijn songtekstpagina van Let It Happen van Tame Impala heb ik gekozen voor een ontwerp dat lijkt op een landingsbaan. Door de tekst van boven naar beneden steeds groter en breder te maken, wil ik beweging en diepte creëren.
+
+Wat gaat goed?
+
+Ik vind dat de hiërarchie en het ritme goed zichtbaar zijn. De tekst begint klein en wordt steeds groter, waardoor je blik automatisch naar beneden wordt getrokken. Ook ben ik tevreden over het gebruik van het lettertype Seraphs en de gecentreerde compositie.
+
+Wat wil ik verbeteren?
+
+Line-height: Ik wil de afstand tussen de zinnen nog beter op elkaar afstemmen, zodat de tekst een geheel vormt.
+
+Font-size: Ik wil de lettergroottes aanpassen zodat iedere regel steeds breder wordt en het landingsbaaneffect sterker is.
+
+Measure: Sommige zinnen zijn langer dan andere. Ik wil hiermee experimenteren zodat de tekst een mooiere, gelijkmatige vorm krijgt.
+
+Letter-spacing: Ik wil kijken of ik met de ruimte tussen letters de breedte van de zinnen beter kan laten aansluiten.
+
+Responsiviteit: Ik wil ervoor zorgen dat de tekst ook op kleinere schermen goed zichtbaar blijft.
+
+Mijn volgende stappen
+
+Ik ga verder experimenteren met font-size, line-height en letter-spacing in CSS. Daarnaast wil ik de verdeling van de songtekst over de regels aanpassen om een duidelijker perspectief te creëren.
+
+Conclusie
+
+Mijn ontwerp heeft al een duidelijke richting, maar ik wil de compositie nog strakker maken. Mijn doel is dat de songtekst niet alleen leesbaar is, maar ook visueel het gevoel van beweging en opstijgen overbrengt.
+
+<img width="599" height="771" alt="Scherm­afbeelding 2026-10-20 om 18 29 39" src="https://github.com/user-attachments/assets/92b19352-6419-4187-996e-545ca5117a19" />
+<img width="599" height="771" alt="Scherm­afbeelding 2026-10-20 om 18 29 46" src="https://github.com/user-attachments/assets/f1d1760d-b721-4a32-96ee-b423b65f8b83" />
+
+Check-out:
+
+1. Waarom is het goed om een grid toe te passen?
+
+- Voor de ontwerper: Een grid geeft structuur en maakt het makkelijker om elementen netjes te plaatsen.
+
+- Voor de bezoeker: De website wordt overzichtelijker en informatie is makkelijker te vinden.
+
+2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+1. Gebruik een grid: Zorg voor een duidelijke indeling.
+
+2. Gebruik witruimte: Geef elementen voldoende ruimte.
+
+3. Zorg voor consistentie: Gebruik dezelfde kleuren, lettertypes en afstanden.
+
+
+3. Hoeveel gekkigheid moet er in je werk zitten?
+
+Ik vind dat er best wat gekkigheid in een ontwerp mag zitten, omdat dit het uniek en creatief maakt. Maar het moet niet ten koste gaan van de gebruiksvriendelijkheid. Een goede balans tussen creativiteit en overzichtelijkheid is belangrijk.
+
+Huiswerk: 
+
+Samenvatting: Using Grids in Interface Designg, NNGroup
+
+Dit artikel legt uit waarom grids belangrijk zijn bij het ontwerpen van websites. Een grid helpt om tekst, afbeeldingen en andere onderdelen netjes te plaatsen. Hierdoor wordt een website overzichtelijker en makkelijker te gebruiken. Ook zorgen grids voor consistentie en helpen ze bij het ontwerpen voor verschillende schermgroottes. Je kunt soms van het grid afwijken om bepaalde onderdelen extra aandacht te geven.
+
+Samenvatting: Rhythm in Graphic Design (Code Chefs)
+
+Het artikel gaat over ritme in grafisch ontwerp. Door kleuren, vormen, tekst en afstanden te herhalen, ontstaat er beweging en structuur in een ontwerp. Er zijn drie soorten ritme: regelmatig ritme, waarbij elementen steeds op dezelfde afstand terugkomen, afwisselend ritme, waarbij bijvoorbeeld kleuren of groottes elkaar afwisselen, en willekeurig ritme, waarbij elementen speels maar gecontroleerd worden geplaatst. Ritme helpt om de aandacht van bezoekers te sturen en een ontwerp overzichtelijker te maken. Het is belangrijk om een goede balans te vinden tussen herhaling en afwisseling, zodat het ontwerp niet saai of chaotisch wordt.
+
+Samenvatting: Grids in Graphic Design
+
+De video gaat over het gebruik van grids (rasters) in grafisch ontwerp. Een grid helpt om tekst, afbeeldingen en vormen op een gestructureerde manier te plaatsen. Hierdoor ontstaat er rust, balans en samenhang. Tegelijkertijd biedt een grid ruimte voor creativiteit, omdat je elementen kunt verschuiven, combineren of bewust buiten het raster kunt plaatsen.
+
+## Sprint 3
+
+### Ma 5 okt
+
+Samenvatting: Modular Scale and Meaningful Typography
+
+Dit hoofdstuk gaat over het gebruik van een modular scale om structuur en hiërarchie aan te brengen in typografie. In plaats van willekeurige lettergroottes te kiezen, gebruik je een vaste verhouding tussen de verschillende tekstgroottes. Je begint met een basisgrootte, bijvoorbeeld 18 pixels, en kiest vervolgens een verhouding, zoals 1,5. Hiermee bepaal je de groottes van titels, tussenkoppen en kleinere teksten. Dit zorgt voor een rustig, consistent en overzichtelijk ontwerp. Ook wordt je CSS makkelijker te onderhouden, omdat je steeds dezelfde vooraf bepaalde groottes gebruikt.
+
+Samenvatting:Rhythm & Tension
+
+Deze tekst gaat over hoe je ritme en spanning in typografie kunt creëren. Ritme ontstaat door herhaling van bijvoorbeeld lettergroottes, regelafstanden en uitlijning. Door contrast toe te voegen in grootte, kleur, ruimte, dikte of vorm kun je bepaalde onderdelen extra laten opvallen. Dit zorgt voor een duidelijk focuspunt. Ook kun je sterke verticale lijnen gebruiken om meer structuur aan te brengen. Spatial tension ontstaat door elementen bewust uit het midden te plaatsen, ongelijke witruimtes te gebruiken en te spelen met diepte en de randen van een ontwerp.
+
+Samenvatting: Respect Thy Typography
+
+Dit artikel gaat over het belang van typografie in grafisch ontwerp. Goede typografie draait niet alleen om mooie letters en decoratie, maar vooral om het duidelijk overbrengen van een boodschap. Vroeger lag de nadruk op eenvoud en leesbaarheid, terwijl moderne ontwerpers ook experimenteren met vormen, beweging en emoties. Typografie kan een ontwerp versterken door bewust gebruik te maken van lettergroottes, afstanden en compositie. Het is belangrijk dat creatieve effecten de boodschap ondersteunen en niet afleiden.
+
+Samenvatting: Typesetting Factors (Typography Fundamentals)
+
+Deze tekst gaat over hoe je typografie op een goede en overzichtelijke manier vormgeeft. Hierbij spelen letterafstand (kerning en tracking), regelafstand (leading), uitlijning en witruimte een belangrijke rol. Ook wordt uitgelegd dat een regellengte van ongeveer 45 tot 75 tekens prettig leest. Door verschillende lettergroottes, diktes, kleuren en posities te gebruiken, creëer je een duidelijke visuele hiërarchie. Daarnaast is het belangrijk om storende witruimtes, onhandige woordafbrekingen en ongelijke tekstverdelingen te voorkomen.
+
+Opdracht 1:
+
+Ik heb gekozen voor het nummer Let it happen van Tame Impala. Dit zijn met 10 schetsen:
+
+<img width="550" height="778" alt="Scherm­afbeelding 2026-10-19 om 19 55 10" src="https://github.com/user-attachments/assets/155806a4-2d9c-42d1-9f1c-fe2d1ca06efb" />
+<img width="550" height="778" alt="Scherm­afbeelding 2026-10-19 om 19 55 17" src="https://github.com/user-attachments/assets/53606db9-8904-468d-ba26-b5ca957a5f76" />
+<img width="570" height="450" alt="Scherm­afbeelding 2026-10-19 om 19 55 31" src="https://github.com/user-attachments/assets/e8e0bec2-11fb-4c2e-a185-2d2990235fde" />
+
+Opdracht 2:
+
+1. Wat wil je bij de kijker bereiken met je vormgeving?
+
+Ik wil dat de kijker het ritme en de emotie van het nummer Let It Happen ervaart. Door te spelen met lettergroottes, herhaling, vervorming en beweging wil ik de tekst tot leven brengen.
+
+2. Hoe voegt jouw opzet iets toe aan de tekst?
+
+Mijn vormgeving versterkt de betekenis van de songtekst. Door bepaalde woorden groter te maken, zinnen te herhalen en tekst te vervormen, leg ik de nadruk op de emoties en de dynamiek van het nummer.
+
+3. Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?
+
+Ik kies voor schets 2, waarbij de tekst steeds meer vervormt. Dit past goed bij het psychedelische karakter van Tame Impala. De vervorming zorgt voor beweging en maakt het ontwerp interessant.
+
+4. Hoe zou je dit kunnen aanpakken in code?
+
+Ik kan de songtekst in HTML plaatsen en met CSS vormgeven. Met font-size, letter-spacing, transform en text-shadow kan ik de tekst aanpassen en vervormen. Met keyframes kan ik animaties toevoegen, zodat de woorden langzaam bewegen of vervagen.
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 33 31" src="https://github.com/user-attachments/assets/3abe3912-aac7-4790-8a1e-c2db5ab90ca2" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 37 17" src="https://github.com/user-attachments/assets/1de2930d-b4f5-4813-b008-a99a9fda6a41" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 42 14" src="https://github.com/user-attachments/assets/61e05bf4-78b6-4d3b-9428-451bdfe80bc2" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 49 32" src="https://github.com/user-attachments/assets/b3ae8118-bd4e-4bb4-a809-84544e0400d2" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 55 54" src="https://github.com/user-attachments/assets/6bba79ef-c628-41bf-938b-cc9f5cbe8c82" />
+
+Check-out:
+
+1. Betekenis van de termen
+
+- Kerning: De ruimte tussen twee specifieke letters aanpassen.
+
+- Tracking: De ruimte tussen alle letters van een woord of tekst aanpassen.
+
+- Leading: De ruimte tussen de regels tekst (regelafstand).
+
+- Flush-left: Tekst is links uitgelijnd.
+
+- Flush-right: Tekst is rechts uitgelijnd.
+
+- Centered: Tekst staat gecentreerd.
+
+- Justified: Tekst is aan beide kanten uitgelijnd (uitgevuld).
+
+- Indent: Een regel of tekstblok laten inspringen.
+
+- Outdent: Een regel of tekst buiten de normale kantlijn laten uitsteken.
+
+- Modular scale: Een vaste verhouding gebruiken voor verschillende lettergroottes, zodat er eenheid ontstaat.
+
+- Movable type: Losse letters die vroeger gebruikt werden om teksten te drukken.
+
+- Focuspunt: Het onderdeel van een ontwerp dat als eerste de aandacht trekt.
+
+- Vijf soorten contrast:
+
+  1. Grootte: groot tegenover klein.
+
+  2. Kleur: licht tegenover donker of verschillende kleuren.
+
+  3. Vorm: rond tegenover hoekig.
+
+  4. Gewicht: dikke tegenover dunne letters.
+
+  5. Ruimte: veel tegenover weinig witruimte.
+
+2. Wat is jouw ideale regellengte (measure)?
+
+Mijn ideale regellengte is ongeveer 50 tot 75 tekens per regel. Dit leest prettig, omdat je ogen niet te ver hoeven te bewegen en je makkelijk de volgende regel kunt vinden.
+
+3. Welke variabele zou je gebruiken voor hiërarchie en waarom?
+
+Ik zou kiezen voor grootte. Door belangrijke teksten groter te maken dan minder belangrijke teksten, ziet de gebruiker meteen wat het belangrijkst is. Zo ontstaat er een duidelijke hiërarchie en blijft het ontwerp overzichtelijk.
+
+Huiswerk: 
+
+Samenvatting: Technical Web Typography: Guidelines and Techniques
+
+Dit artikel gaat over hoe je typografie op websites leesbaar en overzichtelijk maakt met behulp van CSS. Het legt uit hoe belangrijk de juiste lettergrootte, regelafstand, regellengte en uitlijning zijn. Een prettige regellengte bestaat uit ongeveer 45 tot 75 tekens. Door een grid en vaste afstanden te gebruiken, ontstaat er een consistent ritme in het ontwerp. Ook wordt uitgelegd hoe je met een typografische schaal verschillende lettergroottes voor titels en gewone tekst bepaalt. Daarnaast zijn details zoals aanhalingstekens, leestekens en witruimte belangrijk voor een professionele uitstraling.
+
+## Sprint 2 
+
+### Vrij 2 okt
+
+[Ontwerp zonder titel.pdf](https://github.com/user-attachments/files/33683280/Ontwerp.zonder.titel.pdf)
+
+<img width="581" height="781" alt="Scherm­afbeelding 2026-10-19 om 21 28 22" src="https://github.com/user-attachments/assets/1aea0194-1974-41ff-ad67-5d96049b4bf7" />
+
+### Woe 30 sep 
+
+Check-out:
+
+1. Waar staat WCAG en A11y voor?
+   
+-WCAG staat voor Web Content Accessibility Guidelines. Dit zijn richtlijnen om websites toegankelijk te maken voor iedereen.
+
+- A11y staat voor Accessibility (toegankelijkheid). De 11 staat voor de 11 letters tussen de A en Y.
+
+2. Wat vind je lastiger, bedienen met toetsenbord of screenreader?
+
+Ik vind een screenreader lastiger, omdat je niet kunt zien waar je precies bent op een website. Je moet goed begrijpen hoe de website is opgebouwd. Ik moet nog oefenen met het navigeren via een screenreader en het gebruiken van de juiste HTML-elementen.
+
+3. Met welke beperking rekening houden vind je het lastigst?
+
+Ik vind het lastigst om rekening te houden met mensen met een visuele beperking. Je moet goed nadenken over kleurcontrasten, afbeeldingen en navigatie.
+Word je beperkt in wat je kunt ontwerpen?
+Een beetje, omdat je niet alles zomaar kunt vormgeven. Maar ik denk dat je nog steeds mooie en creatieve websites kunt maken.
+
+4. Hoe kun je toch leuke extra's toevoegen?
+
+Door eerst een toegankelijke basis te maken en daarna extra's toe te voegen, zoals animaties, hover-effecten en mooie kleuren. Hierbij moet je rekening houden met de voorkeuren van de gebruiker, bijvoorbeeld door animaties te verminderen als iemand dat heeft ingesteld.
+
+### Ma 28 sep 
+
+Vanochtend gestart met de Bi-weekly geek. Dit heb ik samen met Julia, Ana en Sara gedaan. 
+
+<img width="592" height="388" alt="Scherm­afbeelding 2026-09-28 om 13 36 03" src="https://github.com/user-attachments/assets/2e9ef439-3e3d-4cb7-a655-b1080793909d" />
+<img width="592" height="388" alt="Scherm­afbeelding 2026-09-28 om 13 36 23" src="https://github.com/user-attachments/assets/de6d96cc-40ff-4d2c-a50a-e1cd8a159e13" />
+
+Screenreader opdracht:
+
+Ik vond de NS opdracht heel interessant, ik kon hierdoor echt zien hoe belangrijk het is om je website voor iedereen toegankelijk te maken. Ik vond het werken met het toetsenbord nog wel lastig, vooral met een andere datum kiezen om te reizen lukte eerst nog niet goed. Uiteindelijk heb ik gevonden hoe je dit kon veranderen maar het was erg irritant dat de voice over steeds opnieuw begon. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 40 10" src="https://github.com/user-attachments/assets/4887f493-fd2b-4132-b19b-9602da72624f" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 14 29 12" src="https://github.com/user-attachments/assets/1f1731fd-d2a0-439a-a082-057b857bc9c1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 14 40 23" src="https://github.com/user-attachments/assets/e6c450b0-8e99-4658-9402-665d99b1e811" />
+
+Check-out:
+
+1. Wat bedoelt Vasilis met de uitspraak?
+
+Hij bedoelt dat het niet alleen belangrijk is om de juiste HTML-elementen te gebruiken, maar vooral dat een website prettig en toegankelijk werkt voor iedereen. De gebruikerservaring (UX) staat centraal.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
+- Visuele beperkingen: slechtziendheid, blindheid of kleurenblindheid.
+
+- Motorische beperkingen: moeite met het gebruiken van een muis of toetsenbord.
+
+- Auditieve beperkingen: slechthorendheid of doofheid.
+
+- Cognitieve beperkingen: moeite met lezen, concentreren of informatie begrijpen.
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+
+1. Met de Tab-toets: navigeren tussen links, knoppen en andere interactieve elementen.
+
+2. Via headings (koppen): snel van de ene titel naar de andere springen.
+
+3. Via landmarks: direct naar onderdelen van de website gaan, zoals het menu, de hoofdinhoud of de footer.
+
+### Vrij 25 sep 
+
+Vanochtend hebben we in groepsvorm een feedback moment gehad met Vasilis. Dit was heel fijn want nu weet ik meer waar ik op moet focussen. Hij vertelde dat we moeten focussen op wat echt in de website moet en alle "extra's" later nog toegevoegd kunnen worden. Ook dat wij alles goed moeten loggen in dit logboek. Hier ga ik verder mee aan de slag en heb ik de flow te pakken. 
+
+Opdracht HTML valideren:
+
+Ik heb mijn HTML en CSS code in de website geplakt. Hier kwam het volgende uit:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 23 17" src="https://github.com/user-attachments/assets/b753d027-bd48-436c-a1db-a8ba5e3a9618" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-28 om 13 23 40" src="https://github.com/user-attachments/assets/dcedd081-37db-4379-9832-8e949b184cee" />
+
+Ik heb de errors aangepast en nu is de code volledig schoon van errors. 
+
+Check-out: 
+
+1. Wat is HTML-validatie?
+   
+HTML-validatie is het controleren of je HTML-code correct is geschreven en voldoet aan de officiële HTML-regels. Dit is belangrijk omdat fouten in je code ervoor kunnen zorgen dat je website niet goed werkt of er anders uitziet in verschillende browsers.
+
+2. Hoe heb je dat vandaag uitgevoerd?
+   
+Vandaag heb ik mijn HTML-code gecontroleerd met een HTML-validator. Deze gaf aan waar fouten of waarschuwingen in mijn code zaten. Vervolgens heb ik deze aangepast en opnieuw gecontroleerd.
+
+3. Welke dingen vielen je op?
+   
+Het viel me op dat kleine foutjes snel over het hoofd worden gezien, bijvoorbeeld een verkeerd geplaatst of niet afgesloten element. Ook merkte ik dat de validator duidelijk aangeeft waar een probleem zit, waardoor je fouten makkelijker kunt vinden en oplossen.
+
+Huiswerk voor maandag:
+
+Samenvattingen:
+
+Het einde van ‘Wild West’-internet: DSA uitgelegd:
+
+De video legt uit dat het internet steeds meer regels krijgt door de Digital Services Act (DSA) van de Europese Unie. Grote online platforms moeten transparanter zijn over bijvoorbeeld advertenties, algoritmes en het verwijderen van illegale content. Ook krijgen gebruikers meer rechten en bescherming online. Het doel is om het internet veiliger en eerlijker te maken en grote platforms meer verantwoordelijkheid te geven.
+
+ChatGPT faces tougher rules under EU online safety regime:
+
+ChatGPT, Reddit en Roblox krijgen te maken met strengere regels van de Europese Unie onder de Digital Services Act (DSA). Dit komt doordat ze meer dan 45 miljoen maandelijkse gebruikers in de EU hebben. Daardoor moeten ze onder andere beter optreden tegen illegale content en meer aandacht besteden aan de privacy en veiligheid van minderjarigen.
+Als bedrijven zich niet aan deze regels houden, kunnen ze een boete krijgen van maximaal 6% van hun wereldwijde omzet. De EU wil hiermee grote online platforms meer verantwoordelijkheid geven en gebruikers beter beschermen.
+
+AI chatbots citing Russian propaganda sourced from EU-sanctioned outlet:
+
+Het artikel gaat over onderzoek waaruit blijkt dat AI-chatbots soms Russische propaganda als betrouwbare informatie gebruiken. Onderzoekers testten vijf grote AI-modellen en zagen dat sommige antwoorden informatie overnamen van een door de EU gesanctioneerde bron, zonder duidelijk te maken dat deze bron als onderdeel van een Russische beïnvloedingsoperatie wordt gezien. 
+
+Dit laat zien dat AI niet automatisch betrouwbare informatie geeft en dat het belangrijk blijft om bronnen zelf te controleren. Het artikel waarschuwt ook voor Generative Engine Optimisation (GEO): technieken waarmee online informatie zo kan worden aangepast dat AI-systemen deze sneller vinden en mogelijk meenemen in hun antwoorden.
+
+Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?:
+
+In de VS loopt een grote rechtszaak tegen Meta. Bijna dertig Amerikaanse staten beschuldigen het bedrijf ervan Facebook en Instagram bewust verslavend te maken voor jongeren. Functies zoals eindeloos scrollen, automatisch afspelende video’s, likes en filters zouden ervoor zorgen dat jongeren langer op de apps blijven. 
+De staten stellen dat dit schadelijk kan zijn voor de mentale en fysieke gezondheid van jongeren en willen dat Meta deze functies aanpast. Meta bestrijdt de beschuldigingen en zegt juist maatregelen te hebben genomen om tieners beter te beschermen. 
+
+### Woe 23 sep 
+
+Vanochtend een college gehad van Hans de Zwart over privacy. Dit heeft mij wel aan het denken gezet over mijn eigen privacy en hoe ik hier mee om ga. 
+
+Hoe teken je wireflows opdracht:
+
+<img width="607" height="450" alt="Scherm­afbeelding 2026-09-23 om 11 47 48" src="https://github.com/user-attachments/assets/06c3212a-8db6-4ddf-8276-ee0198363ab2" />
+
+Dark Pattern opdracht:
+
+1. Jullie hebben voor het huiswerk een aantal bronnen over dark-patterns gelezen. Kies in een groepje van vier een website die jullie vaak gebruiken en maak wireframes en een wire flow van de manier van werken.
+
+We hebben samen in min groepje Gina Tricot website uitgekozen. Hier komen wij vaak om te shoppen :)
+
+<img width="607" height="450" alt="Scherm­afbeelding 2026-09-23 om 11 47 05" src="https://github.com/user-attachments/assets/9f755276-ba71-41fd-852f-74e67effbff0" />
+
+2. Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
+
+We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."
+
+Human Consent Component opdracht:
+
+1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
+
+Op mijn digital garden verzamel ik zelf weinig gegevens. Toch kunnen diensten zoals Github Pages en het digitaaltuintje-component technische gegevens verwerken. Zoals IP-adres, browsers en apparaattype. Ook externe video's, lettertypes of andere onderdelen kunnen gegevens verzamelen. 
+
+2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+
+Dit kan met een duidelijke privacyverklaring en wanneer nodig een cookiebanner. Hierin leg je kort uit welke gegevens worden verwerkt, waarom en door welke diensten. 
+
+3. Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+
+   -  Cookiebanner
+   -  Cookiepop-up
+   -  Checkbox
+   -  Aan/uit schakelaar
+   -  Cookievoorkeuren kiezen
+   -  Toestemming bij een formulier
+   -  Toestemming voor externe video's
+   -  Socialmedia-content activeren
+   -  Locatietoestemming
+   -  Toestemming voor notificaties 
+
+4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
+
+Ik zou onderaan mijn website een kleine, rustige cookiemelding plaatsen die bij mijn vormgeving past. Bijvoorbeeld met alles accepteren, alleen noodzakelijk en zelf kiezen. Zo blijft de website rustig, maar is het voor bezoekers wel duidelijk wat er met hun gegevens gebeurt.
+
+Check-out:
+
+1. Wat is een wireflow en wat heb je er aan?
+
+Een wireflow is een combinatie van wireframes en een flowchart. Je laat zien welke schermen een gebruiker doorloopt en welke stappen diegene neemt. Hierdoor kan je vooraf controleren of de navigatie logisch en gebruiksvriendelijk is. 
+
+2. Wat zijn dark UX patterns? Geef drie voorbeelden.
+
+   - Verborgen kosten, extra kosten verschijnen pas aan het einde van een bestelling.
+
+   - Moeilijk afmelden, aanmelden is makkelijk maar een abbonement opzeggen word bewust lastig gemaakt.
+
+   - Misleidende knoppen, accepteren is heel opvallend en weigeren is klein of verstopt. 
+
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
+Als ontwerper moet je zorgen dat de gebruiker begrijpt waarvoor toestemming word gevraagd en echt vrij kan kiezen. Gebruik eenvoudige taal, maak accepteren en weigeren duidelijk zichtbaar en probeer de gebruiker niet naar een keuze te sturen. Ook moet toestemming eenvoudig weer ingetrokken kunnen worden. 
+
+### Ma 21 sep 
+
+Vandaag een presentatie gekregen van Justus en Vasilis over html. Ik vond het wel snel gaan maar later heeft Justus zijn code gedeeld gelukkig dus kon ik het nog terug krijgen. Hieronder wat screenshots met mijn wijzigingen: 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 27 39" src="https://github.com/user-attachments/assets/8f60da53-cc43-42a4-8736-3aa974d1b02d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 27 42" src="https://github.com/user-attachments/assets/1adb1c67-22d0-4564-acc1-35a19bc6efdd" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 12 32 11" src="https://github.com/user-attachments/assets/b46f31ad-3767-4602-a990-a3133d56d06e" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 14 01" src="https://github.com/user-attachments/assets/6d78a57b-de37-445b-ba9b-36c4cc74aa05" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 14 30" src="https://github.com/user-attachments/assets/ca5cdbd3-225b-4f24-b60a-c27c7478ee1d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 14 57" src="https://github.com/user-attachments/assets/bc48f5be-5905-49b5-9602-61a7f1212182" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 15 31" src="https://github.com/user-attachments/assets/578e32ef-9453-4f32-be19-0f60fef4555b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 16 05" src="https://github.com/user-attachments/assets/af48a68b-789b-4d3e-83a1-d35040cc6419" />
+
+Hierna heb ik met Julia de opdracht gemaakt over Cookies:
+
+<img width="996" height="728" alt="Scherm­afbeelding 2026-09-21 om 14 38 16" src="https://github.com/user-attachments/assets/4968ab89-46d9-40b0-a6dc-70382d3f29da" />
+
+## Check-out:
+
+1. Wat zijn HTML landmark role elements?
+
+HTML landmark role elements zijn onderdelen in HTML die aangeven welke functie een bepaald gedeelte van een website heeft. Ze zorgen ervoor dat een webpagina een duidelijke structuur krijgt. Zo geeft header bijvoorbeeld de bovenkant van een pagina aan, nav het navigatiemenu, main de belangrijkste inhoud en footer de onderkant van de pagina. Dit is vooral belangrijk voor de toegankelijkheid van een website, omdat screenreaders door deze landmarks beter begrijpen hoe de pagina is opgebouwd. Hierdoor kunnen gebruikers makkelijker door de verschillende onderdelen van een website navigeren.
+
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Heading elementen zijn koppen en tussenkoppen in HTML. Ze lopen van h1 tot en met h6, waarbij h1 de belangrijkste kop is en h6 de minst belangrijke. Deze headings moeten logisch genest worden. Dat betekent dat je ze in de juiste volgorde gebruikt. Je begint met een h1 voor de hoofdtitel. Onderwerpen daaronder krijgen een h2. 
+
+3. Hoe ga je met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+Voor dit college accepteerde ik cookies eigenlijk vaak zonder er echt bij na te denken. Ik wilde vooral snel verder op de website en koos daarom meestal voor ‘alles accepteren’. Ik stond niet echt stil bij welke gegevens er verzameld werden en waarvoor deze werden gebruikt.
+Na het volgen van dit college ben ik me bewuster geworden van mijn privacy en van de manier waarop websites mij proberen te sturen in mijn keuze. Ik kijk nu beter naar de verschillende opties en kies liever alleen voor noodzakelijke cookies. Ook let ik meer op hoe een cookiemelding is ontworpen. Als ‘alles accepteren’ heel opvallend is en weigeren moeilijk te vinden is, herken ik dit nu sneller als een manier om mijn keuze te beïnvloeden.
+
+## Huiswerk voor woensdag:
+
+1. Samenvatting video Microinteractions Design with Details:
+   
+Micro-interactions zijn kleine momenten waarop een gebruiker interactie heeft met een website of app. Denk bijvoorbeeld aan een knop die verandert wanneer je erop klikt, een melding nadat je iets hebt opgeslagen of een animatie wanneer je een actie uitvoert. Deze kleine details geven de gebruiker feedback en laten zien wat er gebeurt. Volgens Saffer kunnen juist deze kleine interacties ervoor zorgen dat een product duidelijker, prettiger en leuker in gebruik wordt. Het gaat dus niet alleen om hoe een ontwerp eruitziet, maar vooral om hoe het reageert op de gebruiker.
+
+2. Samenvatting artikel What are dark patterns in UX?:
+
+Dark patterns zijn ontwerpkeuzes in websites en apps die gebruikers bewust sturen of misleiden om iets te doen wat vooral voordelig is voor het bedrijf. Bijvoorbeeld onbewust een abonnement afsluiten, extra kosten betalen, persoonlijke gegevens delen of moeite hebben om een abonnement op te zeggen. Voorbeelden zijn verborgen kosten bij het afrekenen, een opvallende knop die je richting een bepaalde keuze stuurt, automatisch verlengde proefabonnementen en confirm-shaming, waarbij je je bijna schuldig voelt als je iets weigert. Ook FOMO zoals “Nog maar 2 beschikbaar!” kan als dark pattern worden ingezet om iemand onder druk te zetten. Voor UX-designers is het daarom belangrijk om transparant en eerlijk te ontwerpen. De gebruiker moet gemakkelijk kunnen begrijpen wat er gebeurt en vrij een keuze kunnen maken. Goede UX draait om de behoeften van de gebruiker, terwijl dark patterns vooral het belang van het bedrijf dienen.
+
+3. Samenvatting Deceptive Patterns in UX: How to Recognize and Avoid Them:
+
+Deceptive patterns zijn ontwerp keuzes die gebruikers misleiden of sturen om iets te doen wat vooral voordelig is voor het bedrijf, maar niet per se voor de gebruiker. Denk aan het moeilijk maken om een abonnement op te zeggen, automatisch extra opties aanvinken of iemand een schuldgevoel geven wanneer diegene iets weigert.
+Het verschil met gewone overtuigende UX is dat een deceptive pattern de gebruiker misleidt of belemmert. Een ontwerp mag iemand best overtuigen, zolang de informatie eerlijk is en de gebruiker vrij en duidelijk kan kiezen. Voor UX-designers is het daarom belangrijk om ontwerpen kritisch te controleren: kan de gebruiker makkelijk alle keuzes vinden, is alle informatie duidelijk en wordt niemand onder druk gezet? Goede UX probeert zowel de doelen van het bedrijf als de belangen van de gebruiker te respecteren.
+
+## Deep dive Buttons, states en selectors (Vasilis) 
+
+Ik heb eerst de 2 artikelen gelezen en samengevat:
+
+Pseudo-classes in CSS gebruik je om een element een andere stijl te geven wanneer het zich in een bepaalde situatie of status bevindt. Je schrijft een pseudo-class met een dubbele punt : achter het element. Een bekend voorbeeld is hover. Hiermee verander je bijvoorbeeld een knop zodra iemand er met de muis overheen gaat. Andere voorbeelden zijn focus, wanneer bijvoorbeeld een invoerveld geselecteerd is, checked voor een aangevinkte checkbox en first-child om het eerste element binnen een groep te selecteren.
+
+User interaction in CSS gaat over het geven van visuele feedback wanneer een gebruiker iets doet op een website. Bijvoorbeeld wanneer iemand over een knop beweegt, op een link klikt of een invoerveld selecteert. Zonder zulke feedback kan het onduidelijk zijn of iets klikbaar is of dat een actie gelukt is.
+Hiervoor kun je pseudo-classes gebruiken, zoals hover, focus-visible, checked, valid en invalid. Zo kun je bijvoorbeeld laten zien of een formulier correct is ingevuld of welk element iemand met het toetsenbord heeft geselecteerd. Dit maakt een website niet alleen duidelijker, maar ook toegankelijker.
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 05 39" src="https://github.com/user-attachments/assets/0cc796d7-0f60-4d1a-b90b-f67d8c17ab77" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-21 om 15 08 07" src="https://github.com/user-attachments/assets/4311cccb-b4bb-460f-be88-3873b371aacf" />
+
+## Sprint 1 
+
+## Bronnen
+
 https://www.japan.travel/en/guide/tea-ceremony
 
 https://www.japan.travel/en/guide/japans-cultural-heritage
@@ -27,6 +587,8 @@ https://nl.pinterest.com/pin/50735933300144578/
 https://nl.pinterest.com/pin/140806234238616/
 
 https://www.1001fonts.com/japanese-fonts.html
+
+https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
 
 ### 31 aug - Kickoff
 Tijdens de kickoff heb ik mijn eigen domein naam gekocht: www.tuintjevanannelot.nl. Ik heb alles ingestalleerd om tijdens dit blok met mijn website aan de gang te kunnen gaan. 
@@ -557,4 +1119,218 @@ Hieronder wat foto's van de ontwikkelingen die ik vandaag heb gemaakt voor mijn 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 45" src="https://github.com/user-attachments/assets/ae80c713-95ee-466d-9808-9cb5bf85fa70" /><img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 40" src="https://github.com/user-attachments/assets/e6d784c7-49ee-484c-8e11-89e05879273c" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-16 om 15 54 42" src="https://github.com/user-attachments/assets/683f1e42-7958-483d-87b4-da8d25d2ccb8" />
 
-Deep dive responsive grid + grid-areas:
+### 18 Sep 
+
+Vanochtend heb ik de retrospect gedaan en afgerond: 
+
+Welke tekening is het best? 
+
+Ik vind de tekening met het schip en de tekening met de titel in het midden het leukst. Ik vind dat de verschillen tussen titels en bij tekst heel leuk is toegevoegd. Ook de tekening met het schip vind ik origineel en zoiets inspireert mij ook om zo iets te maken.  
+
+Welke het minst? Probeer de keuzes te beargumenteren.
+
+Ik vind de tekening met alleen potloot getekend het minst mooist omdat er geen verdeling in tekst zit waardoor het heel eentonig lijkt. 
+
+Wat maakt een tekening goed en wat niet? 
+
+Do’s:
+
+1. Maak een duidelijk aandachtspunt – laat zien wat het belangrijkste is.
+2. Gebruik contrast – bijvoorbeeld licht/donker, groot/klein of dik/dun.
+3. Denk na over compositie – verdeel de onderdelen bewust over het vlak.
+4. Gebruik kleuren die bij elkaar passen – en bij de gewenste sfeer.
+5. Houd je stijl consistent – gebruik bijvoorbeeld dezelfde soort lijnen en vormen.
+
+Don’ts
+
+1. Maak niet alles even opvallend – dan weet je niet waar je moet kijken.
+2. Gebruik niet te veel verschillende kleuren – dit kan onrustig worden.
+3. Zet niet zomaar alles ergens neer – voorkom een rommelige compositie.
+4. Gebruik niet te veel details – alleen details die iets toevoegen.
+5. Kopieer niet klakkeloos – maak bewuste keuzes die passen bij jouw eigen idee.
+
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 10" src="https://github.com/user-attachments/assets/c2718b3f-ade5-4344-a3d5-342fbb8342cb" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 17" src="https://github.com/user-attachments/assets/32774604-b654-4d97-a0e2-6e70377ffb62" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 30" src="https://github.com/user-attachments/assets/7dd27892-89c7-424f-bdb7-da64e37e567c" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 21 45" src="https://github.com/user-attachments/assets/1f379b6d-ae1f-4d16-9b00-ce6473c5e533" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 21 55" src="https://github.com/user-attachments/assets/b4cf10aa-de95-41c7-ae28-0b6a249c3bec" />
+<img width="593" height="802" alt="Scherm­afbeelding 2026-09-18 om 12 22 02" src="https://github.com/user-attachments/assets/4bf6c4ed-90e3-4072-8f20-11a0403b0a50" />
+
+Tussendoor heb ik mijn voortgangsgesprek gehad voor sprint 1. Dit ging super goed, ik had dit samen met Vasilis en Maarten. Vasilis vond mijn website heel clean en duidelijk. Mijn feedback is het volgende: 
+
+- Ik moet meer mijn stappen documenteren en laten zien wat mijn voortgang is. Niet alleen laten zien wat het eindproduct is maar ook de route er naar toe.
+
+- Mijn website moet meer responsive, grid-bases layout krijgen.
+
+- Feedback vanuit Maarten op mijn code:
+
+   Section moet naar main gezet worden.
+   Html color schema in root zetten.
+   Box sizing voor elke border box gebruiken. 
+   Voor de foto's heb ik veel code herhaald, alles bij elkaar zetten. Dit in de body zetten.
+   Tekst en kleur net niet een goede combinatie. Maarten heeft mij een goede tip gegeven van een fijne website die dit duidelijk laat zien:             https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
+
+Check-out vragen:
+
+Oriënteren en begrijpen
+  
+- Waarom geven de docenten deze opdracht?
+
+Om te leren hoe ik een website zelf kan ontwerpen en bouwen met HTML en CSS. Ook leer ik nadenken over hoe ik het web op een creatieve en interactieve manier kan gebruiken.
+
+- Welke technieken gebruik ik?
+
+Ik gebruik vooral HTML en CSS. HTML gebruik ik voor de inhoud en structuur van mijn website en CSS voor de vormgeving, positionering, responsive tekst en effecten.
+
+- Wat zijn de randvoorwaarden?
+
+Mijn website moet onder andere werken met HTML en CSS, toegankelijk zijn, op verschillende schermgroottes werken en echt webby zijn. Ik moet dus niet alleen een statisch ontwerp maken. Ook moet het mobile responsive zijn. 
+
+- Waar gebruik je HTML/CSS voor?
+
+HTML gebruik ik om de inhoud van mijn website te structureren, zoals mijn navigatie, titels, teksten en afbeeldingen. CSS gebruik ik om deze onderdelen vorm te geven en bijvoorbeeld scroll- en hovereffecten toe te voegen.
+
+- Wat kan er allemaal met CSS?
+
+Met CSS kan ik kleuren, lettertypes, formaten en posities aanpassen. Ik kan ook layouts maken en interacties, transities en animaties toevoegen.
+
+Verbeelden en conceptualiseren
+
+- Lukt het om verschillende ideeën te bedenken? 
+
+Ja. Ik heb verschillende ideeën onderzocht voor hoe ik matcha visueel kan laten zien. Uiteindelijk heb ik gekozen om de bezoeker mee te nemen door de reis van matcha.
+
+- Lukt het om je ideeën te schetsen?
+
+Ja. Door mijn ideeën eerst visueel uit te werken, kan ik beter bepalen waar afbeeldingen, teksten en interactieve onderdelen moeten komen.
+
+- Wat doet deze CSS-property? 
+
+Dat verschilt per property. Bijvoorbeeld position: sticky zorgt ervoor dat mijn afbeelding tijdens het scrollen tijdelijk op zijn plek blijft staan. text-shadow geeft mijn tekst een schaduw zodat deze beter leesbaar is.
+
+- Welke content en welke HTML heb ik nodig? 
+
+Ik heb afbeeldingen, titels, teksten en een navigatie nodig. Daarvoor gebruik ik onder andere nav, section, figure, img, h1, h2 en p.
+
+- Hoe kan ik dit soort content vormgeven?
+
+Met grote beeldvullende foto's, rustige typografie en tekst over de afbeeldingen. Ik wil dat de website aansluit bij de rustige en natuurlijke sfeer van matcha.
+
+- Wat als ik hier nu eens 1000 invul? 
+
+Dan probeer ik bewust een extreme waarde uit. Hierdoor zie ik duidelijk wat een CSS-property doet en kan ik soms onverwachte ideeën of effecten ontdekken. 
+
+Prototypen en uitwerken
+
+- Begrijpen bezoekers de site? 
+
+Dat kan ik testen door anderen mijn website te laten gebruiken en te kijken of ze begrijpen waar ze moeten klikken, scrollen en waar ze informatie kunnen vinden. Vasilis had ook gelijk de site door om te scrollen naar beneden. 
+
+- Wat vindt de opdrachtgever ervan? 
+
+In dit geval zijn mijn docenten eigenlijk mijn opdrachtgever. Door mijn werkende website te laten zien, kunnen zij feedback geven op mijn ontwerp en uitwerking.
+
+- Werkt dit wel? 
+
+Dat ontdek ik door mijn ideeën meteen in HTML en CSS uit te proberen. Soms ziet iets er in mijn hoofd goed uit, maar werkt het technisch niet zoals verwacht.
+
+Evalueren
+
+- Wat wilde ik weten?
+
+Ik wilde weten hoe ik een interessante en webby website over matcha kon maken.
+
+- Wat deed ik om daarachter te komen?
+
+Ik heb inspiratie onderzocht, verschillende ontwerpen bekeken, ideeën uitgeprobeerd en vervolgens zelf met HTML en CSS gebouwd.
+
+- Wat was het resultaat?
+
+Een website genaamd The Green Ritual, waarin ik de wereld en reis van matcha op een visuele manier laat zien.
+
+- Wat weet ik nu (niet)?
+
+Ik begrijp HTML en CSS steeds beter en weet bijvoorbeeld hoe ik elementen kan positioneren en scroll-effecten kan maken. Animaties en complexere CSS wil ik nog verder leren.
+
+- Wat wilde ik bereiken? 
+
+Ik wilde een rustige, visuele en interactieve website maken waarbij de bezoeker meer leert over matcha.
+
+- Wat heb ik gedaan? 
+
+Ik heb onderzoek gedaan, inspiratie verzameld, mijn website ontworpen en vervolgens mijn ontwerp met HTML en CSS gebouwd en aangepast.
+
+- Wat vond ik (niet) leuk? 
+
+Ik vind het leuk dat ik met CSS mijn eigen vormgeving echt tot leven kan brengen. Soms vind ik het lastig wanneer iets technisch niet meteen doet wat ik wil.
+
+- Voldoet het nog aan de eisen? 
+
+Dat moet ik tijdens het maken blijven controleren. Ik moet bijvoorbeeld kijken naar de techniek, toegankelijkheid, verschillende schermgroottes en of mijn website voldoende webby blijft. 
+
+Checks voor mijn website
+
+- Is mijn HTML nog valide?
+
+Ja mijn website is valide en doet het goed. 
+
+- Klopt mijn HTML? 
+
+Mijn HTML heeft een duidelijke structuur met onder andere een navigatie, sections, figures, afbeeldingen en headings.
+
+- Gebruik ik de juiste elementen op de juiste plek? 
+
+Voor mijn huidige homepage gebruik ik bijvoorbeeld <nav> voor mijn navigatie, img voor afbeeldingen en h1 en h2 voor mijn titels.
+
+- Is mijn website goed te gebruiken met het toetsenbord? 
+
+Dit moet ik testen door mijn website zonder muis te gebruiken en bijvoorbeeld met Tab door de links te gaan.
+
+- Is mijn website te begrijpen met een screenreader?
+
+Dit moet ik nog testen. Een goede HTML-structuur en duidelijke teksten helpen hierbij.
+
+- Zitten er alt-teksten op de afbeeldingen?
+
+Ja. Ik gebruik bijvoorbeeld alt="Matcha tuin", alt="Matcha poeder" en alt="Matcha kom".
+
+- Is het contrast overal hoog genoeg?
+
+Bij de teksten over foto's gebruik ik witte tekst met een donkere text-shadow. Daardoor probeer ik de tekst duidelijk leesbaar te houden.
+
+- Is mijn website nog wel adaptief? 
+
+Gedeeltelijk. Ik gebruik bijvoorbeeld clamp() waardoor mijn tekstgroottes zich aanpassen aan de schermgrootte. Ik moet de volledige website nog op verschillende schermformaten controleren.
+
+- Werkt mijn website met light- en darkmode? 
+
+Ja, in mijn CSS gebruik ik color-scheme: light dark en light-dark() voor de algemene tekst- en achtergrondkleur.
+
+- Wat gebeurt er met prefers-reduced-motion? 
+
+Dit heb ik op dit moment nog niet toegevoegd. Dit kan ik nog verbeteren zodat mensen die minder beweging willen ook prettig gebruik kunnen maken van mijn website.
+
+- Werkt mijn website op verschillende schermgroottes? 
+
+Een aantal onderdelen past zich al aan, maar dit moet ik nog testen op bijvoorbeeld mobiel, tablet en desktop.
+
+- Voldoet mijn website nog wel aan de wet?
+
+Ik moet onder andere controleren of ik mijn afbeeldingen en lettertypes volgens de juiste licenties mag gebruiken en rekening houden met privacy als ik persoonsgegevens verzamel.
+
+- Overtreed ik de wet niet? 
+
+Dat moet ik blijven controleren, vooral bij afbeeldingen, fonts, auteursrecht en eventuele persoonsgegevens.
+
+- Zie ik mezelf nog wel terug in wat ik doe? 
+
+Ja. Ik heb zelf voor matcha gekozen en de rustige, natuurlijke en visuele stijl past bij hoe ik het onderwerp wil presenteren.
+
+- Is dit wat ik wil maken?
+
+Ja. Ik wil geen standaard informatieve website maken, maar een website waarbij de bezoeker matcha op een visuele en interactieve manier ontdekt.
+
+- Is dit wat ik wil leren? 
+
+Ja. Ik wil beter worden in HTML en CSS en vooral leren hoe ik vormgeving, interactie en beweging kan combineren in een website. 
+
