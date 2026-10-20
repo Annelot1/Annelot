@@ -209,7 +209,6 @@ body {
   border-radius: 50%;
   box-shadow: 0 5px 20px #0003;
 
-  /* Automatisch openen na 5 seconden */
   animation: cookieExpand 0.8s ease 5s forwards;
 
   transition:
@@ -220,7 +219,7 @@ body {
 }
 
 /* =========================
-   MATCHA ICOON
+   MATCHA KOEKJE
 ========================= */
 
 .matcha-cookie {
@@ -228,11 +227,16 @@ body {
   height: 65px;
   display: grid;
   place-items: center;
-
-  font-size: 35px;
-  cursor: pointer;
   position: relative;
   z-index: 2;
+  cursor: pointer;
+}
+
+.matcha-cookie-img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 50%;
 }
 
 /* =========================
@@ -240,11 +244,11 @@ body {
 ========================= */
 
 .cookie-content {
-  padding: 0 25px 25px;
+  padding: 0 22px 22px;
   opacity: 0;
   visibility: hidden;
 
-  animation: cookieText 0.5s ease 5.6s forwards;
+  animation: cookieText 0.4s ease 5.6s forwards;
 
   transition:
     opacity 0.3s ease,
@@ -252,29 +256,30 @@ body {
 }
 
 .cookie-content h2 {
-  font-size: 24px;
+  font-size: 23px;
   margin: 0 0 10px;
   color: #344e41;
 }
 
 .cookie-content p {
   font-size: 14px;
-  line-height: 1.6;
+  line-height: 1.5;
   color: #344e41;
+  margin: 0;
 }
 
 /* =========================
-   KNOPPEN
+   ACCEPTEREN KNOP
 ========================= */
 
 .cookie-buttons {
   display: flex;
-  gap: 10px;
-  margin-top: 20px;
+  margin-top: 18px;
 }
 
 .cookie-buttons label {
   flex: 1;
+  display: block;
   padding: 12px 8px;
   text-align: center;
 
@@ -284,6 +289,8 @@ body {
 
   cursor: pointer;
   font-size: 14px;
+
+  transition: background-color 0.3s ease;
 }
 
 .cookie-buttons label:hover {
@@ -299,12 +306,12 @@ body {
     width: 65px;
     height: 65px;
     border-radius: 50%;
-    background: #a4b67c;
+    background: #f7f4ec;
   }
 
   to {
-    width: 330px;
-    height: 250px;
+    width: min(350px, calc(100vw - 50px));
+    height: 330px;
     border-radius: 18px;
     background: #f7f4ec;
   }
@@ -323,17 +330,16 @@ body {
 }
 
 /* =========================
-   NA ACCEPTEREN / WEIGEREN
-   INKLAPPEN NAAR ICOON
+   NA ACCEPTEREN:
+   TERUG NAAR KLEIN KOEKJE
 ========================= */
 
 .cookie-widget:has(#cookie-close:checked) .cookie-popup {
   animation: none;
-
   width: 65px;
   height: 65px;
   border-radius: 50%;
-  background: #a4b67c;
+  background: #f7f4ec;
 }
 
 .cookie-widget:has(#cookie-close:checked) .cookie-content {
@@ -343,14 +349,13 @@ body {
 }
 
 /* =========================
-   OPNIEUW OPENEN VIA ICOON
+   OPNIEUW OPENEN VIA KOEKJE
 ========================= */
 
 .cookie-widget:has(#cookie-open:checked) .cookie-popup {
   animation: none;
-
-  width: 330px;
-  height: 250px;
+  width: min(350px, calc(100vw - 50px));
+  height: 330px;
   border-radius: 18px;
   background: #f7f4ec;
 }
@@ -359,6 +364,16 @@ body {
   animation: none;
   opacity: 1;
   visibility: visible;
+}
+
+/* =========================
+   SCROLLEN ALS TEKST TE LANG IS
+========================= */
+
+.cookie-popup {
+  max-height: calc(100dvh - 50px);
+  overflow-y: auto;
+  scrollbar-width: thin;
 }
 
 /* =========================
@@ -375,17 +390,29 @@ body {
 ========================= */
 
 @media (max-width: 400px) {
-  .cookie-widget:has(#cookie-open:checked) .cookie-popup {
-    width: calc(100vw - 50px);
+  .cookie-widget {
+    bottom: 15px;
+    left: 15px;
   }
 
   @keyframes cookieExpand {
+    from {
+      width: 65px;
+      height: 65px;
+      border-radius: 50%;
+      background: #f7f4ec;
+    }
+
     to {
-      width: calc(100vw - 50px);
-      height: 250px;
+      width: calc(100vw - 30px);
+      height: 330px;
       border-radius: 18px;
       background: #f7f4ec;
     }
+  }
+
+  .cookie-widget:has(#cookie-open:checked) .cookie-popup {
+    width: calc(100vw - 30px);
   }
 }
 
@@ -396,8 +423,8 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .cookie-popup {
     animation: none;
-    width: min(330px, calc(100vw - 50px));
-    height: 250px;
+    width: min(350px, calc(100vw - 50px));
+    height: 330px;
     border-radius: 18px;
     background: #f7f4ec;
   }
@@ -407,10 +434,16 @@ body {
     opacity: 1;
     visibility: visible;
   }
-}
-.matcha-cookie-img {
-  width: 50px;
-  height: 50px;
-  object-fit: contain;
-  border-radius: 50%;
+
+  .cookie-widget:has(#cookie-close:checked) .cookie-popup {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background: #f7f4ec;
+  }
+
+  .cookie-widget:has(#cookie-close:checked) .cookie-content {
+    opacity: 0;
+    visibility: hidden;
+  }
 }
