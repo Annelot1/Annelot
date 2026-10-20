@@ -1,5 +1,3 @@
-## Sprint 2 
-
 ## Bronnen
 
 https://nl.wikipedia.org/wiki/Matcha
@@ -310,6 +308,8 @@ Huiswerk:
 Samenvatting: Technical Web Typography: Guidelines and Techniques
 
 Dit artikel gaat over hoe je typografie op websites leesbaar en overzichtelijk maakt met behulp van CSS. Het legt uit hoe belangrijk de juiste lettergrootte, regelafstand, regellengte en uitlijning zijn. Een prettige regellengte bestaat uit ongeveer 45 tot 75 tekens. Door een grid en vaste afstanden te gebruiken, ontstaat er een consistent ritme in het ontwerp. Ook wordt uitgelegd hoe je met een typografische schaal verschillende lettergroottes voor titels en gewone tekst bepaalt. Daarnaast zijn details zoals aanhalingstekens, leestekens en witruimte belangrijk voor een professionele uitstraling.
+
+## Sprint 2 
 
 ### Vrij 2 okt
 
