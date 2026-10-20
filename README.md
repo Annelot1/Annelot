@@ -161,6 +161,9 @@ Conclusie
 
 Mijn ontwerp heeft al een duidelijke richting, maar ik wil de compositie nog strakker maken. Mijn doel is dat de songtekst niet alleen leesbaar is, maar ook visueel het gevoel van beweging en opstijgen overbrengt.
 
+<img width="599" height="771" alt="Scherm­afbeelding 2026-10-20 om 18 29 39" src="https://github.com/user-attachments/assets/92b19352-6419-4187-996e-545ca5117a19" />
+<img width="599" height="771" alt="Scherm­afbeelding 2026-10-20 om 18 29 46" src="https://github.com/user-attachments/assets/f1d1760d-b721-4a32-96ee-b423b65f8b83" />
+
 Check-out:
 
 1. Waarom is het goed om een grid toe te passen?
