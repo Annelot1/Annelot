@@ -341,6 +341,79 @@ Een beetje, omdat je niet alles zomaar kunt vormgeven. Maar ik denk dat je nog s
 
 Door eerst een toegankelijke basis te maken en daarna extra's toe te voegen, zoals animaties, hover-effecten en mooie kleuren. Hierbij moet je rekening houden met de voorkeuren van de gebruiker, bijvoorbeeld door animaties te verminderen als iemand dat heeft ingesteld.
 
+### Deep Dive Animaties 
+
+Samenvatting:
+
+Met CSS kun je beweging toevoegen aan je website met transitions en animations.
+
+- Transitions: gebruik je voor eenvoudige veranderingen, bijvoorbeeld wanneer je over een knop hovert.
+
+- Animations: gebruik je voor complexere bewegingen of animaties die zich herhalen.
+
+1. keyframes
+
+Met keyframes bepaal je de belangrijkste stappen van een animatie. De browser berekent automatisch de beweging tussen deze stappen. Dit heet tweening.
+
+2. Animatie toepassen
+Je koppelt de animatie aan een HTML-element:
+
+4. Meerdere keyframes
+
+Je kunt extra percentages toevoegen, zoals 25%, 50% en 75%. Hiermee maak je complexere bewegingen, bijvoorbeeld een element dat in een vierkant beweegt.
+
+5. Belangrijke animation-properties
+
+Property	Betekenis
+
+animation-name	Naam van de animatie
+
+animation-duration	Hoelang de animatie duurt
+
+animation-iteration-count	Hoe vaak de animatie herhaalt
+
+animation-timing-function	Snelheid en versnelling van de beweging
+
+animation-direction	Richting waarin de animatie afspeelt
+
+animation-delay	Vertraging voordat de animatie begint
+
+animation-play-state	Animatie pauzeren of hervatten
+
+animation-fill-mode	Bepaalt welke stijl vóór of na de animatie behouden blijft
+
+6. Prefers-reduced-motion
+
+Niet iedereen kan goed tegen beweging. Met prefers-reduced-motion houd je rekening met bezoekers die minder animaties willen.
+
+De animatie speelt nu alleen af wanneer de gebruiker geen voorkeur voor minder beweging heeft ingesteld.
+
+6. Custom easing
+
+Met easing bepaal je hoe een beweging versnelt en vertraagt.
+
+- ease-in: begint langzaam.
+
+- ease-out: eindigt langzaam.
+
+- linear: constante snelheid.
+
+- cubic-bezier(): zelf een versnelling instellen.
+
+- linear(): complexere bewegingen maken, zoals stuiteren of veren.
+
+Oefening 1:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 19 21 30" src="https://github.com/user-attachments/assets/51b48f2f-4506-4a7a-8a4d-e7dff2b56563" />
+
+Oefening 2:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 19 23 24" src="https://github.com/user-attachments/assets/c74f8745-3158-42bd-a098-b52a7acad78a" />
+
+Oefening 3:
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 19 27 19" src="https://github.com/user-attachments/assets/bc83508c-3f69-4238-b549-02e6146a973d" />
+
 ### Ma 28 sep 
 
 Vanochtend gestart met de Bi-weekly geek. Dit heb ik samen met Julia, Ana en Sara gedaan. 
@@ -379,6 +452,50 @@ Hij bedoelt dat het niet alleen belangrijk is om de juiste HTML-elementen te geb
 2. Via headings (koppen): snel van de ene titel naar de andere springen.
 
 3. Via landmarks: direct naar onderdelen van de website gaan, zoals het menu, de hoofdinhoud of de footer.
+
+### Deep Dive Variabele fonts 
+
+Samenvatting:
+
+Variabele fonts zijn lettertypen waarbij meerdere varianten, zoals Thin, Regular en Bold, in één font-bestand zitten. Hierdoor kun je de dikte en soms ook de breedte van letters heel precies aanpassen.
+
+1. Voordelen van variabele fonts
+
+- Je hebt maar één font-bestand nodig voor meerdere gewichten.
+
+- Je kunt zelf exacte gewichten kiezen, bijvoorbeeld 537 in plaats van 400 of 700.
+
+- Het kan efficiënter zijn dan meerdere losse font-bestanden gebruiken.
+
+2. Variabele fonts toevoegen
+
+Met font-face voeg je een gedownload lettertype toe aan je CSS.
+
+3. Verschillende eigenschappen
+
+Met CSS kun je verschillende onderdelen aanpassen:
+
+- font-weight: de dikte van de letters.
+
+- font-stretch: de breedte van de letters.
+
+- font-style: bijvoorbeeld normaal of cursief.
+
+- font-variation-settings: speciale eigenschappen van een variabel font.
+
+4. Custom axes
+
+Sommige variabele fonts hebben extra instellingen, ook wel assen genoemd.
+
+Het lettertype Nabla heeft bijvoorbeeld:
+
+- EDPT: bepaalt de diepte van het 3D-effect.
+
+- EHLT: bepaalt de sterkte van het highlight-effect.
+  
+5. Waar vind je variabele fonts?
+
+Je kunt variabele fonts vinden via Google Fonts, V-Fonts, Typotheque en Fonts.xyz. Met Wakamai Fondue kun je controleren welke instellingen een font ondersteunt.
 
 ### Vrij 25 sep 
 
@@ -430,6 +547,11 @@ Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust ver
 
 In de VS loopt een grote rechtszaak tegen Meta. Bijna dertig Amerikaanse staten beschuldigen het bedrijf ervan Facebook en Instagram bewust verslavend te maken voor jongeren. Functies zoals eindeloos scrollen, automatisch afspelende video’s, likes en filters zouden ervoor zorgen dat jongeren langer op de apps blijven. 
 De staten stellen dat dit schadelijk kan zijn voor de mentale en fysieke gezondheid van jongeren en willen dat Meta deze functies aanpast. Meta bestrijdt de beschuldigingen en zegt juist maatregelen te hebben genomen om tieners beter te beschermen. 
+
+### Deep Dive Interessantere layouts 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 19 09 06" src="https://github.com/user-attachments/assets/ca3fdb21-fdc7-4989-bb85-37c5b5c6ffd1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 19 09 08" src="https://github.com/user-attachments/assets/a0e713d3-7694-47b1-9684-e661666a6e8f" />
 
 ### Woe 23 sep 
 
@@ -496,6 +618,10 @@ Een wireflow is een combinatie van wireframes en een flowchart. Je laat zien wel
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 
 Als ontwerper moet je zorgen dat de gebruiker begrijpt waarvoor toestemming word gevraagd en echt vrij kan kiezen. Gebruik eenvoudige taal, maak accepteren en weigeren duidelijk zichtbaar en probeer de gebruiker niet naar een keuze te sturen. Ook moet toestemming eenvoudig weer ingetrokken kunnen worden. 
+
+### Deep Dive Meer interactie met HTML en CSS 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 19 05 59" src="https://github.com/user-attachments/assets/400e1313-954e-4fcd-9186-8a133f1f9aab" />
 
 ### Ma 21 sep 
 
