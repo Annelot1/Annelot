@@ -97,6 +97,12 @@ Cursor Camp is een interactieve website waarop je met je muiscursor een digitale
   
 ### Woe 7 okt
 
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/ef9f4f74-47c6-4546-9f72-0e26ec86f4ec" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/97888d8b-32d8-4b14-aaee-23d27c55b94e" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 44" src="https://github.com/user-attachments/assets/00d638cd-e1cb-499b-ab84-86650f393c2f" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 46" src="https://github.com/user-attachments/assets/202efaec-a802-4c49-9be4-c097c10f6afe" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 54 09" src="https://github.com/user-attachments/assets/f2d8dcb1-006d-4173-b00b-2d2f483ae096" />
+
 1. Bepaal de line-height bij je gekozen font-size
 
 Ik gebruik het lettertype Seraphs. De tekst begint klein en wordt steeds groter. Ik kies een line-height van 1.1, zodat de regels dicht bij elkaar staan en samen een landingsbaan vormen.
