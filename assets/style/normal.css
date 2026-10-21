@@ -1239,14 +1239,20 @@ body .newsletter-popup label {
   color: var(--theme-text);
 }
 
-/* LIGHT & DARK MODE */
+/* ========================================
+   LIGHT & DARK MODE
+   ======================================== */
+
+/* LIGHT MODE */
 
 html {
-  color-scheme: light dark;
+  color-scheme: light;
 
-  /* LIGHT MODE */
   --background: #f5f0e8;
   --color: #382b25;
+
+  --color-muted: #6c584c;
+  --color-line: #cbbeb2;
 
   --background-button: #382b25;
   --color-button: #f5f0e8;
@@ -1257,14 +1263,21 @@ html {
   --background-footer: #382b25;
   --color-footer: #f5f0e8;
 
-  --color-line: #cbbeb2;
+  --background-popup: #f5f0e8;
+  --color-popup: #382b25;
+}
 
-  /* DARK MODE */
-  @media (prefers-color-scheme: dark) {
+/* DARK MODE */
+
+@media (prefers-color-scheme: dark) {
+  html {
     color-scheme: dark;
 
     --background: #382b25;
     --color: #f5f0e8;
+
+    --color-muted: #d4c3b2;
+    --color-line: #806e60;
 
     --background-button: #f5f0e8;
     --color-button: #382b25;
@@ -1275,18 +1288,23 @@ html {
     --background-footer: #241b17;
     --color-footer: #f5f0e8;
 
-    --color-line: #806e60;
+    --background-popup: #382b25;
+    --color-popup: #f5f0e8;
   }
 }
 
-/* ALGEMENE ACHTERGROND */
+/* ========================================
+   ALGEMENE ACHTERGROND
+   ======================================== */
 
 body {
   background-color: var(--background);
   color: var(--color);
 }
 
-/* NAVBAR */
+/* ========================================
+   NAVBAR
+   ======================================== */
 
 .navbar {
   background-color: var(--background-navbar);
@@ -1297,28 +1315,37 @@ body {
   color: var(--color-navbar);
 }
 
-/* FAQ PAGINA */
+/* ========================================
+   FAQ PAGINA
+   ======================================== */
 
-.faq-main {
+body.faq-page {
+  background-color: var(--background);
+  color: var(--color);
+}
+
+body.faq-page .faq-main {
   background-color: var(--background);
 }
 
-.faq-header h1,
-.faq-list summary,
-.faq-list summary::after {
+body.faq-page .faq-header h1,
+body.faq-page .faq-list summary,
+body.faq-page .faq-list summary::after {
   color: var(--color);
 }
 
-.faq-header p,
-.faq-list details p {
-  color: var(--color);
+body.faq-page .faq-header p,
+body.faq-page .faq-list details p {
+  color: var(--color-muted);
 }
 
-.faq-list details {
+body.faq-page .faq-list details {
   border-color: var(--color-line);
 }
 
-/* FOOTER */
+/* ========================================
+   FOOTER
+   ======================================== */
 
 .site-footer {
   background-color: var(--background-footer);
@@ -1332,33 +1359,122 @@ body {
   color: var(--color-footer);
 }
 
-/* KNOPPEN */
+/* ========================================
+   KNOPPEN
+   ======================================== */
 
 .cookie-buttons label {
   background-color: var(--background-button);
   color: var(--color-button);
 }
 
-/* COOKIE POP-UP */
+.cookie-buttons label:hover {
+  background-color: #6c584c;
+  color: #f5f0e8;
+}
+
+/* ========================================
+   COOKIE POP-UP
+   ======================================== */
 
 .cookie-popup,
 .matcha-cookie {
-  background-color: var(--background);
+  background-color: var(--background-popup);
 }
 
 .cookie-content h2,
 .cookie-content p {
-  color: var(--color);
+  color: var(--color-popup);
 }
 
-/* NIEUWSBRIEF POP-UP */
+/* ========================================
+   NIEUWSBRIEF POP-UP
+   ======================================== */
 
 .newsletter-popup {
-  background-color: var(--background);
+  background-color: var(--background-popup);
+  color: var(--color-popup);
 }
 
 .newsletter-popup h2,
 .newsletter-popup p,
 .newsletter-popup label {
+  color: var(--color-popup);
+}
+
+/* ========================================
+   NIEUWSBRIEF KNOP
+   ======================================== */
+
+.newsletter-popup button {
+  background-color: var(--background-button);
+  color: var(--color-button);
+}
+
+.newsletter-popup button:hover {
+  background-color: #6c584c;
+  color: #f5f0e8;
+}
+
+/* ========================================
+   VLOEIENDE OVERGANG
+   ======================================== */
+
+body,
+.navbar,
+.faq-main,
+.site-footer,
+.cookie-popup,
+.newsletter-popup {
+  transition:
+    background-color 0.4s ease,
+    color 0.4s ease;
+}
+
+/* ========================================
+   MINDER BEWEGING
+   ======================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  body,
+  .navbar,
+  .faq-main,
+  .site-footer,
+  .cookie-popup,
+  .newsletter-popup {
+    transition: none;
+  }
+}
+/* LIGHT & DARK MODE TEST */
+
+html {
+  color-scheme: light;
+
+  --background: #f5f0e8;
+  --color: #382b25;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+
+    --background: #382b25;
+    --color: #f5f0e8;
+  }
+}
+
+html body {
+  background-color: var(--background);
+  color: var(--color);
+}
+
+/* FAQ */
+body.faq-page .faq-main {
+  background-color: var(--background);
+}
+
+body.faq-page .faq-header h1,
+body.faq-page .faq-list summary,
+body.faq-page .faq-list summary::after {
   color: var(--color);
 }
