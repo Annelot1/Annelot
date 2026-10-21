@@ -10,6 +10,10 @@ Vanochtend mee gedaan met de bi-weekly geek:
 
 <img width="1536" height="2048" alt="2bd0d2d4-5169-4905-a56f-277d294cea26" src="https://github.com/user-attachments/assets/398a2727-476b-4d6d-a51a-7d1817c35945" />
 
+Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
+
+<img width="573" height="775" alt="Scherm­afbeelding 2026-10-21 om 11 47 27" src="https://github.com/user-attachments/assets/b908ad47-1249-4ca4-a25c-c859808531e5" />
+<img width="573" height="775" alt="Scherm­afbeelding 2026-10-21 om 11 47 33" src="https://github.com/user-attachments/assets/59ee3dfa-5afb-4100-88f6-74cadf8b6708" />
 
 ### Ma 19 okt 
 
