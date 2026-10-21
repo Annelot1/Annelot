@@ -96,25 +96,21 @@ img {
 }
 
 /* 4. SCROLLENDE MATCHA-SLIDES */
+
 .foto {
-  height: 100vh;
-  height: 100dvh;
-  overflow-y: auto;
-  scroll-snap-type: y proximity;
-  scroll-behavior: normal;
-  scrollbar-width: none;
+  height: auto;
+  overflow: visible;
+  scroll-snap-type: none;
 }
 
 .slide {
-  position: sticky;
-  top: 0;
+  position: relative;
+  top: auto;
   width: 100%;
   height: 100vh;
   height: 100dvh;
   margin: 0;
   overflow: hidden;
-  scroll-snap-align: start;
-  scroll-snap-stop: always;
 }
 
 .slide img {
@@ -126,10 +122,12 @@ img {
 }
 
 /* De tweede en derde slide behouden hun oorspronkelijke contain-instelling. */
+
 .slide-2 img,
 .slide-3 img {
-  height: auto;
-  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* Tekst op slides */
@@ -289,16 +287,10 @@ img {
 }
 
 /* Sluiten na accepteren */
-.cookie-widget:has(#cookie-close:checked) .cookie-popup {
-  animation: none;
-  width: 65px;
-  height: 65px;
-  border-radius: 50%;
-}
-.cookie-widget:has(#cookie-close:checked) .cookie-content {
-  animation: none;
-  opacity: 0;
-  visibility: hidden;
+
+/* Cookie en icoontje verdwijnen na accepteren */
+.cookie-widget:has(#cookie-close:checked) {
+  display: none;
 }
 
 /* Opnieuw openen via het koekje */
@@ -642,5 +634,176 @@ img {
   }
   .newsletter {
     animation-duration: 0.01ms;
+  }
+}
+
+/* =========================
+   FOOTER - THE GREEN RITUAL
+========================= */
+
+.site-footer {
+  width: 100%;
+  background: #344e41;
+  color: #f7f4ec;
+  padding: 55px 6% 20px;
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+}
+
+/* LINKS EN RECHTS */
+
+.footer-main {
+  display: grid;
+  grid-template-columns: 430px 180px;
+  gap: 50px;
+  max-width: 1400px;
+  margin: 0 auto;
+  align-items: stretch;
+}
+
+/* NIEUWSBRIEF LINKS */
+
+.footer-newsletter {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-newsletter h2 {
+  font-size: 19px;
+  font-weight: 600;
+  margin: 0 0 12px;
+  color: #f7f4ec;
+}
+
+.footer-newsletter p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #dce6d8;
+  margin: 0;
+  max-width: 430px;
+}
+
+/* FORMULIER ONDERAAN */
+
+.footer-form {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-top: auto;
+  padding-top: 25px;
+}
+
+.footer-form label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.footer-form input {
+  width: 100%;
+  padding: 13px 15px;
+  border: none;
+  border-radius: 7px;
+  background: #ffffff;
+  color: #344e41;
+  font-family: Georgia, serif;
+  font-size: 14px;
+}
+
+.footer-form input:focus-visible {
+  outline: 3px solid #a9c4a5;
+  outline-offset: 2px;
+}
+
+.footer-form button {
+  width: 100%;
+  padding: 13px;
+  border: none;
+  border-radius: 7px;
+  background: #f7f4ec;
+  color: #344e41;
+  font-family: Georgia, serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.footer-form button:hover {
+  background: #dce6d8;
+}
+
+/* NAVIGATIE RECHTS */
+
+.footer-navigation {
+  justify-self: start;
+  min-width: 400px;
+}
+
+.footer-navigation h2 {
+  font-size: 19px;
+  font-weight: 600;
+  margin: 0 0 15px;
+  color: #f7f4ec;
+}
+
+.footer-navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+}
+
+.footer-navigation a {
+  color: #dce6d8;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.footer-navigation a:hover {
+  text-decoration: underline;
+}
+
+/* ONDERSTE REGEL */
+
+.footer-bottom {
+  max-width: 1400px;
+  margin: 35px auto 0;
+  padding-top: 17px;
+  border-top: 1px solid #819783;
+}
+
+.footer-bottom p {
+  margin: 0;
+  color: #dce6d8;
+  font-size: 12px;
+}
+
+/* MOBIELE WEERGAVE */
+
+@media (max-width: 650px) {
+  .site-footer {
+    padding: 35px 20px 20px;
+  }
+
+  .footer-main {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .footer-navigation {
+    justify-self: start;
+  }
+
+  .footer-form {
+    margin-top: 0;
+  }
+
+  .footer-bottom {
+    margin-top: 30px;
   }
 }
