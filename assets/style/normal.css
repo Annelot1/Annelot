@@ -1036,3 +1036,329 @@ img {
     margin-top: 30px;
   }
 }
+
+/* =====================================
+   THE GREEN RITUAL
+   LIGHT & DARK MODE
+   ===================================== */
+
+/* LIGHT MODE - STANDAARD */
+
+body {
+  --theme-bg: #f5f0e8;
+  --theme-text: #382b25;
+  --theme-muted: #6c584c;
+  --theme-line: #cbbeb2;
+  --theme-nav: #382b25;
+  --theme-nav-text: #f5f0e8;
+  --theme-footer: #382b25;
+  --theme-footer-text: #f5f0e8;
+  --theme-popup: #f5f0e8;
+  --theme-button: #382b25;
+  --theme-button-text: #f5f0e8;
+
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+
+  transition:
+    background-color 0.4s ease,
+    color 0.4s ease;
+}
+
+/* DARK MODE */
+
+body:has(#theme-toggle:checked) {
+  --theme-bg: #382b25;
+  --theme-text: #f5f0e8;
+  --theme-muted: #d4c3b2;
+  --theme-line: #806e60;
+  --theme-nav: #241b17;
+  --theme-nav-text: #f5f0e8;
+  --theme-footer: #241b17;
+  --theme-footer-text: #f5f0e8;
+  --theme-popup: #382b25;
+  --theme-button: #f5f0e8;
+  --theme-button-text: #382b25;
+}
+
+/* =====================================
+   THEMA KNOP
+   ===================================== */
+
+/* CHECKBOX VISUEEL VERBERGEN */
+
+.theme-toggle {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+/* ZON / MAAN IN NAVBAR */
+
+.theme-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+
+  width: 38px;
+  height: 38px;
+
+  color: var(--theme-nav-text);
+  font-size: 25px;
+
+  cursor: pointer;
+
+  transition: transform 0.3s ease;
+}
+
+.theme-button:hover {
+  transform: rotate(15deg);
+}
+
+/* STANDAARD ZON TONEN */
+
+.light-icon {
+  display: block;
+}
+
+.dark-icon {
+  display: none;
+}
+
+/* IN DARK MODE MAAN TONEN */
+
+body:has(#theme-toggle:checked) .light-icon {
+  display: none;
+}
+
+body:has(#theme-toggle:checked) .dark-icon {
+  display: block;
+}
+
+/* =====================================
+   NAVBAR
+   ===================================== */
+
+body .navbar {
+  background-color: var(--theme-nav);
+  transition: background-color 0.4s ease;
+}
+
+body .navbar .logo,
+body .navbar .menu a {
+  color: var(--theme-nav-text);
+}
+
+/* =====================================
+   ALGEMENE PAGINA
+   ===================================== */
+
+body main,
+body .faq-main {
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+
+  transition:
+    background-color 0.4s ease,
+    color 0.4s ease;
+}
+
+/* =====================================
+   FAQ PAGINA
+   ===================================== */
+
+body .faq-header h1,
+body .faq-list summary {
+  color: var(--theme-text);
+}
+
+body .faq-header p,
+body .faq-list details p {
+  color: var(--theme-muted);
+}
+
+body .faq-list details {
+  border-color: var(--theme-line);
+}
+
+body .faq-list summary::after {
+  color: var(--theme-text);
+}
+
+/* =====================================
+   FOOTER
+   ===================================== */
+
+body .site-footer {
+  background-color: var(--theme-footer);
+  color: var(--theme-footer-text);
+
+  transition: background-color 0.4s ease;
+}
+
+body .site-footer h2,
+body .site-footer p,
+body .site-footer a,
+body .site-footer label {
+  color: var(--theme-footer-text);
+}
+
+/* =====================================
+   COOKIE POP-UP
+   ===================================== */
+
+body .cookie-popup,
+body .matcha-cookie {
+  background-color: var(--theme-popup);
+}
+
+body .cookie-content h2,
+body .cookie-content p {
+  color: var(--theme-text);
+}
+
+body .cookie-buttons label {
+  background-color: var(--theme-button);
+  color: var(--theme-button-text);
+}
+
+/* =====================================
+   NIEUWSBRIEF POP-UP
+   ===================================== */
+
+body .newsletter-popup {
+  background-color: var(--theme-popup);
+  color: var(--theme-text);
+}
+
+body .newsletter-popup h2,
+body .newsletter-popup p,
+body .newsletter-popup label {
+  color: var(--theme-text);
+}
+
+/* LIGHT & DARK MODE */
+
+html {
+  color-scheme: light dark;
+
+  /* LIGHT MODE */
+  --background: #f5f0e8;
+  --color: #382b25;
+
+  --background-button: #382b25;
+  --color-button: #f5f0e8;
+
+  --background-navbar: #f5f0e8;
+  --color-navbar: #382b25;
+
+  --background-footer: #382b25;
+  --color-footer: #f5f0e8;
+
+  --color-line: #cbbeb2;
+
+  /* DARK MODE */
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+
+    --background: #382b25;
+    --color: #f5f0e8;
+
+    --background-button: #f5f0e8;
+    --color-button: #382b25;
+
+    --background-navbar: #382b25;
+    --color-navbar: #f5f0e8;
+
+    --background-footer: #241b17;
+    --color-footer: #f5f0e8;
+
+    --color-line: #806e60;
+  }
+}
+
+/* ALGEMENE ACHTERGROND */
+
+body {
+  background-color: var(--background);
+  color: var(--color);
+}
+
+/* NAVBAR */
+
+.navbar {
+  background-color: var(--background-navbar);
+}
+
+.navbar .logo,
+.navbar .menu a {
+  color: var(--color-navbar);
+}
+
+/* FAQ PAGINA */
+
+.faq-main {
+  background-color: var(--background);
+}
+
+.faq-header h1,
+.faq-list summary,
+.faq-list summary::after {
+  color: var(--color);
+}
+
+.faq-header p,
+.faq-list details p {
+  color: var(--color);
+}
+
+.faq-list details {
+  border-color: var(--color-line);
+}
+
+/* FOOTER */
+
+.site-footer {
+  background-color: var(--background-footer);
+  color: var(--color-footer);
+}
+
+.site-footer h2,
+.site-footer p,
+.site-footer a,
+.site-footer label {
+  color: var(--color-footer);
+}
+
+/* KNOPPEN */
+
+.cookie-buttons label {
+  background-color: var(--background-button);
+  color: var(--color-button);
+}
+
+/* COOKIE POP-UP */
+
+.cookie-popup,
+.matcha-cookie {
+  background-color: var(--background);
+}
+
+.cookie-content h2,
+.cookie-content p {
+  color: var(--color);
+}
+
+/* NIEUWSBRIEF POP-UP */
+
+.newsletter-popup {
+  background-color: var(--background);
+}
+
+.newsletter-popup h2,
+.newsletter-popup p,
+.newsletter-popup label {
+  color: var(--color);
+}
