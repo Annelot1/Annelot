@@ -3,12 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>FAQ</title>
+
+    <!-- ALGEMENE STYLING -->
     <link rel="stylesheet" href="assets/style/normal.css" />
+
+    <!-- FAQ STYLING -->
+    <link rel="stylesheet" href="faq.css" />
   </head>
 
   <body class="faq-page">
-    <!-- NAVBAR -->
+    <!-- ==================================
+       NAVBAR
+       ================================== -->
+
     <header>
       <nav class="navbar" aria-label="Hoofdnavigatie">
         <a href="index.html" class="logo"> The Green Ritual </a>
@@ -24,10 +33,15 @@
       </nav>
     </header>
 
-    <!-- FAQ -->
+    <!-- ==================================
+       FAQ PAGINA
+       ================================== -->
+
     <main class="faq-main">
+      <!-- TITEL EN ONDERTITEL -->
+
       <section class="faq-header">
-        <h1>Veelgestelde vragen</h1>
+        <h1>FAQ</h1>
 
         <p>
           Alles wat je wilt weten over matcha, de bijbehorende rituelen en nog
@@ -35,57 +49,80 @@
         </p>
       </section>
 
+      <!-- UITKLAPBARE VRAGEN -->
+
       <section class="faq-list" aria-label="Veelgestelde vragen">
+        <!-- VRAAG 1 -->
+
         <details>
           <summary>Wat is matcha precies?</summary>
+
           <p>
             Matcha is fijngemalen groene thee, gemaakt van speciaal geteelde
             theebladeren.
           </p>
         </details>
 
+        <!-- VRAAG 2 -->
+
         <details>
           <summary>Waar komt matcha vandaan?</summary>
+
           <p>
             Poederthee vindt zijn oorsprong in China. In Japan groeide matcha
             uit tot een belangrijk onderdeel van de theeceremonie.
           </p>
         </details>
 
+        <!-- VRAAG 3 -->
+
         <details>
           <summary>Wat is het verschil tussen matcha en groene thee?</summary>
+
           <p>
             Bij gewone groene thee trekken bladeren in water. Bij matcha drink
             je de fijngemalen theebladeren zelf.
           </p>
         </details>
 
+        <!-- VRAAG 4 -->
+
         <details>
           <summary>Hoe maak je de perfecte matcha?</summary>
+
           <p>
             Zeef het matchapoeder, voeg warm water toe en klop met een bamboe
             whisk tot er een fijn schuim ontstaat.
           </p>
         </details>
 
+        <!-- VRAAG 5 -->
+
         <details>
           <summary>Bevat matcha cafeïne?</summary>
+
           <p>
             Ja, matcha bevat cafeïne. De hoeveelheid verschilt per soort en
             portie.
           </p>
         </details>
 
+        <!-- VRAAG 6 -->
+
         <details>
           <summary>Kan ik matcha ook koud drinken?</summary>
+
           <p>
             Zeker! Maak bijvoorbeeld een iced matcha latte met ijsblokjes en
             koude melk.
           </p>
         </details>
 
+        <!-- VRAAG 7 -->
+
         <details>
           <summary>Hoe bewaar ik matcha het beste?</summary>
+
           <p>
             Bewaar matcha goed afgesloten, koel, droog en beschermd tegen direct
             zonlicht.
@@ -94,78 +131,72 @@
       </section>
     </main>
 
-    <!-- FOOTER -->
-    <!-- Plak hier exact het bestaande <footer>...</footer>
-       gedeelte uit je index.html. Zo blijven de
-       nieuwsbrief, navigatielinks en teksten gelijk. -->
-  </body>
+    <!-- ==================================
+       FOOTER
+       ================================== -->
 
-  <footer class="site-footer">
-    <section class="footer-main">
-      <!-- LINKS: NIEUWSBRIEF -->
+    <footer class="site-footer">
+      <section class="footer-main">
+        <!-- LINKS: NIEUWSBRIEF -->
 
-      <section class="footer-newsletter">
-        <h2>A little matcha in your inbox?</h2>
+        <section class="footer-newsletter">
+          <h2>A little matcha in your inbox?</h2>
 
-        <p>
-          Ontvang wekelijks matcha-inspiratie, rituelen en recepten. Blijf op de
-          hoogte van de huidige trends en word member van onze community.
-        </p>
+          <p>
+            Ontvang wekelijks matcha-inspiratie, rituelen en recepten. Blijf op
+            de hoogte van de huidige trends en word member van onze community.
+          </p>
 
-        <form class="footer-form" action="#" method="post">
-          <label for="footer-name">Naam</label>
+          <form class="footer-form" action="#" method="post">
+            <label for="footer-name">Naam</label>
 
-          <input
-            type="text"
-            id="footer-name"
-            name="name"
-            placeholder="Jouw naam"
-            autocomplete="name"
-            required
-          />
+            <input
+              type="text"
+              id="footer-name"
+              name="name"
+              placeholder="Jouw naam"
+              autocomplete="name"
+              required
+            />
 
-          <label for="footer-email">E-mailadres</label>
+            <label for="footer-email">E-mailadres</label>
 
-          <input
-            type="email"
-            id="footer-email"
-            name="email"
-            placeholder="Jouw e-mailadres"
-            autocomplete="email"
-            required
-          />
+            <input
+              type="email"
+              id="footer-email"
+              name="email"
+              placeholder="Jouw e-mailadres"
+              autocomplete="email"
+              required
+            />
 
-          <button type="submit">Inschrijven →</button>
-        </form>
+            <button type="submit">Inschrijven →</button>
+          </form>
+        </section>
+
+        <!-- RECHTS: NAVIGATIE -->
+
+        <nav class="footer-navigation" aria-label="Footernavigatie">
+          <h2>Explore</h2>
+
+          <ul>
+            <li><a href="herkomst.html">Herkomst</a></li>
+            <li><a href="ceremonie.html">Ceremonie</a></li>
+            <li><a href="recepten.html">Recepten</a></li>
+            <li><a href="trends.html">Trends</a></li>
+            <li><a href="mijnervaring.html">Mijn ervaring</a></li>
+            <li><a href="letithappen.html">Songtekst</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="#cookie-open">Cookies</a></li>
+          </ul>
+        </nav>
       </section>
 
-      <!-- RECHTS: NAVIGATIE -->
+      <!-- ONDERKANT FOOTER -->
 
-      <nav class="footer-navigation" aria-label="Footernavigatie">
-        <h2>Explore</h2>
-
-        <ul>
-          <li><a href="herkomst.html">Herkomst</a></li>
-          <li><a href="ceremonie.html">Ceremonie</a></li>
-          <li><a href="recepten.html">Recepten</a></li>
-          <li><a href="trends.html">Trends</a></li>
-          <li><a href="mijnervaring.html">Mijn ervaring</a></li>
-          <li><a href="letithappen.html">Songtekst</a></li>
-
-          <!-- COOKIE POP-UP OPENEN -->
-          <li>
-            <a href="#cookie-open">Cookies</a>
-          </li>
-
-          <li><a href="faq.html">FAQ</a></li>
-        </ul>
-      </nav>
-    </section>
-
-    <!-- ONDERKANT FOOTER -->
-
-    <section class="footer-bottom">
-      <p>© 2026 The Green Ritual</p>
-    </section>
-  </footer>
+      <section class="footer-bottom">
+        <p>© 2026 The Green Ritual</p>
+      </section>
+    </footer>
+  </body>
 </html>
