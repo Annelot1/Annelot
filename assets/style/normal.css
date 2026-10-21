@@ -695,6 +695,59 @@ img {
   }
 }
 
+/* ==================================
+   COOKIES OPENEN VIA FOOTER
+   ================================== */
+
+/* COOKIE LINK IN FOOTER */
+
+.footer-navigation .footer-cookies-link {
+  color: #f5f0e8;
+  font-family: Georgia, serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.footer-navigation .footer-cookies-link:hover {
+  text-decoration: underline;
+}
+
+/* POP-UP OPENEN */
+
+.cookie-widget:has(#cookie-open:checked) {
+  display: block;
+}
+
+.cookie-widget:has(#cookie-open:checked) .cookie-popup {
+  animation: none;
+  width: min(350px, calc(100vw - 50px));
+  height: auto;
+  border-radius: 18px;
+}
+
+/* MATCHA ICOON VERBERGEN */
+
+.cookie-widget:has(#cookie-open:checked) .matcha-cookie {
+  animation: none;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* COOKIE TEKST LATEN ZIEN */
+
+.cookie-widget:has(#cookie-open:checked) .cookie-content {
+  animation: none;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* POP-UP SLUITEN NA ACCEPTEREN */
+
+.cookie-widget:has(#cookie-close:checked) {
+  display: none;
+}
+
 /* =========================
    SLIDEBARE NAVIGATIE
 ========================= */
