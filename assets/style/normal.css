@@ -207,12 +207,16 @@ img {
   height: 65px;
   max-height: calc(100dvh - 50px);
 
-  overflow: hidden;
+  overflow: hidden auto;
+  scrollbar-width: none;
+
   background: #f5f0e8;
   border-radius: 50%;
   box-shadow: 0 5px 20px #0003;
 
-  animation: cookieExpand 0.8s ease 5s forwards;
+  interpolate-size: allow-keywords;
+
+  animation: cookieExpand 0.8s ease-in-out 5s forwards;
 }
 
 /* KLEIN MATCHA KOEKJE */
@@ -230,7 +234,7 @@ img {
   height: 65px;
   cursor: pointer;
 
-  animation: hideCookie 0s 5s forwards;
+  animation: hideCookie 0.3s ease-in 5s forwards;
 }
 
 .matcha-cookie-img {
@@ -240,9 +244,14 @@ img {
   border-radius: 50%;
 }
 
-/* KOEKJE VERDWIJNT NA 5 SECONDEN */
+/* KOEKJE VERVAAGT */
 
 @keyframes hideCookie {
+  from {
+    opacity: 1;
+    visibility: visible;
+  }
+
   to {
     opacity: 0;
     visibility: hidden;
@@ -254,12 +263,12 @@ img {
 
 .cookie-content {
   box-sizing: border-box;
-  padding: 16px 18px 10px;
+  padding: 16px 18px 50px;
 
   opacity: 0;
   visibility: hidden;
 
-  animation: cookieText 0.4s ease 5.6s forwards;
+  animation: cookieText 0.7s ease-out 5.8s forwards;
 }
 
 /* TITEL */
@@ -294,7 +303,7 @@ img {
 .cookie-buttons label {
   display: block;
   flex: 1;
-  padding: 10px 8px;
+  padding: 10px 10px;
 
   border-radius: 7px;
   background: #382b25;
@@ -311,9 +320,8 @@ img {
   background: #6c584c;
 }
 
-/* POP-UP KLAPT OPEN NA 5 SECONDEN */
+/* POP-UP KLAPT SOEPEL OPEN */
 
-/* De hoogte past zich aan de inhoud aan */
 @keyframes cookieExpand {
   from {
     width: 65px;
@@ -323,12 +331,12 @@ img {
 
   to {
     width: min(350px, calc(100vw - 50px));
-    height: auto;
+    height: 275px;
     border-radius: 18px;
   }
 }
 
-/* TEKST VERSCHIJNT SOEPEL */
+/* TEKST VERSCHIJNT GELEIDELIJK */
 
 @keyframes cookieText {
   from {
@@ -380,7 +388,22 @@ img {
 
   .cookie-popup {
     max-height: calc(100dvh - 30px);
-    overflow-y: auto;
+  }
+}
+
+/* TOEGANKELIJKHEID: MINDER BEWEGING */
+
+@media (prefers-reduced-motion: reduce) {
+  .cookie-popup {
+    animation-duration: 0.01ms;
+  }
+
+  .matcha-cookie {
+    animation-duration: 0.01ms;
+  }
+
+  .cookie-content {
+    animation-duration: 0.01ms;
   }
 }
 
