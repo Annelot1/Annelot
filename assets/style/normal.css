@@ -45,6 +45,7 @@ img {
 }
 
 /* 3. NAVIGATIE */
+
 .navbar {
   position: fixed;
   top: 0;
@@ -57,7 +58,12 @@ img {
   width: 100%;
   min-height: 70px;
   padding: 0 40px;
-  background: var(--background);
+  background: #ffffff;
+}
+
+.navbar .logo,
+.navbar .menu a {
+  color: #344e41;
 }
 
 .navbar .logo {
@@ -168,7 +174,12 @@ img {
   font-size: var(--step-3);
 }
 
-/* 5. COOKIE-POP-UP */
+/* ========================================
+   5. COOKIE POP-UP
+   ======================================== */
+
+/* COOKIE WIDGET LINKSONDER */
+
 .cookie-widget {
   position: fixed;
   bottom: 25px;
@@ -177,39 +188,49 @@ img {
   font-family: Georgia, serif;
 }
 
-.cookie-toggle,
-.newsletter-toggle {
+/* ONZICHTBARE RADIO BUTTONS */
+
+.cookie-toggle {
   position: absolute;
   width: 1px;
   height: 1px;
   opacity: 0;
 }
 
+/* COOKIE POP-UP */
+
 .cookie-popup {
+  position: relative;
+  box-sizing: border-box;
+
   width: 65px;
   height: 65px;
   max-height: calc(100dvh - 50px);
-  overflow: hidden auto;
-  scrollbar-width: thin;
-  background: var(--matcha-cream);
+
+  overflow: hidden;
+  background: #f5f0e8;
   border-radius: 50%;
   box-shadow: 0 5px 20px #0003;
+
   animation: cookieExpand 0.8s ease 5s forwards;
-  transition:
-    width 0.5s ease,
-    height 0.5s ease,
-    border-radius 0.5s ease,
-    background-color 0.5s ease;
 }
 
+/* KLEIN MATCHA KOEKJE */
+
 .matcha-cookie {
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
   z-index: 2;
+
   display: grid;
   place-items: center;
+
   width: 65px;
   height: 65px;
   cursor: pointer;
+
+  animation: hideCookie 0s 5s forwards;
 }
 
 .matcha-cookie-img {
@@ -219,96 +240,148 @@ img {
   border-radius: 50%;
 }
 
-.cookie-content {
-  padding: 0 22px 22px;
-  opacity: 0;
-  visibility: hidden;
-  animation: cookieText 0.4s ease 5.6s forwards;
-  transition:
-    opacity 0.3s ease,
-    visibility 0.3s ease;
+/* KOEKJE VERDWIJNT NA 5 SECONDEN */
+
+@keyframes hideCookie {
+  to {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
 }
 
+/* INHOUD COOKIE POP-UP */
+
+.cookie-content {
+  box-sizing: border-box;
+  padding: 16px 18px 10px;
+
+  opacity: 0;
+  visibility: hidden;
+
+  animation: cookieText 0.4s ease 5.6s forwards;
+}
+
+/* TITEL */
+
 .cookie-content h2 {
-  margin: 0 0 10px;
-  font-size: 23px;
-  color: var(--matcha-dark);
+  margin: 0 0 8px;
+  font-size: 21px;
+  line-height: 1.2;
+  color: #382b25;
 }
+
+/* TEKST */
+
 .cookie-content p {
-  margin: 0;
-  font-size: 14px;
-  line-height: 1.5;
-  color: var(--matcha-dark);
+  margin: 0 0 9px;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #382b25;
 }
+
+.cookie-content p:last-of-type {
+  margin-bottom: 0;
+}
+
+/* ACCEPTEREN KNOP */
+
 .cookie-buttons {
   display: flex;
-  margin-top: 18px;
+  margin-top: 12px;
 }
 
 .cookie-buttons label {
   display: block;
   flex: 1;
-  padding: 12px 8px;
-  border-radius: 8px;
-  background: var(--matcha-dark);
-  color: white;
-  font-size: 14px;
+  padding: 10px 8px;
+
+  border-radius: 7px;
+  background: #382b25;
+  color: #ffffff;
+
+  font-size: 13px;
   text-align: center;
   cursor: pointer;
+
   transition: background-color 0.3s ease;
 }
 
 .cookie-buttons label:hover {
-  background: var(--matcha-hover);
+  background: #6c584c;
 }
 
+/* POP-UP KLAPT OPEN NA 5 SECONDEN */
+
+/* De hoogte past zich aan de inhoud aan */
 @keyframes cookieExpand {
   from {
     width: 65px;
     height: 65px;
     border-radius: 50%;
   }
+
   to {
     width: min(350px, calc(100vw - 50px));
-    height: 330px;
+    height: auto;
     border-radius: 18px;
   }
 }
+
+/* TEKST VERSCHIJNT SOEPEL */
 
 @keyframes cookieText {
   from {
     opacity: 0;
     visibility: hidden;
   }
+
   to {
     opacity: 1;
     visibility: visible;
   }
 }
 
-/* Sluiten na accepteren */
+/* NA ACCEPTEREN VERDWIJNT ALLES */
 
-/* Cookie en icoontje verdwijnen na accepteren */
 .cookie-widget:has(#cookie-close:checked) {
   display: none;
 }
 
-/* Opnieuw openen via het koekje */
+/* POP-UP HANDMATIG OPENEN */
+
 .cookie-widget:has(#cookie-open:checked) .cookie-popup {
   animation: none;
   width: min(350px, calc(100vw - 50px));
-  height: 330px;
+  height: auto;
   border-radius: 18px;
 }
+
+.cookie-widget:has(#cookie-open:checked) .matcha-cookie {
+  animation: none;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
 .cookie-widget:has(#cookie-open:checked) .cookie-content {
   animation: none;
   opacity: 1;
   visibility: visible;
 }
 
-.cookie-widget:has(.cookie-toggle:focus-visible) .matcha-cookie {
-  outline: 3px solid var(--matcha-dark);
-  outline-offset: 3px;
+/* MOBIELE WEERGAVE */
+
+@media (max-width: 400px) {
+  .cookie-widget {
+    bottom: 15px;
+    left: 15px;
+  }
+
+  .cookie-popup {
+    max-height: calc(100dvh - 30px);
+    overflow-y: auto;
+  }
 }
 
 /* 6. NIEUWSBRIEF-POP-UP */
@@ -643,7 +716,7 @@ img {
 
 .site-footer {
   width: 100%;
-  background: #344e41;
+  background: #382b25;
   color: #f7f4ec;
   padding: 55px 6% 20px;
   box-sizing: border-box;
