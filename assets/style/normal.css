@@ -1,3 +1,8 @@
+/* ========================================
+   THE GREEN RITUAL — NORMAL.CSS
+   ======================================== */
+
+/* 1. LETTERTYPE EN VARIABELEN */
 @font-face {
   font-family: "Shuriken";
   src: url("../type/The-Last-Shuriken.woff2") format("woff2");
@@ -6,28 +11,94 @@
 }
 
 :root {
-  --step--2: clamp(0.5627rem, 0.9836rem + -0.4677vw, 0.8784rem);
-  --step--1: clamp(0.7956rem, 0.9844rem + -0.2098vw, 0.9372rem);
+  --step--2: clamp(0.5627rem, 0.9836rem - 0.4677vw, 0.8784rem);
+  --step--1: clamp(0.7956rem, 0.9844rem - 0.2098vw, 0.9372rem);
   --step-0: clamp(1rem, 0.9583rem + 0.1852vw, 1.125rem);
   --step-1: clamp(1.067rem, 0.8924rem + 0.7759vw, 1.5908rem);
   --step-2: clamp(1.1385rem, 0.7682rem + 1.6457vw, 2.2493rem);
   --step-3: clamp(1.2148rem, 0.5595rem + 2.9123vw, 3.1805rem);
   --step-4: clamp(1.2962rem, 0.2291rem + 4.7424vw, 4.4973rem);
   --step-5: clamp(1.383rem, -0.2757rem + 7.3721vw, 6.3592rem);
+  --matcha-dark: #344e41;
+  --matcha-hover: #588157;
+  --matcha-cream: #f7f4ec;
 }
 
+/* 2. BASIS */
 html {
   color-scheme: light dark;
   --color: light-dark(#222222, #ffffff);
   --background: light-dark(#ffffff, #1c1c1c);
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
+  min-width: 0;
+}
+img {
+  max-width: 100%;
 }
 
+/* 3. NAVIGATIE */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+  min-height: 70px;
+  padding: 0 40px;
+  background: var(--background);
+}
+
+.navbar .logo {
+  flex-shrink: 0;
+  font-family: Didot, Georgia, serif;
+  font-size: var(--step-2);
+  color: var(--color);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 12px 35px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .menu a {
+  font-family: "Shuriken", sans-serif;
+  font-size: var(--step--1);
+  color: var(--color);
+  text-decoration: none;
+}
+
+.navbar .menu a:hover {
+  opacity: 0.5;
+}
+.navbar .menu a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+/* 4. SCROLLENDE MATCHA-SLIDES */
 .foto {
   height: 100vh;
+  height: 100dvh;
   overflow-y: auto;
   scroll-snap-type: y proximity;
   scroll-behavior: normal;
@@ -39,6 +110,7 @@ body {
   top: 0;
   width: 100%;
   height: 100vh;
+  height: 100dvh;
   margin: 0;
   overflow: hidden;
   scroll-snap-align: start;
@@ -46,138 +118,59 @@ body {
 }
 
 .slide img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: center;
-  display: block;
 }
 
-.slide-2 img {
-  width: 100%;
-  height: auto;
-  object-fit: contain;
-  display: block;
-}
-
+/* De tweede en derde slide behouden hun oorspronkelijke contain-instelling. */
+.slide-2 img,
 .slide-3 img {
-  width: 100%;
   height: auto;
   object-fit: contain;
-  display: block;
 }
 
-.navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 70px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 40px;
-  box-sizing: border-box;
-  z-index: 1000;
-  background-color: var(--background);
-}
-
-.navbar .logo {
-  font-family: Didot, Georgia, serif;
-  color: var(--color);
-  text-decoration: none;
-  font-size: var(--step-2);
-  white-space: nowrap;
-}
-
-.menu {
-  display: flex;
-  align-items: center;
-  gap: 35px;
-  list-style: none;
+/* Tekst op slides */
+.slide-1 h1,
+.slide-1 p,
+.slide-2 h2,
+.slide-3 h2 {
+  position: absolute;
+  z-index: 2;
   margin: 0;
-  padding: 0;
-}
-
-.navbar .menu a {
-  font-family: "Shuriken", sans-serif;
-  color: var(--color);
-  text-decoration: none;
-  font-size: var(--step--1);
-}
-
-.navbar .menu a:hover {
-  opacity: 0.5;
+  transform: translate(-50%, -50%);
+  font-family: Didot, Georgia, serif;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0 4px 20px rgb(0 0 0 / 65%);
 }
 
 .slide-1 h1 {
-  position: absolute;
   top: 47%;
   left: 65%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-  font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
-  font-weight: 600;
-  color: white;
-  text-align: center;
-  white-space: nowrap;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-  z-index: 2;
 }
-
 .slide-1 p {
-  position: absolute;
   top: 52%;
   left: 75%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-  font-family: Didot, Georgia, serif;
   font-size: var(--step-0);
-  font-weight: 600;
-  color: white;
-  text-align: center;
-  white-space: nowrap;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-  z-index: 2;
 }
-
 .slide-2 h2 {
-  position: absolute;
   top: 47%;
   left: 65%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-  font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
-  font-weight: 600;
-  color: white;
-  text-align: center;
-  white-space: nowrap;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-  z-index: 2;
 }
-
 .slide-3 h2 {
-  position: absolute;
   top: 30%;
   left: 75%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-  font-family: Didot, Georgia, serif;
   font-size: var(--step-3);
-  font-weight: 600;
-  color: white;
-  text-align: center;
-  white-space: nowrap;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.65);
-  z-index: 2;
 }
 
-/* =========================
-   COOKIE WIDGET
-========================= */
-
+/* 5. COOKIE-POP-UP */
 .cookie-widget {
   position: fixed;
   bottom: 25px;
@@ -186,31 +179,24 @@ body {
   font-family: Georgia, serif;
 }
 
-/* RADIO BUTTONS VERBERGEN */
-
-.cookie-toggle {
+.cookie-toggle,
+.newsletter-toggle {
   position: absolute;
   width: 1px;
   height: 1px;
   opacity: 0;
 }
 
-/* =========================
-   COOKIE POP-UP
-========================= */
-
 .cookie-popup {
   width: 65px;
   height: 65px;
-  box-sizing: border-box;
-  overflow: hidden;
-
-  background: #f7f4ec;
+  max-height: calc(100dvh - 50px);
+  overflow: hidden auto;
+  scrollbar-width: thin;
+  background: var(--matcha-cream);
   border-radius: 50%;
   box-shadow: 0 5px 20px #0003;
-
   animation: cookieExpand 0.8s ease 5s forwards;
-
   transition:
     width 0.5s ease,
     height 0.5s ease,
@@ -218,17 +204,13 @@ body {
     background-color 0.5s ease;
 }
 
-/* =========================
-   MATCHA KOEKJE
-========================= */
-
 .matcha-cookie {
-  width: 65px;
-  height: 65px;
-  display: grid;
-  place-items: center;
   position: relative;
   z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 65px;
+  height: 65px;
   cursor: pointer;
 }
 
@@ -239,81 +221,59 @@ body {
   border-radius: 50%;
 }
 
-/* =========================
-   POP-UP INHOUD
-========================= */
-
 .cookie-content {
   padding: 0 22px 22px;
   opacity: 0;
   visibility: hidden;
-
   animation: cookieText 0.4s ease 5.6s forwards;
-
   transition:
     opacity 0.3s ease,
     visibility 0.3s ease;
 }
 
 .cookie-content h2 {
-  font-size: 23px;
   margin: 0 0 10px;
-  color: #344e41;
+  font-size: 23px;
+  color: var(--matcha-dark);
 }
-
 .cookie-content p {
+  margin: 0;
   font-size: 14px;
   line-height: 1.5;
-  color: #344e41;
-  margin: 0;
+  color: var(--matcha-dark);
 }
-
-/* =========================
-   ACCEPTEREN KNOP
-========================= */
-
 .cookie-buttons {
   display: flex;
   margin-top: 18px;
 }
 
 .cookie-buttons label {
-  flex: 1;
   display: block;
+  flex: 1;
   padding: 12px 8px;
-  text-align: center;
-
-  background: #344e41;
-  color: white;
   border-radius: 8px;
-
-  cursor: pointer;
+  background: var(--matcha-dark);
+  color: white;
   font-size: 14px;
-
+  text-align: center;
+  cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 .cookie-buttons label:hover {
-  background: #588157;
+  background: var(--matcha-hover);
 }
-
-/* =========================
-   ANIMATIE NA 5 SECONDEN
-========================= */
 
 @keyframes cookieExpand {
   from {
     width: 65px;
     height: 65px;
     border-radius: 50%;
-    background: #f7f4ec;
   }
-
   to {
     width: min(350px, calc(100vw - 50px));
     height: 330px;
     border-radius: 18px;
-    background: #f7f4ec;
   }
 }
 
@@ -322,234 +282,118 @@ body {
     opacity: 0;
     visibility: hidden;
   }
-
   to {
     opacity: 1;
     visibility: visible;
   }
 }
 
-/* =========================
-   NA ACCEPTEREN:
-   TERUG NAAR KLEIN KOEKJE
-========================= */
-
+/* Sluiten na accepteren */
 .cookie-widget:has(#cookie-close:checked) .cookie-popup {
   animation: none;
   width: 65px;
   height: 65px;
   border-radius: 50%;
-  background: #f7f4ec;
 }
-
 .cookie-widget:has(#cookie-close:checked) .cookie-content {
   animation: none;
   opacity: 0;
   visibility: hidden;
 }
 
-/* =========================
-   OPNIEUW OPENEN VIA KOEKJE
-========================= */
-
+/* Opnieuw openen via het koekje */
 .cookie-widget:has(#cookie-open:checked) .cookie-popup {
   animation: none;
   width: min(350px, calc(100vw - 50px));
   height: 330px;
   border-radius: 18px;
-  background: #f7f4ec;
 }
-
 .cookie-widget:has(#cookie-open:checked) .cookie-content {
   animation: none;
   opacity: 1;
   visibility: visible;
 }
 
-/* =========================
-   SCROLLEN ALS TEKST TE LANG IS
-========================= */
-
-.cookie-popup {
-  max-height: calc(100dvh - 50px);
-  overflow-y: auto;
-  scrollbar-width: thin;
-}
-
-/* =========================
-   TOETSENBORD FOCUS
-========================= */
-
 .cookie-widget:has(.cookie-toggle:focus-visible) .matcha-cookie {
-  outline: 3px solid #344e41;
+  outline: 3px solid var(--matcha-dark);
   outline-offset: 3px;
 }
 
-/* =========================
-   MOBIEL
-========================= */
-
-@media (max-width: 400px) {
-  .cookie-widget {
-    bottom: 15px;
-    left: 15px;
-  }
-
-  @keyframes cookieExpand {
-    from {
-      width: 65px;
-      height: 65px;
-      border-radius: 50%;
-      background: #f7f4ec;
-    }
-
-    to {
-      width: calc(100vw - 30px);
-      height: 330px;
-      border-radius: 18px;
-      background: #f7f4ec;
-    }
-  }
-
-  .cookie-widget:has(#cookie-open:checked) .cookie-popup {
-    width: calc(100vw - 30px);
-  }
-}
-
-/* =========================
-   MINDER BEWEGING
-========================= */
-
-@media (prefers-reduced-motion: reduce) {
-  .cookie-popup {
-    animation: none;
-    width: min(350px, calc(100vw - 50px));
-    height: 330px;
-    border-radius: 18px;
-    background: #f7f4ec;
-  }
-
-  .cookie-content {
-    animation: none;
-    opacity: 1;
-    visibility: visible;
-  }
-
-  .cookie-widget:has(#cookie-close:checked) .cookie-popup {
-    width: 65px;
-    height: 65px;
-    border-radius: 50%;
-    background: #f7f4ec;
-  }
-
-  .cookie-widget:has(#cookie-close:checked) .cookie-content {
-    opacity: 0;
-    visibility: hidden;
-  }
-}
-
-/* =========================
-   NIEUWSBRIEF WIDGET
-========================= */
-
+/* 6. NIEUWSBRIEF-POP-UP */
 .newsletter {
   position: fixed;
   inset: 0;
   z-index: 10000;
-
   display: grid;
   place-items: center;
-
   background: #0006;
-
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-
-  /* Verschijnt na 20 seconden */
   animation: newsletterAppear 0.6s ease 20s forwards;
 }
 
-/* =========================
-   CHECKBOX VERBERGEN
-========================= */
-
-.newsletter-toggle {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  opacity: 0;
-}
-
-/* =========================
-   POP-UP
-========================= */
-
 .newsletter-popup {
   position: relative;
-  box-sizing: border-box;
-
   width: min(420px, calc(100vw - 40px));
   max-height: calc(100dvh - 40px);
   overflow-y: auto;
-
   padding: 35px;
   border-radius: 18px;
-
-  background: #f7f4ec;
-  color: #344e41;
-
+  background: var(--matcha-cream);
+  color: var(--matcha-dark);
   box-shadow: 0 10px 40px #0003;
 }
 
-/* =========================
-   KRUISJE RECHTSBOVEN
-========================= */
-
-.newsletter-close {
+/* Kruisje wordt met CSS getekend, ook als het label leeg is. */
+.newsletter-popup .newsletter-close {
   position: absolute;
-  top: 12px;
-  right: 18px;
-
-  font-size: 30px;
-  line-height: 1;
-
-  color: #344e41;
-  cursor: pointer;
+  top: 10px;
+  right: 10px;
   z-index: 2;
-
-  transition: color 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  padding: 0;
+  color: var(--matcha-dark);
+  background: transparent;
+  cursor: pointer;
 }
 
-.newsletter-close:hover {
-  color: #588157;
+.newsletter-popup .newsletter-close::before {
+  content: "×";
+  font:
+    32px/1 Arial,
+    sans-serif;
+  color: currentColor;
 }
 
-/* =========================
-   TITEL EN TEKST
-========================= */
+.newsletter-popup .newsletter-close:hover {
+  color: var(--matcha-hover);
+}
+.newsletter-popup .newsletter-close:focus-visible {
+  outline: 2px solid var(--matcha-dark);
+  outline-offset: 2px;
+}
 
 .newsletter-popup h2 {
-  font-family: Georgia, serif;
-  font-size: 27px;
-  line-height: 1.2;
-
-  margin: 0 0 15px;
-  color: #344e41;
+  margin: 0 25px 15px 0;
+  font:
+    700 27px/1.2 Georgia,
+    serif;
+  color: var(--matcha-dark);
 }
 
 .newsletter-popup p {
-  font-family: Georgia, serif;
-  font-size: 14px;
-  line-height: 1.6;
-
   margin: 0 0 25px;
-  color: #344e41;
+  font:
+    14px/1.6 Georgia,
+    serif;
+  color: var(--matcha-dark);
 }
-
-/* =========================
-   FORMULIER
-========================= */
 
 .newsletter-popup form {
   display: flex;
@@ -559,54 +403,42 @@ body {
 
 .newsletter-popup form label {
   font-size: 14px;
-  color: #344e41;
+  color: var(--matcha-dark);
 }
-
 .newsletter-popup form input {
-  box-sizing: border-box;
   width: 100%;
-
   padding: 13px;
   border: 1px solid #b8c5b0;
   border-radius: 8px;
-
   background: white;
-  color: #344e41;
+  color: var(--matcha-dark);
   font-size: 14px;
 }
 
 .newsletter-popup form input:focus-visible {
-  outline: 2px solid #588157;
+  outline: 2px solid var(--matcha-hover);
   outline-offset: 2px;
 }
-
-/* =========================
-   INSCHRIJVEN KNOP
-========================= */
 
 .newsletter-popup button {
   margin-top: 12px;
   padding: 14px;
-
-  border: none;
+  border: 0;
   border-radius: 8px;
-
-  background: #344e41;
+  background: var(--matcha-dark);
   color: white;
-
   font-size: 15px;
   cursor: pointer;
-
   transition: background-color 0.3s ease;
 }
 
 .newsletter-popup button:hover {
-  background: #588157;
+  background: var(--matcha-hover);
 }
-
-/* =========================
-   VERSCHIJNEN NA 20 SECONDEN
-========================= */
+.newsletter-popup button:focus-visible {
+  outline: 2px solid var(--matcha-dark);
+  outline-offset: 3px;
+}
 
 @keyframes newsletterAppear {
   to {
@@ -616,362 +448,135 @@ body {
   }
 }
 
-/* =========================
-   SLUITEN MET HET KRUISJE
-========================= */
-
 .newsletter:has(#newsletter-close:checked) {
   display: none;
 }
 
-/* =========================
-   MOBIEL
-========================= */
-
-@media (max-width: 480px) {
-  .newsletter-popup {
-    width: calc(100vw - 30px);
-    padding: 28px 22px;
-  }
-
-  .newsletter-popup h2 {
-    font-size: 24px;
-  }
-}
-
-/* =========================
-   MINDER BEWEGING
-========================= */
-
-@media (prefers-reduced-motion: reduce) {
-  .newsletter {
-    animation-duration: 0.01ms;
-  }
-}
-
-/* ALGEMEEN RESPONSIVE */
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  max-width: 100%;
-}
-
-body {
-  margin: 0;
-  min-width: 0;
-}
-
-img {
-  max-width: 100%;
-}
-
-/* NAVIGATIE OP KLEINERE SCHERMEN */
-
+/* 7. RESPONSIVE: KLEINERE LAPTOPS EN TABLETS */
 @media (max-width: 900px) {
-  header {
+  .navbar {
     flex-direction: column;
-    align-items: center;
-    gap: 18px;
-    padding: 20px;
-  }
-
-  header nav {
-    width: 100%;
-  }
-
-  header nav ul {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-    gap: 12px 22px;
-    padding: 0;
-    margin: 0;
-    list-style: none;
-  }
-
-  header nav a {
-    white-space: nowrap;
-  }
-}
-
-/* MOBIELE SCHERMEN */
-
-@media (max-width: 480px) {
-  header {
-    padding: 15px;
-  }
-
-  header nav ul {
-    gap: 12px 16px;
-  }
-
-  header nav a {
-    font-size: 14px;
-  }
-}
-/* AFBEELDINGEN RESPONSIVE */
-
-.hero,
-.slide {
-  width: 100%;
-  max-width: 100%;
-}
-
-.slide img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-/* TEKST OP AFBEELDINGEN */
-
-.slide h1 {
-  font-size: clamp(24px, 4vw, 55px);
-}
-
-.slide p {
-  font-size: clamp(14px, 2vw, 20px);
-}
-/* RESPONSIVE BASIS */
-
-img {
-  max-width: 100%;
-}
-
-/* TABLET EN TELEFOON */
-
-@media (max-width: 768px) {
-  header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-    padding: 20px 15px;
-  }
-
-  header nav {
-    width: 100%;
-  }
-
-  header nav ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 12px 18px;
-    padding: 0;
-    margin: 0;
-    list-style: none;
-  }
-
-  header nav a {
-    font-size: 15px;
-    white-space: nowrap;
-  }
-
-  .slide h1 {
-    font-size: clamp(26px, 7vw, 38px);
-    line-height: 1.2;
-  }
-
-  .slide p {
-    font-size: 16px;
-    line-height: 1.5;
-  }
-
-  .newsletter-popup {
-    width: calc(100vw - 30px);
-    max-height: calc(100dvh - 30px);
-    overflow-y: auto;
-  }
-}
-
-/* =========================
-   RESPONSIVE TELEFOON
-========================= */
-
-@media (max-width: 768px) {
-  /* HEADER EN NAVIGATIE */
-
-  body > header {
-    width: 100%;
+    gap: 12px;
     height: auto;
-    min-height: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 18px;
-    padding: 20px 15px;
+    padding: 14px 18px;
   }
-
-  body > header nav {
+  .navbar nav {
     width: 100%;
-    max-width: 100%;
   }
-
-  body > header nav ul {
-    display: flex;
-    flex-wrap: wrap;
+  .menu {
     justify-content: center;
-    align-items: center;
-    gap: 12px 18px;
-    padding: 0;
-    margin: 0;
-    list-style: none;
+    gap: 12px 20px;
   }
-
-  body > header nav a {
-    font-size: 14px;
+  .navbar .menu a {
     white-space: nowrap;
-  }
-
-  /* MATCHA AFBEELDINGEN */
-
-  .hero,
-  .slide {
-    width: 100%;
-    max-width: 100%;
-    min-width: 0;
-  }
-
-  .slide {
-    position: relative;
-    overflow: hidden;
-  }
-
-  .slide img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  /* TEKST OP DE AFBEELDING */
-
-  .slide h1,
-  .slide p {
-    position: relative;
-    left: auto;
-    right: auto;
-    top: auto;
-    bottom: auto;
-    transform: none;
-
-    width: calc(100% - 40px);
-    max-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-
-    text-align: center;
-    white-space: normal;
-    overflow-wrap: break-word;
-  }
-
-  .slide h1 {
-    font-size: clamp(26px, 7vw, 36px);
-    line-height: 1.2;
-  }
-
-  .slide p {
-    font-size: 16px;
-    line-height: 1.5;
   }
 }
 
-/* EERSTE AFBEELDING - MOBIEL */
-
+/* 8. RESPONSIVE: TELEFOON */
 @media (max-width: 768px) {
-  .slide-1 {
-    position: relative;
+  .navbar {
+    padding: 14px 12px;
+  }
+  .navbar .logo {
+    font-size: clamp(24px, 6vw, 34px);
+  }
+  .menu {
+    gap: 10px 15px;
+  }
+  .navbar .menu a {
+    font-size: 14px;
   }
 
+  /* Behoud sticky slides, maar plaats alle teksten binnen het scherm. */
   .slide-1 h1,
-  .slide-1 p {
+  .slide-1 p,
+  .slide-2 h2,
+  .slide-3 h2 {
     display: block;
     visibility: visible;
     opacity: 1;
-
-    position: absolute;
     left: 50%;
     right: auto;
-    transform: translateX(-50%);
-
     width: calc(100% - 40px);
     max-width: 100%;
-    margin: 0;
-
-    text-align: center;
+    transform: translate(-50%, -50%);
     white-space: normal;
-    color: white;
-    z-index: 20;
+    overflow-wrap: break-word;
   }
-
   .slide-1 h1 {
     top: 38%;
-    font-size: 30px;
-    line-height: 1.2;
+    font-size: clamp(26px, 7vw, 38px);
   }
-
   .slide-1 p {
     top: 50%;
     font-size: 16px;
     line-height: 1.5;
   }
+  .slide-2 h2 {
+    top: 47%;
+    font-size: clamp(26px, 7vw, 38px);
+  }
+  .slide-3 h2 {
+    top: 30%;
+    font-size: clamp(26px, 7vw, 38px);
+  }
+
+  .newsletter-popup {
+    width: calc(100vw - 30px);
+    max-height: calc(100dvh - 30px);
+    padding: 28px 22px;
+  }
+  .newsletter-popup h2 {
+    font-size: 24px;
+  }
 }
 
-/* KRUISJE NIEUWSBRIEF */
-
-.newsletter-popup {
-  position: relative;
+@media (max-width: 400px) {
+  .cookie-widget {
+    bottom: 15px;
+    left: 15px;
+  }
+  @keyframes cookieExpand {
+    from {
+      width: 65px;
+      height: 65px;
+      border-radius: 50%;
+    }
+    to {
+      width: calc(100vw - 30px);
+      height: 330px;
+      border-radius: 18px;
+    }
+  }
+  .cookie-widget:has(#cookie-open:checked) .cookie-popup {
+    width: calc(100vw - 30px);
+  }
 }
 
-.newsletter-popup .newsletter-close {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  width: 44px;
-  height: 44px;
-
-  padding: 0;
-  margin: 0;
-
-  color: #344e41;
-  background: transparent;
-
-  opacity: 1;
-  visibility: visible;
-
-  cursor: pointer;
-  z-index: 999;
-}
-
-/* KRUISJE AUTOMATISCH TOEVOEGEN */
-
-.newsletter-popup .newsletter-close::before {
-  content: "×";
-  display: block;
-  font-family: Arial, sans-serif;
-  font-size: 32px;
-  line-height: 1;
-  color: #344e41;
-}
-
-/* HOVER-EFFECT */
-
-.newsletter-popup .newsletter-close:hover::before {
-  color: #588157;
-}
-
-/* POP-UP SLUITEN */
-
-.newsletter:has(#newsletter-close:checked) {
-  display: none;
+/* 9. TOEGANKELIJKHEID: MINDER BEWEGING */
+@media (prefers-reduced-motion: reduce) {
+  .cookie-popup {
+    animation: none;
+    width: min(350px, calc(100vw - 50px));
+    height: 330px;
+    border-radius: 18px;
+  }
+  .cookie-content {
+    animation: none;
+    opacity: 1;
+    visibility: visible;
+  }
+  .cookie-widget:has(#cookie-close:checked) .cookie-popup {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+  }
+  .cookie-widget:has(#cookie-close:checked) .cookie-content {
+    opacity: 0;
+    visibility: hidden;
+  }
+  .newsletter {
+    animation-duration: 0.01ms;
+  }
 }
