@@ -3,31 +3,173 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Herkomst</title>
+
+    <title>Herkomst | The Green Ritual</title>
+
+    <link rel="stylesheet" href="./assets/style/normal.css" />
+    <link rel="stylesheet" href="./assets/style/herkomst.css" />
   </head>
 
-  <body>
-    <p>Hier komt informatie over de herkomst van matcha.</p>
+  <body class="herkomst-page">
+    <!-- NAVIGATIE -->
 
-    <header>
-      <nav class="navbar" aria-label="Hoofdnavigatie">
-        <a href="index.html" class="logo"> The Green Ritual </a>
+    <nav class="navbar" aria-label="Hoofdnavigatie">
+      <a href="index.html" class="logo">The Green Ritual</a>
 
-        <ul class="menu">
-          <li><a href="herkomst.html">Herkomst</a></li>
-          <li><a href="ceremonie.html">Ceremonie</a></li>
-          <li><a href="recepten.html">Recepten</a></li>
-          <li><a href="trends.html">Trends</a></li>
-          <li><a href="mijnervaring.html">Mijn ervaring</a></li>
-          <li><a href="letithappen.html">Songtekst</a></li>
-        </ul>
-      </nav>
-    </header>
+      <ul class="menu">
+        <li><a href="herkomst.html" aria-current="page">Herkomst</a></li>
+        <li><a href="ceremonie.html">Ceremonie</a></li>
+        <li><a href="recepten.html">Recepten</a></li>
+        <li><a href="trends.html">Trends</a></li>
+        <li><a href="mijnervaring.html">Mijn ervaring</a></li>
+        <li><a href="letithappen.html">Songtekst</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <!-- HERO MET GRID -->
+
+      <section class="herkomst-hero">
+        <figure class="hero-afbeelding">
+          <img
+            src="./assets/images/Matchatuin.jpg"
+            alt="Groene theevelden in Japan"
+          />
+          <figcaption>抹茶</figcaption>
+        </figure>
+
+        <section class="hero-tekst">
+          <p class="kleine-titel">DE HERKOMST VAN MATCHA</p>
+
+          <h1>Een eeuwenoude traditie uit Japan</h1>
+
+          <p>
+            Matcha is meer dan een drankje. Het is een traditie, een ritueel en
+            een levenswijze die al eeuwenlang wordt doorgegeven in Japan.
+          </p>
+        </section>
+      </section>
+
+      <!-- GRID MET VIER ONDERWERPEN -->
+
+      <section class="herkomst-grid" aria-label="De geschiedenis van matcha">
+        <!-- BLOK 1: TEKST -->
+
+        <article class="grid-tekst">
+          <p class="kleine-titel">DE OORSPRONG</p>
+
+          <h2>Waar het allemaal begon</h2>
+
+          <p>
+            Matcha vindt zijn oorsprong in China, maar werd in de 12e eeuw naar
+            Japan gebracht door boeddhistische monniken.
+          </p>
+
+          <p>
+            Daar groeide het uit tot een belangrijk onderdeel van de Japanse
+            cultuur, vooral binnen de theeceremonie.
+          </p>
+        </article>
+
+        <!-- BLOK 2: AFBEELDING -->
+
+        <figure class="grid-afbeelding">
+          <img
+            src="./assets/images/tempel.jpg"
+            alt="Traditionele Japanse tempel"
+            loading="lazy"
+          />
+        </figure>
+
+        <!-- BLOK 3: TEKST -->
+
+        <article class="grid-tekst">
+          <p class="kleine-titel">DE REGIO</p>
+
+          <h2>Uji, het hart van matcha</h2>
+
+          <p>
+            De regio Uji, ten zuiden van Kyoto, staat bekend om haar
+            hoogwaardige matcha.
+          </p>
+
+          <p>
+            Het milde klimaat, de vruchtbare grond en de zuivere waterbronnen
+            zorgen voor een verfijnde en smaakvolle thee.
+          </p>
+        </article>
+
+        <!-- BLOK 4: AFBEELDING -->
+
+        <figure class="grid-afbeelding">
+          <img
+            src="./assets/images/uji.jpg"
+            alt="De Japanse regio Uji"
+            loading="lazy"
+          />
+        </figure>
+
+        <!-- BLOK 5: AFBEELDING -->
+
+        <figure class="grid-afbeelding">
+          <img
+            src="./assets/images/theebladeren.jpg"
+            alt="Verse groene theebladeren"
+            loading="lazy"
+          />
+        </figure>
+
+        <!-- BLOK 6: TEKST -->
+
+        <article class="grid-tekst">
+          <p class="kleine-titel">HET PROCES</p>
+
+          <h2>Met zorg en vakmanschap</h2>
+
+          <p>
+            De theebladeren worden enkele weken voor de oogst beschermd tegen
+            direct zonlicht.
+          </p>
+
+          <p>
+            Vervolgens worden ze gestoomd, gedroogd en langzaam vermalen tot een
+            fijn poeder. Dit geeft matcha haar kenmerkende kleur en smaak.
+          </p>
+        </article>
+
+        <!-- BLOK 7: AFBEELDING -->
+
+        <figure class="grid-afbeelding">
+          <img
+            src="./assets/images/Matchapoeder.png"
+            alt="Fijngemalen groen matchapoeder"
+            loading="lazy"
+          />
+        </figure>
+
+        <!-- BLOK 8: TEKST -->
+
+        <article class="grid-tekst">
+          <p class="kleine-titel">MEER DAN THEE</p>
+
+          <h2>Een ritueel voor balans</h2>
+
+          <p>In Japan staat matcha symbool voor rust, aandacht en harmonie.</p>
+
+          <p>
+            Het drinken van matcha is een moment van bewustzijn: een kleine
+            pauze in een drukke wereld.
+          </p>
+
+          <a href="ceremonie.html" class="lees-meer"> Ontdek de ceremonie → </a>
+        </article>
+      </section>
+    </main>
+
+    <!-- FOOTER -->
 
     <footer class="site-footer">
       <section class="footer-main">
-        <!-- LINKS: NIEUWSBRIEF -->
-
         <section class="footer-newsletter">
           <h2>A little matcha in your inbox?</h2>
 
@@ -38,32 +180,26 @@
 
           <form class="footer-form" action="#" method="post">
             <label for="footer-name">Naam</label>
-
             <input
               type="text"
               id="footer-name"
               name="name"
-              placeholder="Jouw naam"
-              autocomplete="name"
+              placeholder="Naam"
               required
             />
 
             <label for="footer-email">E-mailadres</label>
-
             <input
               type="email"
               id="footer-email"
               name="email"
-              placeholder="Jouw e-mailadres"
-              autocomplete="email"
+              placeholder="E-mailadres"
               required
             />
 
             <button type="submit">Inschrijven →</button>
           </form>
         </section>
-
-        <!-- RECHTS: NAVIGATIE -->
 
         <nav class="footer-navigation" aria-label="Footernavigatie">
           <h2>Explore</h2>
@@ -74,14 +210,10 @@
             <li><a href="recepten.html">Recepten</a></li>
             <li><a href="trends.html">Trends</a></li>
             <li><a href="mijnervaring.html">Mijn ervaring</a></li>
-            <li><a href="letithappen.html">Songtekst</a></li>
             <li><a href="faq.html">FAQ</a></li>
-            <li><a href="#cookie-open">Cookies</a></li>
           </ul>
         </nav>
       </section>
-
-      <!-- ONDERKANT FOOTER -->
 
       <section class="footer-bottom">
         <p>© 2026 The Green Ritual</p>
