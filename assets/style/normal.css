@@ -880,3 +880,38 @@ img {
     line-height: 1.5;
   }
 }
+
+/* TEKST OP EERSTE AFBEELDING - MOBIEL */
+
+@media (max-width: 768px) {
+  .slide-1 {
+    position: relative;
+  }
+
+  .slide-1 h1,
+  .slide-1 p {
+    position: absolute;
+    left: 50%;
+    right: auto;
+    width: calc(100% - 40px);
+    max-width: 100%;
+    margin: 0;
+    transform: translateX(-50%);
+    text-align: center;
+    color: white;
+    z-index: 10;
+    white-space: normal;
+  }
+
+  .slide-1 h1 {
+    top: 40%;
+    font-size: clamp(26px, 7vw, 38px);
+    line-height: 1.2;
+  }
+
+  .slide-1 p {
+    top: 49%;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+}
