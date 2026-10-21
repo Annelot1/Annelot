@@ -1160,3 +1160,23 @@ html body .newsletter-popup form input {
       color 0.3s ease;
   }
 }
+
+/* TOETSENBORD TOEGANKELIJKHEID */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+label:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #91b66d;
+  outline-offset: 4px;
+}
+
+/* Duidelijke focus in navigatie */
+
+.navbar a:focus-visible,
+.site-footer a:focus-visible,
+.site-footer button:focus-visible {
+  outline: 3px solid #ffffff;
+  outline-offset: 4px;
+}
