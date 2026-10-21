@@ -58,14 +58,14 @@ img {
   width: 100%;
   min-height: 70px;
   padding: 0 40px;
-  background-color: #f5f0e8;
+  background-color: #382b25;
 }
 
 .navbar .logo {
   flex-shrink: 0;
   font-family: Didot, Georgia, serif;
   font-size: 28px;
-  color: #382b25;
+  color: #f5f0e8;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -84,7 +84,7 @@ img {
 .navbar .menu a {
   font-family: Georgia, serif;
   font-size: 15px;
-  color: #382b25;
+  color: #f5f0e8;
   text-decoration: none;
 }
 

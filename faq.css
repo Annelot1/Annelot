@@ -1,0 +1,178 @@
+/* ========================================
+   FAQ PAGINA
+   ======================================== */
+
+/* ACHTERGROND */
+
+.faq-page {
+  margin: 0;
+  background-color: #f5f0e8;
+  color: #382b25;
+  font-family: Georgia, serif;
+}
+
+/* DONKERBRUINE NAVBAR */
+
+.faq-page .navbar {
+  background-color: #382b25;
+}
+
+.faq-page .navbar .logo {
+  color: #f5f0e8;
+}
+
+.faq-page .navbar .menu a {
+  color: #f5f0e8;
+}
+
+.faq-page .navbar .menu a:hover {
+  opacity: 0.6;
+}
+
+/* FAQ INHOUD */
+
+.faq-main {
+  min-height: 70vh;
+  padding: 150px 25px 110px;
+}
+
+/* TITEL EN ONDERTITEL */
+
+.faq-header {
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+.faq-header h1 {
+  margin: 0 0 20px;
+
+  font-family: Didot, Georgia, serif;
+  font-size: clamp(38px, 5vw, 65px);
+  font-weight: 400;
+
+  color: #382b25;
+}
+
+.faq-header p {
+  margin: 0 auto;
+
+  max-width: 650px;
+
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.7;
+
+  color: #6c584c;
+}
+
+/* VRAGEN */
+
+.faq-list {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* SCHEIDINGSLIJNEN */
+
+.faq-list details {
+  border-bottom: 1px solid #cbbeb2;
+}
+
+.faq-list details:first-child {
+  border-top: 1px solid #cbbeb2;
+}
+
+/* KLIKBARE VRAAG */
+
+.faq-list summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+
+  padding: 25px 5px;
+
+  font-family: Georgia, serif;
+  font-size: 18px;
+  font-weight: 400;
+
+  color: #382b25;
+  cursor: pointer;
+
+  list-style: none;
+}
+
+/* STANDAARD PIJLTJE VERBERGEN */
+
+.faq-list summary::-webkit-details-marker {
+  display: none;
+}
+
+/* PLUSJE */
+
+.faq-list summary::after {
+  content: "+";
+
+  font-family: Georgia, serif;
+  font-size: 26px;
+  font-weight: 400;
+
+  color: #382b25;
+}
+
+/* MINNETJE WANNEER OPEN */
+
+.faq-list details[open] summary::after {
+  content: "−";
+}
+
+/* ANTWOORD */
+
+.faq-list details p {
+  margin: 0;
+  padding: 0 45px 25px 5px;
+
+  font-family: Georgia, serif;
+  font-size: 15px;
+  line-height: 1.8;
+
+  color: #6c584c;
+}
+
+/* HOVER */
+
+.faq-list summary:hover {
+  color: #6c584c;
+}
+
+/* TOETSENBORD NAVIGATIE */
+
+.faq-list summary:focus-visible {
+  outline: 2px solid #382b25;
+  outline-offset: 4px;
+}
+
+/* MOBIEL */
+
+@media (max-width: 600px) {
+  .faq-main {
+    padding: 125px 20px 75px;
+  }
+
+  .faq-header {
+    margin-bottom: 45px;
+  }
+
+  .faq-header p {
+    font-size: 14px;
+  }
+
+  .faq-list summary {
+    font-size: 16px;
+    padding: 22px 5px;
+  }
+
+  .faq-list details p {
+    font-size: 14px;
+  }
+}
