@@ -881,7 +881,7 @@ img {
   }
 }
 
-/* TEKST OP EERSTE AFBEELDING - MOBIEL */
+/* EERSTE AFBEELDING - MOBIEL */
 
 @media (max-width: 768px) {
   .slide-1 {
@@ -890,28 +890,64 @@ img {
 
   .slide-1 h1,
   .slide-1 p {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+
     position: absolute;
     left: 50%;
     right: auto;
+    transform: translateX(-50%);
+
     width: calc(100% - 40px);
     max-width: 100%;
     margin: 0;
-    transform: translateX(-50%);
+
     text-align: center;
-    color: white;
-    z-index: 10;
     white-space: normal;
+    color: white;
+    z-index: 20;
   }
 
   .slide-1 h1 {
-    top: 40%;
-    font-size: clamp(26px, 7vw, 38px);
+    top: 38%;
+    font-size: 30px;
     line-height: 1.2;
   }
 
   .slide-1 p {
-    top: 49%;
+    top: 50%;
     font-size: 16px;
-    line-height: 1.4;
+    line-height: 1.5;
   }
+}
+
+/* KRUISJE NIEUWSBRIEF */
+
+.newsletter-popup {
+  position: relative;
+}
+
+.newsletter-close {
+  position: absolute;
+  top: 12px;
+  right: 15px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 44px;
+  height: 44px;
+
+  font-size: 30px;
+  line-height: 1;
+  color: #344e41;
+
+  cursor: pointer;
+  z-index: 100;
+}
+
+.newsletter-close:hover {
+  color: #588157;
 }
