@@ -17,7 +17,9 @@
       <a href="index.html" class="logo">The Green Ritual</a>
 
       <ul class="menu">
-        <li><a href="herkomst.html" aria-current="page">Herkomst</a></li>
+        <li>
+          <a href="herkomst.html" aria-current="page">Herkomst</a>
+        </li>
         <li><a href="ceremonie.html">Ceremonie</a></li>
         <li><a href="recepten.html">Recepten</a></li>
         <li><a href="trends.html">Trends</a></li>
@@ -27,17 +29,22 @@
     </nav>
 
     <main class="herkomst-main">
-      <!-- BOVENSTE GEDEELTE -->
+      <!-- HERO: AFBEELDING LINKS, TEKST RECHTS -->
 
       <section class="herkomst-hero">
         <figure class="hero-foto">
-          <img src="./assets/images/berg.jpg" alt="Groen landschap in Japan" />
+          <img
+            src="./assets/images/berg.jpg"
+            alt="Japans landschap met bergen en een tempel"
+          />
           <figcaption>抹茶</figcaption>
         </figure>
 
         <section class="hero-inhoud">
           <p class="eyebrow">DE HERKOMST VAN MATCHA</p>
+
           <h1>Een eeuwenoude<br />traditie uit Japan</h1>
+
           <p>
             Matcha is meer dan een drankje. Het is een traditie, een ritueel en
             een levenswijze die al eeuwenlang wordt doorgegeven in Japan.
@@ -45,12 +52,19 @@
         </section>
       </section>
 
-      <!-- GRID MET 8 BLOKKEN -->
+      <!-- GRID: VIER KOLOMMEN EN TWEE RIJEN -->
 
-      <section class="herkomst-grid">
+      <section
+        class="herkomst-grid"
+        aria-label="De geschiedenis en herkomst van matcha"
+      >
+        <!-- BLOK 1: OORSPRONG -->
+
         <article class="herkomst-tekst">
           <p class="eyebrow">DE OORSPRONG</p>
+
           <h2>Waar het<br />allemaal begon</h2>
+
           <p>
             Matcha vindt zijn oorsprong in China, maar werd in de 12e eeuw naar
             Japan gebracht door boeddhistische monniken. Daar groeide het uit
@@ -59,13 +73,22 @@
           </p>
         </article>
 
+        <!-- BLOK 2: TEMPEL -->
+
         <figure class="herkomst-foto">
-          <img src="./assets/images/tample.jpg" alt="Japanse tempel" />
+          <img
+            src="./assets/images/tample.jpg"
+            alt="Traditionele Japanse tempel"
+          />
         </figure>
+
+        <!-- BLOK 3: UJI -->
 
         <article class="herkomst-tekst">
           <p class="eyebrow">DE REGIO</p>
+
           <h2>Uji, het hart<br />van matcha</h2>
+
           <p>
             De beste matcha komt uit de regio Uji, ten zuiden van Kyoto. Het
             milde klimaat, de vruchtbare grond en de zuivere waterbronnen zorgen
@@ -73,20 +96,31 @@
           </p>
         </article>
 
+        <!-- BLOK 4: THEEVELDEN -->
+
         <figure class="herkomst-foto">
-          <img src="./assets/images/tuin.jpg" alt="Groene theevelden" />
+          <img
+            src="./assets/images/tuin.jpg"
+            alt="Groene theevelden in Japan"
+          />
         </figure>
+
+        <!-- BLOK 5: MATCHA BEREIDEN -->
 
         <figure class="herkomst-foto">
           <img
             src="./assets/images/wisk.jpg"
-            alt="Matcha en traditionele bereiding"
+            alt="Traditionele bereiding van matcha"
           />
         </figure>
 
+        <!-- BLOK 6: PRODUCTIEPROCES -->
+
         <article class="herkomst-tekst">
           <p class="eyebrow">HET PROCES</p>
+
           <h2>Met zorg en<br />vakmanschap</h2>
+
           <p>
             De theebladeren worden enkele weken voor de oogst beschermd, met de
             hand geplukt en vervolgens langzaam gestoomd, gedroogd en gemalen
@@ -95,16 +129,22 @@
           </p>
         </article>
 
+        <!-- BLOK 7: MATCHAPOEDER -->
+
         <figure class="herkomst-foto">
           <img
             src="./assets/images/Matchapoeder.png"
-            alt="Groen matchapoeder"
+            alt="Fijngemalen groen matchapoeder"
           />
         </figure>
 
+        <!-- BLOK 8: RITUEEL -->
+
         <article class="herkomst-tekst">
           <p class="eyebrow">MEER DAN THEE</p>
+
           <h2>Een ritueel<br />voor balans</h2>
+
           <p>
             In Japan staat matcha symbool voor rust, focus en harmonie. Het
             drinken van matcha is een moment van aandacht — een kleine pauze in
@@ -114,8 +154,12 @@
       </section>
     </main>
 
+    <!-- FOOTER ZOALS OP DE ANDERE PAGINA'S -->
+
     <footer class="site-footer">
       <section class="footer-main">
+        <!-- LINKS: NIEUWSBRIEF -->
+
         <section class="footer-newsletter">
           <h2>A little matcha in your inbox?</h2>
 
@@ -126,26 +170,32 @@
 
           <form class="footer-form" action="#" method="post">
             <label for="footer-name">Naam</label>
+
             <input
               type="text"
               id="footer-name"
               name="name"
-              placeholder="Naam"
+              placeholder="Jouw naam"
+              autocomplete="name"
               required
             />
 
             <label for="footer-email">E-mailadres</label>
+
             <input
               type="email"
               id="footer-email"
               name="email"
-              placeholder="E-mailadres"
+              placeholder="Jouw e-mailadres"
+              autocomplete="email"
               required
             />
 
             <button type="submit">Inschrijven →</button>
           </form>
         </section>
+
+        <!-- RECHTS: NAVIGATIE -->
 
         <nav class="footer-navigation" aria-label="Footernavigatie">
           <h2>Explore</h2>
@@ -160,6 +210,8 @@
           </ul>
         </nav>
       </section>
+
+      <!-- ONDERSTE FOOTER -->
 
       <section class="footer-bottom">
         <p>© 2026 The Green Ritual</p>
