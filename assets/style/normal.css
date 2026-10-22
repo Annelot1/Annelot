@@ -3,20 +3,11 @@
    ======================================== */
 
 /* 1. LETTERTYPE EN VARIABELEN */
-
 @font-face {
   font-family: "Didot";
   src: url("../type/Didot.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
-}
-
-@font-face {
-  font-family: "Bodoni Moda";
-  src: url("../fonts/BodoniModa-VariableFont_opsz,wght.ttf") format("truetype");
-  font-weight: 400 900;
-  font-style: normal;
-  font-display: swap;
 }
 
 :root {
@@ -70,7 +61,7 @@ img {
 
 .navbar .logo {
   flex-shrink: 0;
-  font-family: "Bodoni Moda", Didot, Georgia, serif;
+  font-family: Didot, Georgia, serif;
   font-size: 28px;
   color: #f5f0e8;
   text-decoration: none;
