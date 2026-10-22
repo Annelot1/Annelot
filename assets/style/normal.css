@@ -235,7 +235,7 @@ img {
 
 .cookie-content {
   box-sizing: border-box;
-  padding: 16px 18px 50px;
+  padding: 16px 12px 30px;
   opacity: 0;
   visibility: hidden;
   animation: cookieText 0.7s ease-out 5.8s forwards;
@@ -250,7 +250,7 @@ img {
 
 .cookie-content p {
   margin: 0 0 9px;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.4;
   color: #382b25;
 }
