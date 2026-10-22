@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Didot";
+  src: url("../type/Didot.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
 body.bronnen-page {
   color-scheme: light dark;
   --achtergrond: light-dark(#f5f0e8, #382b25);
