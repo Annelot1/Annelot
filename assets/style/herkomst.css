@@ -8,9 +8,9 @@ body.herkomst-page {
   overflow-x: clip;
 }
 
-body.herkomst-page *,
-body.herkomst-page *::before,
-body.herkomst-page *::after {
+body.herkomst-page,
+body.herkomst-page ::before,
+body.herkomst-page ::after {
   box-sizing: border-box;
 }
 
