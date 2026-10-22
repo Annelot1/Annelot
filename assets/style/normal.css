@@ -787,6 +787,19 @@ img {
   transition: background-color 0.3s ease;
 }
 
+.site-footer .footer-form button {
+  background-color: #f7f4ec;
+  color: #382b25;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+.site-footer .footer-form button:hover {
+  background-color: #6c584c;
+  color: #ffffff;
+}
+
 @media (max-width: 650px) {
   .site-footer {
     padding: 35px 20px 20px;
@@ -971,4 +984,17 @@ summary:focus-visible {
 .site-footer button {
   box-sizing: border-box;
   width: 100%;
+}
+
+.site-footer .footer-form button {
+  background-color: #f7f4ec;
+  color: #382b25;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+.site-footer .footer-form button:hover {
+  background-color: #6c584c;
+  color: #ffffff;
 }
