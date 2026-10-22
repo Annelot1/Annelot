@@ -376,3 +376,206 @@ body.herkomst-page .herkomst-grid > :nth-child(7) {
   grid-column: 2;
   grid-row: 1;
 }
+
+/* ==========================================
+   RESPONSIVE HERKOMST PAGINA
+   ========================================== */
+
+/* VOORKOM DAT ELEMENTEN BUITEN HET SCHERM VALLEN */
+
+body.herkomst-page {
+  width: 100%;
+  overflow-x: clip;
+}
+
+body.herkomst-page *,
+body.herkomst-page *::before,
+body.herkomst-page *::after {
+  box-sizing: border-box;
+}
+
+/* ==========================================
+   TABLET EN KLEINERE LAPTOPS
+   ========================================== */
+
+@media (max-width: 1100px) {
+  /* NAVIGATIE */
+
+  body.herkomst-page .navbar {
+    height: auto;
+    min-height: 65px;
+    padding: 18px 25px;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  body.herkomst-page .navbar .logo {
+    margin: 0;
+    font-size: 28px;
+    white-space: nowrap;
+  }
+
+  body.herkomst-page .navbar .menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    gap: 12px 20px;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* HERO */
+
+  body.herkomst-page .herkomst-main {
+    padding-top: 0;
+  }
+
+  body.herkomst-page .herkomst-hero {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+  }
+
+  body.herkomst-page .hero-foto {
+    height: 420px;
+  }
+
+  body.herkomst-page .hero-inhoud {
+    padding: 55px 6%;
+  }
+
+  body.herkomst-page .hero-inhoud h1 {
+    font-size: clamp(38px, 5vw, 60px);
+  }
+
+  /* GRID MET TWEE KOLOMMEN */
+
+  body.herkomst-page .herkomst-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: none;
+    grid-auto-rows: auto;
+  }
+
+  body.herkomst-page .herkomst-grid > * {
+    min-width: 0;
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  body.herkomst-page .herkomst-tekst {
+    min-height: 320px;
+    padding: 35px 8%;
+    overflow: visible;
+  }
+
+  body.herkomst-page .herkomst-tekst h2 {
+    font-size: clamp(28px, 3.5vw, 40px);
+  }
+
+  body.herkomst-page .herkomst-tekst > p:last-child {
+    font-size: 13px;
+    line-height: 1.6;
+  }
+
+  body.herkomst-page .herkomst-foto {
+    height: 100%;
+    min-height: 320px;
+  }
+}
+
+/* ==========================================
+   MOBIEL
+   ========================================== */
+
+@media (max-width: 600px) {
+  /* NAVIGATIE */
+
+  body.herkomst-page .navbar {
+    padding: 20px 15px;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  body.herkomst-page .navbar .logo {
+    font-size: 27px;
+    text-align: center;
+  }
+
+  body.herkomst-page .navbar .menu {
+    width: 100%;
+    justify-content: center;
+    gap: 12px 16px;
+  }
+
+  body.herkomst-page .navbar .menu a {
+    font-size: 12px;
+  }
+
+  /* HERO */
+
+  body.herkomst-page .herkomst-main {
+    padding-top: 0;
+  }
+
+  body.herkomst-page .hero-foto {
+    height: 280px;
+  }
+
+  body.herkomst-page .hero-foto figcaption {
+    font-size: 32px;
+  }
+
+  body.herkomst-page .hero-inhoud {
+    padding: 40px 25px;
+  }
+
+  body.herkomst-page .hero-inhoud h1 {
+    font-size: clamp(34px, 8vw, 46px);
+  }
+
+  body.herkomst-page .hero-inhoud > p:last-child {
+    font-size: 14px;
+  }
+
+  /* GRID MET ÉÉN KOLOM */
+
+  body.herkomst-page .herkomst-grid {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: none;
+    grid-auto-rows: auto;
+  }
+
+  body.herkomst-page .herkomst-grid > * {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  body.herkomst-page .herkomst-tekst {
+    min-height: 0;
+    padding: 45px 25px;
+  }
+
+  body.herkomst-page .herkomst-tekst h2 {
+    font-size: 36px;
+  }
+
+  body.herkomst-page .herkomst-tekst > p:last-child {
+    font-size: 14px;
+  }
+
+  body.herkomst-page .herkomst-foto {
+    height: 300px;
+    min-height: 300px;
+  }
+
+  /* FOOTER */
+
+  body.herkomst-page .footer-main {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
