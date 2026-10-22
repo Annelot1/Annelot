@@ -1,35 +1,21 @@
-/* LETTERTYPE SERAPHS */
-
 @font-face {
   font-family: "Seraphs";
   src: url("font/SeraphsVF.woff2") format("woff2");
 }
-
-/* ALLES CENTREREN */
 
 body {
   font-family: "Seraphs", serif;
   text-align: center;
 }
 
-/* ALGEMENE SONGTEKST */
-
 .line {
   font-family: "Seraphs", serif;
   font-style: normal;
-
-  /* MINDER WITRUIMTE */
   line-height: 1.1;
-
-  /* LETTERS DICHTER BIJ ELKAAR */
   letter-spacing: -0.5px;
   word-spacing: 0px;
-
-  /* AFSTAND TUSSEN ALINEA'S */
   margin-block: 0.6em;
 }
-
-/* LANDINGSBAAN: KLEIN NAAR GROOT */
 
 .line-1 {
   font-size: 19px;
@@ -65,15 +51,12 @@ body {
 
 .line-9 {
   font-size: 48px;
-  letter-spacing: 0px;
-  line-height: 1;
 }
 
 .line-10 {
   font-size: 65px;
-  letter-spacing: -2px;
-  line-height: 1;
 }
+
 .line-11 {
   font-size: 42px;
 }
@@ -99,10 +82,7 @@ body {
 }
 .line-10 {
   font-size: 85px;
-  animation: opstijgen 10s ease-in infinite;
 }
-
-/* HELE ONTWERP IN HET MIDDEN */
 
 body {
   min-height: 100vh;
@@ -112,156 +92,93 @@ body {
   text-align: center;
 }
 
-/* TEKST BIJ ELKAAR HOUDEN */
-
-.runway {
-  width: 100%;
-}
-
-.line-10 {
-  font-size: 65px;
-  animation: opstijgen 10s ease-in infinite;
-}
-
-/* ==========================================
-   ANIMATIES ACHTER ELKAAR
-   ========================================== */
-
-/*
-   TOTALE DUUR: 30 SECONDEN
-
-   0 - 15 sec: WE RENNEN
-   15 - 23 sec: SHADOW
-   23 - 30 sec: OPSTIJGEN
-
-   Daarna begint alles opnieuw.
-*/
-
-/* ==========================================
-   1. WEGRENNEN
-   ========================================== */
-
 .line-4 {
   animation: rennen 30s linear infinite;
 }
 
 @keyframes rennen {
-  /* Begin: tekst staat stil */
   0%,
   10% {
     transform: translateX(0);
     opacity: 1;
   }
 
-  /* Tekst rent langzaam naar rechts */
   43% {
     transform: translateX(120vw);
     opacity: 1;
   }
 
-  /* Tekst komt onzichtbaar terug */
   43.1% {
     transform: translateX(0);
     opacity: 0;
   }
 
-  /* Tekst verschijnt weer */
   46% {
     transform: translateX(0);
     opacity: 1;
   }
 
-  /* Wachten tot volgende ronde */
   100% {
     transform: translateX(0);
     opacity: 1;
   }
 }
-
-/* ==========================================
-   2. SHADOW EFFECT
-   ========================================== */
 
 .line-5 {
   animation: wolken 30s ease-in-out infinite;
 }
 
 @keyframes wolken {
-  /* Wachten tot wegrennen klaar is */
   0%,
   50% {
     filter: blur(0px);
     opacity: 1;
   }
 
-  /* Langzaam verdwijnen in de schaduw */
   63% {
     filter: blur(8px);
     opacity: 0.2;
   }
 
-  /* Langzaam terugkomen */
   76.67% {
     filter: blur(0px);
     opacity: 1;
   }
 
-  /* Wachten tot volgende ronde */
   100% {
     filter: blur(0px);
     opacity: 1;
   }
 }
-
-/* ==========================================
-   3. OPSTIJGEN
-   ========================================== */
 
 .line-10 {
   animation: opstijgen 30s ease-in infinite;
 }
 
 @keyframes opstijgen {
-  /* Wachten op de andere animaties */
   0%,
   76.67% {
     transform: translateY(0) scale(1);
     opacity: 1;
   }
 
-  /* Tekst begint op te stijgen */
   85% {
     transform: translateY(-100px) scale(1.5);
     opacity: 1;
   }
 
-  /* Tekst vliegt omhoog en verdwijnt */
   95% {
     transform: translateY(-600px) scale(3);
     opacity: 0;
   }
 
-  /* Onzichtbaar terug naar beginpositie */
   95.1% {
     transform: translateY(0) scale(1);
     opacity: 0;
   }
 
-  /* Tekst verschijnt weer */
   100% {
     transform: translateY(0) scale(1);
     opacity: 1;
-  }
-}
-
-/* ==========================================
-   TOEGANKELIJKHEID
-   ========================================== */
-
-@media (prefers-reduced-motion: reduce) {
-  .line-4,
-  .line-5,
-  .line-10 {
-    animation: none;
   }
 }
