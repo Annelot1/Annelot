@@ -4,6 +4,14 @@ https://nl.wikipedia.org/wiki/Matcha
 
 https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
 
+### Vrij 23 okt 
+
+De retrospectief heb ik ingevuld: 
+
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 30" src="https://github.com/user-attachments/assets/11660102-7b04-4d5c-a32a-57e273faac15" />
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 39" src="https://github.com/user-attachments/assets/625017c8-ac8d-4e89-9559-e32df3b4ab02" />
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 48" src="https://github.com/user-attachments/assets/39fbc8b6-bdb4-48ba-97e5-931d46537e99" />
+
 ### Woe 21 okt 
 
 Vanochtend mee gedaan met de bi-weekly geek:
