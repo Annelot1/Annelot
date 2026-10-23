@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Seraphs";
-  src: url("font/SeraphsVF.woff2") format("woff2");
+  src: url("/assets/type/SeraphsVF.woff2") format("woff2");
 }
 
 body {
