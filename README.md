@@ -58,8 +58,12 @@ Daarnaast wil ik zorgen dat de website ook goed met een toetsenbord te bedienen 
 Conclusie: Met deze kleine verbeteringen wil ik de toegankelijkheid vergroten, zonder de rustige en overzichtelijke uitstraling van mijn website te veranderen.
 
 Vanochtend mee gedaan met de bi-weekly geek:
-
-<img width="1536" height="2048" alt="2bd0d2d4-5169-4905-a56f-277d294cea26" src="https://github.com/user-attachments/assets/398a2727-476b-4d6d-a51a-7d1817c35945" />
+<img
+  width="800"
+  height="600"
+  alt="Bi-weekly Geek 3"
+  src="https://github.com/user-attachments/assets/398a2727-476b-4d6d-a51a-7d1817c35945"
+/>
 
 Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
 
