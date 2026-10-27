@@ -1232,8 +1232,8 @@ Ik vind de laatste opdracht echt heel lastig.. Ik ben tot hier gekomen want het 
 
 Vanochtend begonnen met de eerste Bi-Weekly Geek. Hier heb ik de gezamenlijke opdracht gedaan met Leonie, Julia en Tamar:
 
-<img width="1200" height="1600" alt="488f0083-546e-4c60-96cc-5d1308da7b8b" src="https://github.com/user-attachments/assets/5f12b1de-1372-43b4-bba1-17c1363cdb31" />
-<img width="1200" height="1600" alt="8ace64f2-ffb6-4d50-8aac-2f3cc372f851" src="https://github.com/user-attachments/assets/82cc4c88-1179-4d10-af7f-1a860b4c6b4e" />
+<img width="719" height="956" alt="Scherm­afbeelding 2026-10-27 om 19 18 09" src="https://github.com/user-attachments/assets/00710f19-a3b9-41db-a916-43ffd3bb59d6" />
+<img width="719" height="956" alt="Scherm­afbeelding 2026-10-27 om 19 18 22" src="https://github.com/user-attachments/assets/c1fd8440-c8b9-412b-b58b-a68b53905ea6" />
 
 Samenvatting 5 Principles of Visual Design in UX:
 
