@@ -1,9 +1,3 @@
-## Bronnen
-
-https://nl.wikipedia.org/wiki/Matcha
-
-https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
-
 Youtube: 
 
 Ik heb via Youtube tientallen video's gezien voor de opmaak van mijn codes, dit zijn de namen waar ik veel naar heb gekeken: 
@@ -85,6 +79,8 @@ Hieronder laat ik veel foto's zien met welke ontwikkelingen die ik heb gemaakt m
 
 Hieronder zie je hoe ik mijn songtekst verder heb weergegeven, ik heb met Barbara gesproken en heb haar gevraagd tijdens sprint 3 wat zij op dat moment van mijn songtekst vond. Ze zij dat de tekst wat gek liep en dat je nu in het begin kijkt naar eigenlijk de laatste zin van de alinea. Dit heb ik nu omgedraaid en behoud ik nog wel het vliegtuig effect. Ik wil tijdens de songtekst laten zien hoe het nummer gaat maar ook hoe de videoclip is. Dit was in en rondom een vliegtuig en wilde ik iets doen met het opstijgen en in de wolken hangen. Na het vervolggesprek met Vasilis in sprint 3 heb ik als feedback gekregen dat ik nog meer animaties kan toevoegen, dus heb ik toen verder uitgezocht en bij klasgenoten inspiratie opgedaan. 
 
+Uiteindelijk heb ik mijn songtekst dus deels opnieuw opgesteld. Ik heb veel meer animaties en kleur toevoegt. Ik heb wel de vorm van een landingsbaan behouden omdat ik dit toch wel heel leuk en tof vind. Ik heb dus meerdere animaties erbij gedaan en gekeken naar de zinnen en woorden die erin staan en daarmee heb ik verder gespeeld. Ik vond het nu zo tof geworden en ben blij met het eindresultaat. 
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 16 50" src="https://github.com/user-attachments/assets/fe11e84c-3235-4ea9-b46e-f9bf53403510" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 21 33" src="https://github.com/user-attachments/assets/4ff94acd-a3f5-4ae8-bd8a-bc01042b601c" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 28 04" src="https://github.com/user-attachments/assets/ba4ae5af-abbe-4e0c-a191-6b9a7b5cb75d" />
@@ -102,8 +98,23 @@ Hieronder zie je hoe ik mijn songtekst verder heb weergegeven, ik heb met Barbar
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/4a56b4e7-3b76-4927-972c-38bd3335c9d6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/baa20db2-af4d-4c97-87a0-cb8851b58af6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 46" src="https://github.com/user-attachments/assets/94415864-ae0c-4822-9f50-8088a65a5190" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 04 52" src="https://github.com/user-attachments/assets/7e977191-e9d6-4f5a-a651-161dce710e3f" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 10 58" src="https://github.com/user-attachments/assets/25c83412-84ab-4c7a-ac28-68baea268ef4" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 03" src="https://github.com/user-attachments/assets/94d68b9d-5e02-4eda-ba20-f7f787ca3e45" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 06" src="https://github.com/user-attachments/assets/3426cfe8-9e3c-41c1-af1c-5f9f2fa3b7ab" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 09" src="https://github.com/user-attachments/assets/f8a6f22d-f1e7-4ae6-9fe0-9d16caeee12b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 10" src="https://github.com/user-attachments/assets/6b85bc6a-a949-45d6-9dce-69492745520b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 13" src="https://github.com/user-attachments/assets/bca28db1-fbb5-4c45-b902-6b7f6fb49528" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 18" src="https://github.com/user-attachments/assets/4ab79ed9-3730-4a48-a6b0-c6e13244650d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 23" src="https://github.com/user-attachments/assets/0aaee88b-2a3d-4aba-9ee3-155b71f98703" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 28" src="https://github.com/user-attachments/assets/622d897c-9f3d-4c0a-a392-6336b3a1f68b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 33" src="https://github.com/user-attachments/assets/e5a85365-6bf7-49cb-922b-6883e005ddff" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 38" src="https://github.com/user-attachments/assets/696461df-6531-4b0e-b94c-93f2372f30c9" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 20 11 43" src="https://github.com/user-attachments/assets/64612032-3a55-4f18-9dd4-40d773f2f9d4" />
 
 ### Ma 26 okt 
+
+Ik heb de Webby formulieren ingevuld met Justus. Dit vond ik fijn omdat hij veel van code weet en ik kon goed met hem naar mijn website kijken. Ook heb ik hem feedback gegeven en hebben we samen gekeken naar onze readme's. Ik vond de expositie ook heel leuk en ik heb leuke reacties gekregen. Ik ben ook heel blij met mijn eindresultaat en ben tevreden over hoe ik uiteindelijk alles heb gemaakt. Ik heb mezelf echt overtroffen. 
 
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 05" src="https://github.com/user-attachments/assets/9bc9b2d0-8bcc-415c-b682-a3bd6a986efb" />
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 13" src="https://github.com/user-attachments/assets/2a0dc36a-3f8a-4a40-81b5-b48011a7fbcb" />
@@ -117,6 +128,8 @@ De retrospectief heb ik ingevuld:
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 30" src="https://github.com/user-attachments/assets/11660102-7b04-4d5c-a32a-57e273faac15" />
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 39" src="https://github.com/user-attachments/assets/625017c8-ac8d-4e89-9559-e32df3b4ab02" />
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 48" src="https://github.com/user-attachments/assets/39fbc8b6-bdb4-48ba-97e5-931d46537e99" />
+
+Ik heb een voortgangsgesprek gehad met Vasilis en hier kwam uit dat mijn website goed was en dat ik nog wat kon focussen op mijn songtekst. Ook mijn read me kan ik nog wat beter dingen toevoegen en kan ik daar de aankomende dagen nog aan werken. Ik ben blij met de feedback en ik kan daar echt wat mee. 
 
 ### Woe 21 okt 
 
@@ -156,6 +169,8 @@ Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
 
 <img width="612" height="449" alt="Scherm­afbeelding 2026-10-19 om 21 25 30" src="https://github.com/user-attachments/assets/7c0a5bf3-c5b8-4dfb-b6be-685da5deb3b8" />
 
+Ik heb vandaag de 2e voortgangsgesprek met Vasilis gehad omdat ik bij het officiële moment er helaas niet bij kon zijn ipv privé situatie. Er kwam uit dat ik nog wat achterliep met bijvoorbeeld de cookie pop up en de toegankelijkheid van mijn website. Hier kan ik de aankomende week verder mee gaan. 
+
 ### Vrij 9 okt
 
 Check-out:
@@ -180,7 +195,7 @@ Ik zou woorden laten bewegen of groter laten worden op het ritme van de muziek. 
 
 Huiswerk voor Bi-Weekly geek 3:
 
-Samenvatting – AI Slop (The Guardian)
+Samenvatting AI Slop (The Guardian)
 
 Het artikel gaat over AI slop: goedkope, vaak bizarre afbeeldingen en video's die met kunstmatige intelligentie worden gemaakt en sociale media overspoelen.
 
@@ -194,8 +209,7 @@ Het artikel gaat over AI slop: goedkope, vaak bizarre afbeeldingen en video's di
 
 - Gevolgen: Het internet raakt voller met nepcontent, waardoor echte en waardevolle content minder opvalt.
 
-
-Samenvatting – The Dead Internet Theory
+Samenvatting The Dead Internet Theory
 
 Het artikel gaat over de Dead Internet Theory: de theorie dat het internet steeds minder door echte mensen en steeds meer door AI, bots en algoritmes wordt bepaald.
 
@@ -211,8 +225,7 @@ Het artikel gaat over de Dead Internet Theory: de theorie dat het internet steed
 
 - Oplossing: Meer transparantie, verantwoord gebruik van AI en kritisch omgaan met online informatie.
 
-
-Samenvatting – Alive Internet Theory
+Samenvatting Alive Internet Theory
 
 Het artikel gaat over de Alive Internet Theory: het idee dat het internet niet doodgaat door AI en bots, omdat mensen altijd manieren blijven vinden om online met elkaar in contact te komen.
 
@@ -226,8 +239,7 @@ Het artikel gaat over de Alive Internet Theory: het idee dat het internet niet d
 
 - Toekomst: We moeten het internet weer een plek maken waar mensen samenkomen, ontdekken en creëren.
 
-
-Samenvatting – Cursor Camp (Neal.fun)
+Samenvatting Cursor Camp (Neal.fun)
 
 Cursor Camp is een interactieve website waarop je met je muiscursor een digitale camping kunt ontdekken en andere bezoekers kunt ontmoeten.
 
@@ -242,8 +254,6 @@ Cursor Camp is een interactieve website waarop je met je muiscursor een digitale
 - Menselijk internet: De website laat zien hoe mensen op een speelse manier online samen kunnen komen. 
   
 ### Woe 7 okt
-
-
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/ef9f4f74-47c6-4546-9f72-0e26ec86f4ec" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/97888d8b-32d8-4b14-aaee-23d27c55b94e" />
@@ -951,26 +961,33 @@ Daarna krijgt de gebruiker een overzicht van de bestelling en de totaalprijs en 
 Er zijn verschillende mogelijkheden voor kleine interacties. Bij het aanklikken van een ingrediënt kan bijvoorbeeld de rand van kleur veranderen en een vinkje verschijnen. De voortgangsbalk kan bewegen wanneer je naar de volgende stap gaat en de totaalprijs kan direct veranderen wanneer je iets toevoegt of verwijdert. Ook kunnen knoppen reageren met een kleine hover- of klikanimatie en kan de samengestelde wok visueel veranderen op basis van de gemaakte keuzes.
 
 ### 4 sep
+
 Vanochtend heb ik de deepdive van Vasilis gevolgd: praktische CSS. Ik heb gebruik gemaakt van Vasilis zijn "slechte" website omdat ik dat fijner vond werken in de les. Zo kon je precies het overnemen wat Vasilis ook deed, zo begreep ik het het beste. Ik heb de website mooier gemaakt door het lettertype. witruimte en hebben we de formulieren aan de onderkant mooier gemaakt. Ik heb altijd met codes dat ik er tegen op kijk omdat ik altijd denk, hoe ga ik dit in vredesnaam doen. Maar door Vasilis zijn uitleg en enthousiasme begrijp ik het beter en weet ik ook dat ik het kan. Ook legde hij uit hoe je de code toepast om light en dark modes toe te voegen. Dat vind ik ook echt heel cool, dat wil ik later ook in mijn website zetten. 
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 09 18 59" src="https://github.com/user-attachments/assets/a2bf3cfa-b400-4e76-b0e4-f83dd4971285" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 09 52 39" src="https://github.com/user-attachments/assets/73d8c11f-434c-448e-a7a2-666c7856fda3" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 11 02 57" src="https://github.com/user-attachments/assets/7010d057-17d7-45db-a15a-ca27dedd6103" />
 
 Hierna heb ik de deepdive van Sanne gevolgd: CSS: fonts met kleur en effecten. 
+
 Samen met Leonie en Julia hebben we de opdrachten gedaan, ik vond het fijn om met hun te doen. Zo kunnen we elkaar helpen en leren van elkaar. 
 
 Opdracht 1 font properties:
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 14 27" src="https://github.com/user-attachments/assets/fda5acb6-ab0a-4ed8-93b8-3510fbc18fd0" />
 
 Opdracht 2 fonts, kleur en effecten:
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 35 38" src="https://github.com/user-attachments/assets/1edb03ff-e843-4000-a2fa-9ba50625359f" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 39 26" src="https://github.com/user-attachments/assets/a129b114-f4f8-44c5-9a37-23ec5bf69bf6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-04 om 12 51 23" src="https://github.com/user-attachments/assets/97479bdf-6f66-42b2-a172-1a2a96b3e5d3" />
 
 Opdracht 3 mini posters: 
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 50 01" src="https://github.com/user-attachments/assets/7b54ad63-42dc-476f-b294-924139fa05d4" />
 
 Opdracht 4 transitions: 
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 56 03" src="https://github.com/user-attachments/assets/b8315a45-015a-4768-a88a-5a9d8c86bfe6" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 56 05" src="https://github.com/user-attachments/assets/37093b3a-433a-480c-8606-98b9b6eab2c1" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 15 56 59" src="https://github.com/user-attachments/assets/cb66a819-3e06-473f-acb2-aa41620bb3d3" />
@@ -1081,11 +1098,17 @@ Voor informatie over bijvoorbeeld de oorsprong, productie en verschillende soort
 Op welke manier is de content te ervaren?
 
 Ik wil dat bezoekers matcha niet alleen lezen, maar echt beleven. Bijvoorbeeld door:
+
 Zien: fotografie, illustraties, kleuren, animaties en verschillende tinten matcha.
+
 Doen: klikken, hoveren, ingrediënten combineren of een eigen matcha samenstellen.
+
 Horen: subtiele geluiden van bijvoorbeeld het kloppen van matcha met een chasen of het inschenken van melk.
+
 Ontdekken: zelf bepalen welke route je door de website neemt.
+
 Voelen: door bewegingen en interacties wil ik de rustige, zachte sfeer rondom het maken en drinken van matcha overbrengen.
+
 Zo wordt het niet alleen een website over matcha, maar een kleine digitale matcha-ervaring.
 
 Opdracht 3 verzamelen van informatie:
@@ -1099,10 +1122,16 @@ Ik heb 50 afbeeldingen verzameld en geplakt in een collage:
 <img width="512" height="721" alt="Scherm­afbeelding 2026-09-08 om 21 17 35" src="https://github.com/user-attachments/assets/f532a1bd-784c-4da8-b39e-2c3a5a36e9cf" />
 
 Heden en verleden:
-Matcha komt oorspronkelijk uit China, maar werd vanaf de 12e eeuw vooral belangrijk in Japan, waar het onderdeel werd van de traditionele Japanse theeceremonie. Vroeger draaide matcha voornamelijk om rust, aandacht en traditie. Tegenwoordig is matcha wereldwijd populair geworden en zie je het veel terug in moderne koffiezaken en op social media. Naast traditionele matcha wordt het nu bijvoorbeeld gedronken als iced matcha latte, strawberry matcha of matcha met verschillende soorten melk. Hierdoor is matcha veranderd van een traditioneel ritueel naar iets dat ook onderdeel is van een moderne lifestyle.
+
+Matcha komt oorspronkelijk uit China, maar werd vanaf de 12e eeuw vooral belangrijk in Japan, waar het onderdeel werd van de traditionele Japanse theeceremonie. 
+
+Vroeger draaide matcha voornamelijk om rust, aandacht en traditie. Tegenwoordig is matcha wereldwijd populair geworden en zie je het veel terug in moderne koffiezaken en op social media. Naast traditionele matcha wordt het nu bijvoorbeeld gedronken als iced matcha latte, strawberry matcha of matcha met verschillende soorten melk. Hierdoor is matcha veranderd van een traditioneel ritueel naar iets dat ook onderdeel is van een moderne lifestyle.
 
 Associaties:
-Bij matcha denk ik aan Japan, thee, groen, rust, ochtendrituelen, gezondheid, koffiebarretjes, keramiek, natuur, latte art, zachte kleuren, minimalisme en self-care. Ook koffie ligt dichtbij matcha, omdat matcha tegenwoordig vaak als alternatief voor koffie wordt gedronken.
+
+Bij matcha denk ik aan Japan, thee, groen, rust, ochtendrituelen, gezondheid, koffiebarretjes, keramiek, natuur, latte art, zachte kleuren, minimalisme en self-care. 
+
+Ook koffie ligt dichtbij matcha, omdat matcha tegenwoordig vaak als alternatief voor koffie wordt gedronken.
 
 Symboliek / iconen:
 Herkenbare beelden die ik voor mijn website kan gebruiken zijn:
@@ -1160,10 +1189,12 @@ Ik heb een presentatie gemaakt doormiddel van HTML. Dit is het eindresultaat:
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-08 om 22 20 17" src="https://github.com/user-attachments/assets/9a2db549-d190-45ca-9dbf-926482af967f" />
 
 Ook heb ik de deep dive Light & Dark theme gedaan: 
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 16 30" src="https://github.com/user-attachments/assets/85f50783-20b2-48d1-9201-e25bff1277a1" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 16 16 42" src="https://github.com/user-attachments/assets/8fc7208a-035d-49f1-8ad0-d65c1fae195f" />
 
 ### 9 sep 
+
 Vanochtend heb ik mijn HTML presentatie gepresenteerd aan Amy, wij werden aan elkaar gekoppeld. Amy gaat haar website over StarWars doen wat ik zelf interessant vind omdat ik er eigenlijk niks van af weet. Amy vond mijn onderwerp ook leuk en goed bedacht omdat veel jonge meiden een matcha bestellen maar er eigenlijk niks van weet waar en hoe matcha nou gemaakt word. 
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-09-09 om 09 11 51" src="https://github.com/user-attachments/assets/588db449-4822-45e1-b692-c67f9cabd369" />
@@ -1192,7 +1223,6 @@ Het gevoel dat ik bij mijn onderwerp wil neerzetten is vooral rustig, natuurlijk
 Welke inspiratie kun je uit de afbeeldingen halen? 
 
 Stijl, gevoel, vorm, enz.? Uit mijn afbeeldingen haal ik vooral inspiratie uit de groene en natuurlijke kleuren, organische vormen en structuren van het matchapoeder. Ook beweging komt veel terug, bijvoorbeeld bij het kloppen, schenken en mengen van matcha. De beelden voelen rustig en minimalistisch, maar tegelijkertijd modern. Voor mijn Digital Garden wil ik daarom veel werken met groentinten, wit/crème, grote beelden, ronde en organische vormen en een rustige vormgeving.
-
 
 Wat zou je willen vertellen over het onderwerp aan een ander? En hoe zou je dat voor je kunnen zien? Middels welke beeld, tekst, animatie, inhoudelijke content?
 
@@ -1324,21 +1354,33 @@ Vanochtend begonnen met de eerste Bi-Weekly Geek. Hier heb ik de gezamenlijke op
 Samenvatting 5 Principles of Visual Design in UX:
 
 Het artikel van Nielsen Norman Group beschrijft 5 belangrijke principes voor goed visueel ontwerp:
+
 Schaal: belangrijke onderdelen maak je groter, zodat ze sneller opvallen.
+
 Visuele hiërarchie: grootte, kleur, positie en ruimte sturen de kijker naar wat het belangrijkst is.
+
 Balans: verdeel elementen zo dat het ontwerp rustig en evenwichtig aanvoelt; dit hoeft niet symmetrisch te zijn.
+
 Contrast: verschillen in bijvoorbeeld kleur en grootte maken onderdelen herkenbaar en tekst beter leesbaar.
+
 Gestalt: mensen zien elementen die bij elkaar staan of op elkaar lijken automatisch als één groep.
+
 De kern is dat goed visueel ontwerp niet alleen mooi moet zijn, maar vooral helpt om een website duidelijk, begrijpelijk en makkelijk te gebruiken te maken.
 
 Samenvatting Design Consistency Guide UI and UX Best Practices:
 
 Dit artikel van UXPin gaat vooral over consistentie in UI- en UX-design.
+
 Consistent ontwerp: gebruik overal dezelfde kleuren, lettertypes, afstanden en stijlen.
+
 Voorspelbaarheid: knoppen en andere elementen moeten op verschillende pagina’s op dezelfde manier werken.
+
 Visuele hiërarchie: maak duidelijk wat het belangrijkst is door verschil in grootte, kleur en positie.
+
 Herkenbare patronen: gebruik bekende websitepatronen, zodat gebruikers snel begrijpen hoe iets werkt.
+
 Consistente teksten: gebruik steeds dezelfde woorden voor dezelfde functies.
+
 Design system: leg kleuren, typografie, knoppen en andere onderdelen vast zodat je ze overal hetzelfde kunt toepassen.
 
 Check-out vragen samen met Amy gedaan:
@@ -1444,7 +1486,9 @@ Tussendoor heb ik mijn voortgangsgesprek gehad voor sprint 1. Dit ging super goe
    Html color schema in root zetten.
    Box sizing voor elke border box gebruiken. 
    Voor de foto's heb ik veel code herhaald, alles bij elkaar zetten. Dit in de body zetten.
-   Tekst en kleur net niet een goede combinatie. Maarten heeft mij een goede tip gegeven van een fijne website die dit duidelijk laat zien:             https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
+   Tekst en kleur net niet een goede combinatie. Maarten heeft mij een goede tip gegeven van een fijne website die dit duidelijk laat zien:
+
+https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html
 
 Check-out vragen:
 
