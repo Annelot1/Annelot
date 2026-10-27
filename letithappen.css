@@ -55,7 +55,8 @@ body {
 
 .line-10 {
   font-size: 65px;
-  span {
+
+  span:hover {
     font-variation-settings:
       "wght" 100,
       "SRFS" 11;
