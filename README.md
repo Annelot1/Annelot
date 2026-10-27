@@ -16,10 +16,15 @@ Web Dev Simplified
 
 ### Afgelopen weken WEBSITE
 
+Ik heb verschillende testen gedaan voor mijn website en dit kwam eruit. Later heb ik dit aangepast zodat er geen fout meldingen meer zijn. Ook is mijn website via toetsenbord, screenreader en voice-over te gebruiken, dus voor iedereen toegankelijk. 
+
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 53" src="https://github.com/user-attachments/assets/77ca395d-96a1-4bd8-9cc3-adbc4e8d8840" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 31" src="https://github.com/user-attachments/assets/686620db-b7c8-49b6-94df-ce89c4d9d6f9" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 19 08 07" src="https://github.com/user-attachments/assets/8b258e44-7f7f-45c1-a1dc-7f888742ef87" />
 
 ### Afgelopen weken WEBSITE (faq + bronnen pagina)
+
+Ik wilde ook heel graag meerdere pagina's op mijn website maken en wilde ik iets passends maken bij mijn thema en kwam ik op een faq pagina uit. Ook omdat ik in een deep dive zag dat je heel makkelijk een summary kan maken via code en dat vind ik zelf ook altijd een fijne manier om informatie te krijgen via een website. Zo ben ik erover gekomen en heb ik dit gemaakt mijn leuke, korte en handige vragen over matcha. Ook wilde ik op een leuke manier laten zien welke bronnen ik heb gebruikt en heb ik dit in een footer neer gezet dat je naar een bronnen pagina gaat en kun je via een linkje zien welke bronnen ik heb gebruikt. 
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 20 24 20" src="https://github.com/user-attachments/assets/f1e12efe-d8bd-47ee-8be1-c8f92f0e2e6c" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 49 58" src="https://github.com/user-attachments/assets/947fdec0-d334-4e26-a719-4174b0efb303" />
@@ -27,8 +32,9 @@ Web Dev Simplified
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 55 23" src="https://github.com/user-attachments/assets/84420782-8add-4dbf-b22d-50f9d38e4404" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 11 22" src="https://github.com/user-attachments/assets/d6a680a2-c399-48d0-881d-e9a009ebbfd6" />
 
-
 ### Afgelopen weken WEBSITE (herkomst pagina)
+
+Ik heb een extra pagina gemaakt om meer over matcha te vertellen omdat ik voor mijn gevoel anders weinig tekst had op mijn hoofdpagina, dus wilde ik een extra pagina hebben om meer inhoudelijk in te gaan op het onderwerp. Ik had nog niet voldoende grid toegevoegd op mijn hoofdpagina dus kon ik dat doen op deze pagina. Ik heb inspiratie op gedaan in Pinterest zag deze grid en vond het heel tof staan, dus heb ik doormiddel van YouTube video's en deep dives gekeken naar hoe ik dit kan toepassen. Uiteindelijk is dit gelukt en ben ik er heel blij mee. 
 
 <img width="401" height="415" alt="Scherm­afbeelding 2026-10-21 om 20 57 05" src="https://github.com/user-attachments/assets/6855283a-af66-4a78-a975-f7e74b7ce0da" />
 <img width="363" height="737" alt="Scherm­afbeelding 2026-10-21 om 21 11 18" src="https://github.com/user-attachments/assets/5814b505-58b1-4df0-bc05-88dc11471847" />
@@ -36,8 +42,9 @@ Web Dev Simplified
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 34 05" src="https://github.com/user-attachments/assets/c53770d0-6a15-4bdc-be64-e5747586deac" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 37 55" src="https://github.com/user-attachments/assets/dacecc8a-8855-4fad-badb-4509bd95f13a" />
 
-
 ### Afgelopen weken WEBSITE (footer)
+
+Bij een classic website hoort naar mijn mening een footer dus wilde ik dat zeker toepassen. Ik heb inspiratie opgedaan bij meerdere website's en heb ik gekeken naar welke informatie zij allemaal in een footer plaatsen. Uiteindelijk ben ik tot de volgende onderwerpen gekomen. Ik vond het leuk om dit te maken omdat ik vond dat het steeds meer leuk op een echte website. Ik wilde ook nogmaals een inschrijving laten plaats vinden voor de nieuwsbrief en een link richting de FAQ en bronnen. 
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 13 38 05" src="https://github.com/user-attachments/assets/06607c5c-6d4e-4951-b30d-938efd670479" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 14 03 08" src="https://github.com/user-attachments/assets/675ee0db-bc4c-4e9c-961a-f478ce2bcbbc" />
@@ -45,14 +52,12 @@ Web Dev Simplified
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 04 20" src="https://github.com/user-attachments/assets/99567ae4-b635-43f8-a59b-3c1a68e97b9c" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 04 24" src="https://github.com/user-attachments/assets/4fcd47bf-a601-40a9-b16f-4cb4209b4f23" />
 
-
 ### Afgelopen weken WEBSITE (nieuwsbrief pop-up)
 
 Ik wilde heel graag nog een pop-up toevoegen omdat ik bij een deep dive van Vasilis zag dat je heel slim een email formulier kan toevoegen in je website, vond ik dat een leuk extra idee om in mijn website te plakken. Ook past het goed bij mijn thema om voor een nieuwsbrief in te schrijven over matcha. Ik heb dezelfde kleuren gebruikt die ik ook heb gebruikt bij mijn cookie pop-up. Ik heb ingesteld dat deze pop-up na 30 sec in beeld komt. Ik heb ook een X rechts bovenin toegevoegd omdat je het natuurlijk ook kan weigeren. 
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 13 16 57" src="https://github.com/user-attachments/assets/24bbeca8-4fa0-41e1-8497-f4f12faf80aa" />
 <img width="573" height="775" alt="Scherm­afbeelding 2026-10-21 om 15 56 21" src="https://github.com/user-attachments/assets/70017d18-c642-47a5-9681-fd37d4f0028c" />
-
 
 ### Afgelopen weken WEBSITE (responsive maken + light dark)
 
@@ -73,8 +78,6 @@ Ik vond het leuk om de cookie pop-up in mijn thema te houden. Dus wilde ik de po
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/cbca4c35-f219-4baf-bad9-93e78c061166" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/e37b4d49-4002-4cd0-b97d-b025db7a3a1d" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/c3ff43ae-a402-45c5-b1ed-f00b63956178" />
-
-
 
 ### Afgelopen weken SONGTEKST 
 
