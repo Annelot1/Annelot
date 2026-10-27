@@ -14,7 +14,6 @@ Ik heb verschillende testen gedaan voor mijn website en dit kwam eruit. Later he
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 53" src="https://github.com/user-attachments/assets/77ca395d-96a1-4bd8-9cc3-adbc4e8d8840" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 31" src="https://github.com/user-attachments/assets/686620db-b7c8-49b6-94df-ce89c4d9d6f9" />
-<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 19 08 07" src="https://github.com/user-attachments/assets/8b258e44-7f7f-45c1-a1dc-7f888742ef87" />
 
 ### Afgelopen weken WEBSITE (faq + bronnen pagina)
 
