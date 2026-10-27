@@ -1,20 +1,9 @@
-/* ==========================================
-   LET IT HAPPEN
-   TYPOGRAPHIC ANIMATION EXPERIMENT
-   10 animaties - elke 5 seconden
-   Totale cyclus: 50 seconden
-========================================== */
-
-/* LETTERTYPE */
-
 @font-face {
   font-family: "Seraphs";
   src: url("assets/type/SeraphsVF.woff2") format("woff2");
   font-weight: 100 900;
   font-style: normal;
 }
-
-/* KLEUREN */
 
 :root {
   --blauw: #1926d9;
@@ -23,8 +12,6 @@
   --wit: #ffffff;
   --duur: 50s;
 }
-
-/* BASIS */
 
 * {
   box-sizing: border-box;
@@ -57,8 +44,6 @@ main {
   padding-block: 60px;
 }
 
-/* ALGEMENE TEKST */
-
 .line {
   position: relative;
   font-family: "Seraphs", serif;
@@ -69,8 +54,6 @@ main {
   margin-block: 0.6em;
   transform-origin: center;
 }
-
-/* LETTERGROOTTES */
 
 .line-1 {
   font-size: 19px;
@@ -112,12 +95,6 @@ main {
   font-size: 85px;
 }
 
-/* ==========================================
-   ANIMATIE 1 - 0 TOT 5 SECONDEN
-   LET IT HAPPEN
-   OPSTIJGEN EN VERDWIJNEN
-========================================== */
-
 .line-10 {
   animation: opstijgen var(--duur) ease-in infinite;
   z-index: 2;
@@ -155,8 +132,6 @@ main {
   }
 }
 
-/* INTERACTIE MET HET WOORD */
-
 .line-10 span {
   display: inline-block;
   transition:
@@ -172,12 +147,6 @@ main {
     "wght" 100,
     "SRFS" 11;
 }
-
-/* ==========================================
-   ANIMATIE 2 - 5 TOT 10 SECONDEN
-   AND WHEN IT HAPPENS
-   ECHO / HERHALING
-========================================== */
 
 .line-9 {
   animation: echo var(--duur) ease-in-out infinite;
@@ -212,12 +181,6 @@ main {
   }
 }
 
-/* ==========================================
-   ANIMATIE 3 - 10 TOT 15 SECONDEN
-   WHIRLWIND
-   DRAAIEN ALS EEN WERVELWIND
-========================================== */
-
 .line-8 {
   animation: wervelwind var(--duur) ease-in-out infinite;
 }
@@ -250,12 +213,6 @@ main {
     color: var(--zwart);
   }
 }
-
-/* ==========================================
-   ANIMATIE 4 - 15 TOT 20 SECONDEN
-   I CAN HEAR AN ALARM
-   SCHUDDEN / GLITCH
-========================================== */
 
 .line-7 {
   animation: alarm var(--duur) linear infinite;
@@ -299,12 +256,6 @@ main {
   }
 }
 
-/* ==========================================
-   ANIMATIE 5 - 20 TOT 25 SECONDEN
-   ALL THE OTHERS SEEM SHALLOW
-   BLUR EN TRANSPARANTIE
-========================================== */
-
 .line-5 {
   animation: wolken var(--duur) ease-in-out infinite;
 }
@@ -336,12 +287,6 @@ main {
     color: var(--zwart);
   }
 }
-
-/* ==========================================
-   ANIMATIE 6 - 25 TOT 30 SECONDEN
-   ALL THIS RUNNING AROUND
-   TEKST RENT UIT HET SCHERM
-========================================== */
 
 .line-4 {
   animation: rennen var(--duur) linear infinite;
@@ -380,12 +325,6 @@ main {
   }
 }
 
-/* ==========================================
-   ANIMATIE 7 - 30 TOT 35 SECONDEN
-   TRYIN' TO COVER MY SHADOW
-   BEWEGENDE SCHADUW
-========================================== */
-
 .line-6 {
   animation: schaduw var(--duur) ease-in-out infinite;
 }
@@ -415,12 +354,6 @@ main {
     color: var(--zwart);
   }
 }
-
-/* ==========================================
-   ANIMATIE 8 - 35 TOT 40 SECONDEN
-   IT'S GONNA FEEL SO GOOD
-   ADEMEN / PULSEREN
-========================================== */
 
 .line-3 {
   animation: ademen var(--duur) ease-in-out infinite;
@@ -454,12 +387,6 @@ main {
     color: var(--zwart);
   }
 }
-
-/* ==========================================
-   ANIMATIE 9 - 40 TOT 45 SECONDEN
-   THE VOICE SAYING
-   GELUIDSGOLF
-========================================== */
 
 .line-2 {
   animation: geluidsgolf var(--duur) ease-in-out infinite;
@@ -498,12 +425,6 @@ main {
     color: var(--zwart);
   }
 }
-
-/* ==========================================
-   ANIMATIE 10 - 45 TOT 50 SECONDEN
-   ALL THIS NOISE
-   CHAOTISCHE GLITCH
-========================================== */
 
 .line-1 {
   animation: noise var(--duur) linear infinite;
@@ -557,11 +478,6 @@ main {
   }
 }
 
-/* ==========================================
-   RESPONSIVE
-   TABLET EN MOBIEL
-========================================== */
-
 @media (max-width: 768px) {
   .runway {
     width: 94%;
@@ -594,13 +510,9 @@ main {
   }
 }
 
-/* ==========================================
-   TOEGANKELIJKHEID
-========================================== */
-
 @media (prefers-reduced-motion: reduce) {
   .line {
-    animation: none !important;
+    animation: none;
   }
 
   .line-10 span {
