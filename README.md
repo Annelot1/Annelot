@@ -59,7 +59,7 @@ Conclusie: Met deze kleine verbeteringen wil ik de toegankelijkheid vergroten, z
 
 Vanochtend mee gedaan met de bi-weekly geek:
 
-<img width="573" height="755" alt="Scherm­afbeelding 2026-10-27 om 19 13 48" src="https://github.com/user-attachments/assets/4e43a9c8-e95d-4901-955c-19c93fa400a8" />
+<img width="607" height="433" alt="Scherm­afbeelding 2026-10-27 om 19 13 48" src="https://github.com/user-attachments/assets/4e43a9c8-e95d-4901-955c-19c93fa400a8" />
 
 Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
 
