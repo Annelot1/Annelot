@@ -129,7 +129,7 @@ De retrospectief heb ik ingevuld:
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 39" src="https://github.com/user-attachments/assets/625017c8-ac8d-4e89-9559-e32df3b4ab02" />
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 48" src="https://github.com/user-attachments/assets/39fbc8b6-bdb4-48ba-97e5-931d46537e99" />
 
-Ik heb een voortgangsgesprek gehad met Vasilis en hier kwam uit dat mijn website goed was en dat ik nog wat kon focussen op mijn songtekst. Ook mijn read me kan ik nog wat beter dingen toevoegen en kan ik daar de aankomende dagen nog aan werken. Ik ben blij met de feedback en ik kan daar echt wat mee. 
+Ik heb een voortgangsgesprek gehad met Vasilis en hier kwam uit dat mijn website goed was en dat ik nog wat kon focussen op mijn songtekst. Ook mijn read me kan ik nog wat beter dingen toevoegen en kan ik daar de aankomende dagen nog aan werken. Ik ben blij met de feedback en ik kan daar echt wat mee. Ook kwam ik erachter dat ik totaal niet goed de variabele fonts heb toegepast in mijn code dus ik heb ik na mijn gesprek gevraagd aan een hulp student. Dit was heel fijn en heb ik het uiteindelijk in mijn code in type toegevoegd en is het nu juist toegepast. Ook heb ik samen met hem nog gekeken naar mijn songtekst en heb ik meer inspiratie opgedaan. 
 
 ### Woe 21 okt 
 
