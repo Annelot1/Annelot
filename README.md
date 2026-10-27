@@ -59,10 +59,9 @@ Conclusie: Met deze kleine verbeteringen wil ik de toegankelijkheid vergroten, z
 
 Vanochtend mee gedaan met de bi-weekly geek:
 <img
-  width="800"
-  height="600"
-  alt="Bi-weekly Geek 3"
   src="https://github.com/user-attachments/assets/398a2727-476b-4d6d-a51a-7d1817c35945"
+  width="600"
+  style="transform: rotate(90deg);"
 />
 
 Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
