@@ -14,7 +14,45 @@ Aaron Jack
 
 Web Dev Simplified 
 
-### Afgelopen weken WEBSITE (
+### Afgelopen weken WEBSITE
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 53" src="https://github.com/user-attachments/assets/77ca395d-96a1-4bd8-9cc3-adbc4e8d8840" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 31" src="https://github.com/user-attachments/assets/686620db-b7c8-49b6-94df-ce89c4d9d6f9" />
+
+### Afgelopen weken WEBSITE (faq + bronnen pagina)
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 20 24 20" src="https://github.com/user-attachments/assets/f1e12efe-d8bd-47ee-8be1-c8f92f0e2e6c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 49 58" src="https://github.com/user-attachments/assets/947fdec0-d334-4e26-a719-4174b0efb303" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 52 33" src="https://github.com/user-attachments/assets/6031e85f-acb7-4c49-a189-5294b9efa2b5" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 55 23" src="https://github.com/user-attachments/assets/84420782-8add-4dbf-b22d-50f9d38e4404" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 11 22" src="https://github.com/user-attachments/assets/d6a680a2-c399-48d0-881d-e9a009ebbfd6" />
+
+
+### Afgelopen weken WEBSITE (herkomst pagina)
+
+<img width="401" height="415" alt="Scherm­afbeelding 2026-10-21 om 20 57 05" src="https://github.com/user-attachments/assets/6855283a-af66-4a78-a975-f7e74b7ce0da" />
+<img width="363" height="737" alt="Scherm­afbeelding 2026-10-21 om 21 11 18" src="https://github.com/user-attachments/assets/5814b505-58b1-4df0-bc05-88dc11471847" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 20 35" src="https://github.com/user-attachments/assets/c1d22a9f-705a-41f0-8e38-a8fe7ef0be76" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 34 05" src="https://github.com/user-attachments/assets/c53770d0-6a15-4bdc-be64-e5747586deac" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 37 55" src="https://github.com/user-attachments/assets/dacecc8a-8855-4fad-badb-4509bd95f13a" />
+
+
+### Afgelopen weken WEBSITE (footer)
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 13 38 05" src="https://github.com/user-attachments/assets/06607c5c-6d4e-4951-b30d-938efd670479" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 14 03 08" src="https://github.com/user-attachments/assets/675ee0db-bc4c-4e9c-961a-f478ce2bcbbc" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 14 18 32" src="https://github.com/user-attachments/assets/e3a16fa4-fa0b-401e-9e5f-951ff78717c1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 04 20" src="https://github.com/user-attachments/assets/99567ae4-b635-43f8-a59b-3c1a68e97b9c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 04 24" src="https://github.com/user-attachments/assets/4fcd47bf-a601-40a9-b16f-4cb4209b4f23" />
+
+
+### Afgelopen weken WEBSITE (nieuwsbrief pop-up)
+
+Ik wilde heel graag nog een pop-up toevoegen omdat ik bij een deep dive van Vasilis zag dat je heel slim een email formulier kan toevoegen in je website, vond ik dat een leuk extra idee om in mijn website te plakken. Ook past het goed bij mijn thema om voor een nieuwsbrief in te schrijven over matcha. Ik heb dezelfde kleuren gebruikt die ik ook heb gebruikt bij mijn cookie pop-up. Ik heb ingesteld dat deze pop-up na 30 sec in beeld komt. Ik heb ook een X rechts bovenin toegevoegd omdat je het natuurlijk ook kan weigeren. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 13 16 57" src="https://github.com/user-attachments/assets/24bbeca8-4fa0-41e1-8497-f4f12faf80aa" />
+<img width="573" height="775" alt="Scherm­afbeelding 2026-10-21 om 15 56 21" src="https://github.com/user-attachments/assets/70017d18-c642-47a5-9681-fd37d4f0028c" />
+
 
 ### Afgelopen weken WEBSITE (responsive maken + light dark)
 
@@ -35,9 +73,6 @@ Ik vond het leuk om de cookie pop-up in mijn thema te houden. Dus wilde ik de po
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/cbca4c35-f219-4baf-bad9-93e78c061166" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/e37b4d49-4002-4cd0-b97d-b025db7a3a1d" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/c3ff43ae-a402-45c5-b1ed-f00b63956178" />
-
-
-
 
 
 
