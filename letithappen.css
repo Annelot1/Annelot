@@ -1,21 +1,76 @@
+/* ==========================================
+   LET IT HAPPEN
+   TYPOGRAPHIC ANIMATION EXPERIMENT
+   10 animaties - elke 5 seconden
+   Totale cyclus: 50 seconden
+========================================== */
+
+/* LETTERTYPE */
+
 @font-face {
   font-family: "Seraphs";
-  src: url("/assets/type/SeraphsVF.woff2") format("woff2");
+  src: url("assets/type/SeraphsVF.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+/* KLEUREN */
+
+:root {
+  --blauw: #1926d9;
+  --paars: #b05ae5;
+  --zwart: #111111;
+  --wit: #ffffff;
+  --duur: 50s;
+}
+
+/* BASIS */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
 }
 
 body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--wit);
+  color: var(--zwart);
   font-family: "Seraphs", serif;
   text-align: center;
+  overflow-x: hidden;
 }
 
+main {
+  width: 100%;
+}
+
+.runway {
+  width: min(95%, 1400px);
+  margin-inline: auto;
+  padding-block: 60px;
+}
+
+/* ALGEMENE TEKST */
+
 .line {
+  position: relative;
   font-family: "Seraphs", serif;
   font-style: normal;
   line-height: 1.1;
   letter-spacing: -0.5px;
-  word-spacing: 0px;
+  word-spacing: 0;
   margin-block: 0.6em;
+  transform-origin: center;
 }
+
+/* LETTERGROOTTES */
 
 .line-1 {
   font-size: 19px;
@@ -54,137 +109,501 @@ body {
 }
 
 .line-10 {
-  font-size: 65px;
-
-  span:hover {
-    font-variation-settings:
-      "wght" 100,
-      "SRFS" 11;
-  }
-}
-
-.line-11 {
-  font-size: 42px;
-}
-
-.line-12 {
-  font-size: 45px;
-}
-
-.line-13 {
-  font-size: 48px;
-}
-
-.line-14 {
-  font-size: 51px;
-}
-
-.line-15 {
-  font-size: 54px;
-}
-
-.line-16 {
-  font-size: 57px;
-}
-.line-10 {
   font-size: 85px;
 }
 
-body {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+/* ==========================================
+   ANIMATIE 1 - 0 TOT 5 SECONDEN
+   LET IT HAPPEN
+   OPSTIJGEN EN VERDWIJNEN
+========================================== */
+
+.line-10 {
+  animation: opstijgen var(--duur) ease-in infinite;
+  z-index: 2;
 }
 
-.line-4 {
-  animation: rennen 30s linear infinite;
-}
-
-@keyframes rennen {
-  0%,
-  10% {
-    transform: translateX(0);
+@keyframes opstijgen {
+  0% {
+    transform: translateY(0) scale(1);
     opacity: 1;
+    color: var(--zwart);
   }
 
-  43% {
-    transform: translateX(120vw);
+  4% {
+    transform: translateY(-100px) scale(1.5);
     opacity: 1;
+    color: var(--blauw);
   }
 
-  43.1% {
-    transform: translateX(0);
+  9% {
+    transform: translateY(-600px) scale(3);
+    opacity: 0;
+    color: var(--paars);
+  }
+
+  9.1% {
+    transform: translateY(0) scale(1);
     opacity: 0;
   }
 
-  46% {
-    transform: translateX(0);
-    opacity: 1;
-  }
-
+  10%,
   100% {
-    transform: translateX(0);
+    transform: translateY(0) scale(1);
     opacity: 1;
+    color: var(--zwart);
   }
 }
 
+/* INTERACTIE MET HET WOORD */
+
+.line-10 span {
+  display: inline-block;
+  transition:
+    color 0.4s ease,
+    letter-spacing 0.4s ease,
+    font-variation-settings 0.4s ease;
+}
+
+.line-10 span:hover {
+  color: var(--paars);
+  letter-spacing: 3px;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 11;
+}
+
+/* ==========================================
+   ANIMATIE 2 - 5 TOT 10 SECONDEN
+   AND WHEN IT HAPPENS
+   ECHO / HERHALING
+========================================== */
+
+.line-9 {
+  animation: echo var(--duur) ease-in-out infinite;
+}
+
+@keyframes echo {
+  0%,
+  10% {
+    color: var(--zwart);
+    text-shadow: none;
+  }
+
+  13% {
+    color: var(--blauw);
+    text-shadow:
+      4px 4px 0 var(--paars),
+      8px 8px 0 rgba(176, 90, 229, 0.4);
+  }
+
+  17% {
+    color: var(--blauw);
+    text-shadow:
+      10px 10px 0 var(--paars),
+      20px 20px 0 rgba(176, 90, 229, 0.3),
+      30px 30px 0 rgba(25, 38, 217, 0.15);
+  }
+
+  20%,
+  100% {
+    color: var(--zwart);
+    text-shadow: none;
+  }
+}
+
+/* ==========================================
+   ANIMATIE 3 - 10 TOT 15 SECONDEN
+   WHIRLWIND
+   DRAAIEN ALS EEN WERVELWIND
+========================================== */
+
+.line-8 {
+  animation: wervelwind var(--duur) ease-in-out infinite;
+}
+
+@keyframes wervelwind {
+  0%,
+  20% {
+    transform: rotate(0deg) scale(1);
+    color: var(--zwart);
+  }
+
+  23% {
+    transform: rotate(15deg) scale(0.9);
+    color: var(--blauw);
+  }
+
+  26% {
+    transform: rotate(180deg) scale(0.65);
+    color: var(--paars);
+  }
+
+  29% {
+    transform: rotate(360deg) scale(1);
+    color: var(--blauw);
+  }
+
+  30%,
+  100% {
+    transform: rotate(360deg) scale(1);
+    color: var(--zwart);
+  }
+}
+
+/* ==========================================
+   ANIMATIE 4 - 15 TOT 20 SECONDEN
+   I CAN HEAR AN ALARM
+   SCHUDDEN / GLITCH
+========================================== */
+
+.line-7 {
+  animation: alarm var(--duur) linear infinite;
+}
+
+@keyframes alarm {
+  0%,
+  30% {
+    transform: translateX(0);
+    color: var(--zwart);
+    text-shadow: none;
+  }
+
+  32% {
+    transform: translateX(-8px);
+    color: var(--blauw);
+  }
+
+  34% {
+    transform: translateX(8px);
+    color: var(--paars);
+    text-shadow: 5px 0 var(--blauw);
+  }
+
+  36% {
+    transform: translateX(-6px);
+    color: var(--blauw);
+  }
+
+  38% {
+    transform: translateX(6px);
+    color: var(--paars);
+    text-shadow: -5px 0 var(--blauw);
+  }
+
+  40%,
+  100% {
+    transform: translateX(0);
+    color: var(--zwart);
+    text-shadow: none;
+  }
+}
+
+/* ==========================================
+   ANIMATIE 5 - 20 TOT 25 SECONDEN
+   ALL THE OTHERS SEEM SHALLOW
+   BLUR EN TRANSPARANTIE
+========================================== */
+
 .line-5 {
-  animation: wolken 30s ease-in-out infinite;
+  animation: wolken var(--duur) ease-in-out infinite;
 }
 
 @keyframes wolken {
   0%,
-  50% {
-    filter: blur(0px);
+  40% {
+    filter: blur(0);
     opacity: 1;
+    color: var(--zwart);
+  }
+
+  43% {
+    filter: blur(4px);
+    opacity: 0.7;
+    color: var(--blauw);
+  }
+
+  46% {
+    filter: blur(12px);
+    opacity: 0.15;
+    color: var(--paars);
+  }
+
+  50%,
+  100% {
+    filter: blur(0);
+    opacity: 1;
+    color: var(--zwart);
+  }
+}
+
+/* ==========================================
+   ANIMATIE 6 - 25 TOT 30 SECONDEN
+   ALL THIS RUNNING AROUND
+   TEKST RENT UIT HET SCHERM
+========================================== */
+
+.line-4 {
+  animation: rennen var(--duur) linear infinite;
+}
+
+@keyframes rennen {
+  0%,
+  50% {
+    transform: translateX(0);
+    opacity: 1;
+    color: var(--zwart);
+  }
+
+  53% {
+    transform: translateX(35vw);
+    opacity: 1;
+    color: var(--blauw);
+  }
+
+  57% {
+    transform: translateX(120vw);
+    opacity: 1;
+    color: var(--paars);
+  }
+
+  57.1% {
+    transform: translateX(0);
+    opacity: 0;
+  }
+
+  60%,
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+    color: var(--zwart);
+  }
+}
+
+/* ==========================================
+   ANIMATIE 7 - 30 TOT 35 SECONDEN
+   TRYIN' TO COVER MY SHADOW
+   BEWEGENDE SCHADUW
+========================================== */
+
+.line-6 {
+  animation: schaduw var(--duur) ease-in-out infinite;
+}
+
+@keyframes schaduw {
+  0%,
+  60% {
+    text-shadow: none;
+    color: var(--zwart);
   }
 
   63% {
-    filter: blur(8px);
-    opacity: 0.2;
+    text-shadow: 8px 8px var(--paars);
+    color: var(--blauw);
   }
 
-  76.67% {
-    filter: blur(0px);
-    opacity: 1;
+  67% {
+    text-shadow:
+      -15px 12px var(--paars),
+      15px -10px rgba(25, 38, 217, 0.4);
+    color: var(--zwart);
   }
 
+  70%,
   100% {
-    filter: blur(0px);
-    opacity: 1;
+    text-shadow: none;
+    color: var(--zwart);
   }
 }
 
-.line-10 {
-  animation: opstijgen 30s ease-in infinite;
+/* ==========================================
+   ANIMATIE 8 - 35 TOT 40 SECONDEN
+   IT'S GONNA FEEL SO GOOD
+   ADEMEN / PULSEREN
+========================================== */
+
+.line-3 {
+  animation: ademen var(--duur) ease-in-out infinite;
 }
 
-@keyframes opstijgen {
+@keyframes ademen {
   0%,
-  76.67% {
-    transform: translateY(0) scale(1);
+  70% {
+    transform: scale(1);
+    color: var(--zwart);
+  }
+
+  73% {
+    transform: scale(1.12);
+    color: var(--paars);
+  }
+
+  76% {
+    transform: scale(0.95);
+    color: var(--blauw);
+  }
+
+  78% {
+    transform: scale(1.1);
+    color: var(--paars);
+  }
+
+  80%,
+  100% {
+    transform: scale(1);
+    color: var(--zwart);
+  }
+}
+
+/* ==========================================
+   ANIMATIE 9 - 40 TOT 45 SECONDEN
+   THE VOICE SAYING
+   GELUIDSGOLF
+========================================== */
+
+.line-2 {
+  animation: geluidsgolf var(--duur) ease-in-out infinite;
+}
+
+@keyframes geluidsgolf {
+  0%,
+  80% {
+    transform: translateY(0) scaleY(1);
+    color: var(--zwart);
+  }
+
+  82% {
+    transform: translateY(-12px) scaleY(1.3);
+    color: var(--blauw);
+  }
+
+  84% {
+    transform: translateY(8px) scaleY(0.8);
+    color: var(--paars);
+  }
+
+  86% {
+    transform: translateY(-8px) scaleY(1.2);
+    color: var(--blauw);
+  }
+
+  88% {
+    transform: translateY(5px) scaleY(0.9);
+    color: var(--paars);
+  }
+
+  90%,
+  100% {
+    transform: translateY(0) scaleY(1);
+    color: var(--zwart);
+  }
+}
+
+/* ==========================================
+   ANIMATIE 10 - 45 TOT 50 SECONDEN
+   ALL THIS NOISE
+   CHAOTISCHE GLITCH
+========================================== */
+
+.line-1 {
+  animation: noise var(--duur) linear infinite;
+}
+
+@keyframes noise {
+  0%,
+  90% {
+    transform: translateX(0);
     opacity: 1;
+    color: var(--zwart);
+    text-shadow: none;
   }
 
-  85% {
-    transform: translateY(-100px) scale(1.5);
+  92% {
+    transform: translateX(-5px);
+    color: var(--blauw);
+    text-shadow:
+      5px 0 var(--paars),
+      -5px 0 var(--blauw);
+  }
+
+  94% {
+    transform: translateX(7px);
+    opacity: 0.6;
+    text-shadow:
+      -8px 0 var(--paars),
+      8px 0 var(--blauw);
+  }
+
+  96% {
+    transform: translateX(-8px);
     opacity: 1;
+    color: var(--paars);
+    text-shadow:
+      10px 0 var(--blauw),
+      -10px 0 var(--paars);
   }
 
-  95% {
-    transform: translateY(-600px) scale(3);
-    opacity: 0;
-  }
-
-  95.1% {
-    transform: translateY(0) scale(1);
-    opacity: 0;
+  98% {
+    transform: translateX(4px);
+    opacity: 0.4;
+    color: var(--blauw);
   }
 
   100% {
-    transform: translateY(0) scale(1);
+    transform: translateX(0);
     opacity: 1;
+    color: var(--zwart);
+    text-shadow: none;
+  }
+}
+
+/* ==========================================
+   RESPONSIVE
+   TABLET EN MOBIEL
+========================================== */
+
+@media (max-width: 768px) {
+  .runway {
+    width: 94%;
+    padding-block: 40px;
+  }
+
+  .line-10 {
+    font-size: clamp(32px, 8vw, 65px);
+  }
+
+  .line-9 {
+    font-size: clamp(24px, 5vw, 40px);
+  }
+
+  .line-8 {
+    font-size: clamp(19px, 4vw, 30px);
+  }
+
+  .line-7,
+  .line-6,
+  .line-5 {
+    font-size: clamp(18px, 3.5vw, 26px);
+  }
+
+  .line-4,
+  .line-3,
+  .line-2,
+  .line-1 {
+    font-size: clamp(16px, 3vw, 22px);
+  }
+}
+
+/* ==========================================
+   TOEGANKELIJKHEID
+========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  .line {
+    animation: none !important;
+  }
+
+  .line-10 span {
+    transition: none;
   }
 }
