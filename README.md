@@ -4,6 +4,19 @@ https://nl.wikipedia.org/wiki/Matcha
 
 https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
 
+Youtube: 
+
+Ik heb via Youtube tientallen video's gezien voor de opmaak van mijn codes, dit zijn de namen waar ik veel naar heb gekeken: 
+
+Kevin Powell 
+
+Aaron Jack 
+
+Web Dev Simplified 
+
+### Afgelopen weken 
+
+
 ### Ma 26 okt 
 
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 05" src="https://github.com/user-attachments/assets/9bc9b2d0-8bcc-415c-b682-a3bd6a986efb" />
@@ -20,6 +33,29 @@ De retrospectief heb ik ingevuld:
 <img width="607" height="443" alt="Scherm­afbeelding 2026-10-23 om 09 56 48" src="https://github.com/user-attachments/assets/39fbc8b6-bdb4-48ba-97e5-931d46537e99" />
 
 ### Woe 21 okt 
+
+Ik heb de toegankelijkheid getest met mijn vriend. Dit kwam tot het volgende verslag: 
+
+Toegankelijkheid getest en verbeterslag gemaakt: 
+
+Ik vind de website er heel mooi en overzichtelijk uitzien. De kleuren en afbeeldingen passen goed bij elkaar en zorgen voor een rustige uitstraling. De navigatie is duidelijk, waardoor ik makkelijk kan vinden wat ik zoek.
+
+Ook vind ik het fijn dat de website niet te druk is en dat de teksten prettig leesbaar zijn. De verschillende pagina's zijn logisch ingedeeld en ik begrijp snel waar alles staat.
+
+Als klein verbeterpunt zou ik nog kijken of alle knoppen duidelijk genoeg opvallen. Verder vind 
+ik de website erg gebruiksvriendelijk en makkelijk te begrijpen.
+
+Conclusie: De website maakt een positieve indruk. De vormgeving is rustig, de navigatie is duidelijk en de informatie is overzichtelijk weergegeven.
+
+Verbeterslag:
+
+Naar aanleiding van de feedback van mijn vriend heb ik gekeken hoe ik mijn website nog toegankelijker en gebruiksvriendelijker kan maken.
+
+Omdat de uitstraling, navigatie en leesbaarheid al positief werden beoordeeld, wil ik deze onderdelen behouden. Wel wil ik de klikbaare elementen duidelijker maken door een hover-effect toe te voegen, zodat bezoekers beter zien waar ze op kunnen klikken.
+
+Daarnaast wil ik zorgen dat de website ook goed met een toetsenbord te bedienen is. Hiervoor kan ik duidelijke focus-effecten toevoegen aan links en knoppen.
+
+Conclusie: Met deze kleine verbeteringen wil ik de toegankelijkheid vergroten, zonder de rustige en overzichtelijke uitstraling van mijn website te veranderen.
 
 Vanochtend mee gedaan met de bi-weekly geek:
 
@@ -120,6 +156,8 @@ Cursor Camp is een interactieve website waarop je met je muiscursor een digitale
 - Menselijk internet: De website laat zien hoe mensen op een speelse manier online samen kunnen komen. 
   
 ### Woe 7 okt
+
+
 
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/ef9f4f74-47c6-4546-9f72-0e26ec86f4ec" />
 <img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/97888d8b-32d8-4b14-aaee-23d27c55b94e" />
