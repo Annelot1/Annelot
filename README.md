@@ -14,8 +14,94 @@ Aaron Jack
 
 Web Dev Simplified 
 
-### Afgelopen weken 
+### Afgelopen weken WEBSITE
 
+Ik heb verschillende testen gedaan voor mijn website en dit kwam eruit. Later heb ik dit aangepast zodat er geen fout meldingen meer zijn. Ook is mijn website via toetsenbord, screenreader en voice-over te gebruiken, dus voor iedereen toegankelijk. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 53" src="https://github.com/user-attachments/assets/77ca395d-96a1-4bd8-9cc3-adbc4e8d8840" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 31 31" src="https://github.com/user-attachments/assets/686620db-b7c8-49b6-94df-ce89c4d9d6f9" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-27 om 19 08 07" src="https://github.com/user-attachments/assets/8b258e44-7f7f-45c1-a1dc-7f888742ef87" />
+
+### Afgelopen weken WEBSITE (faq + bronnen pagina)
+
+Ik wilde ook heel graag meerdere pagina's op mijn website maken en wilde ik iets passends maken bij mijn thema en kwam ik op een faq pagina uit. Ook omdat ik in een deep dive zag dat je heel makkelijk een summary kan maken via code en dat vind ik zelf ook altijd een fijne manier om informatie te krijgen via een website. Zo ben ik erover gekomen en heb ik dit gemaakt mijn leuke, korte en handige vragen over matcha. Ook wilde ik op een leuke manier laten zien welke bronnen ik heb gebruikt en heb ik dit in een footer neer gezet dat je naar een bronnen pagina gaat en kun je via een linkje zien welke bronnen ik heb gebruikt. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 20 24 20" src="https://github.com/user-attachments/assets/f1e12efe-d8bd-47ee-8be1-c8f92f0e2e6c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 49 58" src="https://github.com/user-attachments/assets/947fdec0-d334-4e26-a719-4174b0efb303" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 52 33" src="https://github.com/user-attachments/assets/6031e85f-acb7-4c49-a189-5294b9efa2b5" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 55 23" src="https://github.com/user-attachments/assets/84420782-8add-4dbf-b22d-50f9d38e4404" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 11 22" src="https://github.com/user-attachments/assets/d6a680a2-c399-48d0-881d-e9a009ebbfd6" />
+
+### Afgelopen weken WEBSITE (herkomst pagina)
+
+Ik heb een extra pagina gemaakt om meer over matcha te vertellen omdat ik voor mijn gevoel anders weinig tekst had op mijn hoofdpagina, dus wilde ik een extra pagina hebben om meer inhoudelijk in te gaan op het onderwerp. Ik had nog niet voldoende grid toegevoegd op mijn hoofdpagina dus kon ik dat doen op deze pagina. Ik heb inspiratie op gedaan in Pinterest zag deze grid en vond het heel tof staan, dus heb ik doormiddel van YouTube video's en deep dives gekeken naar hoe ik dit kan toepassen. Uiteindelijk is dit gelukt en ben ik er heel blij mee. 
+
+<img width="401" height="415" alt="Scherm­afbeelding 2026-10-21 om 20 57 05" src="https://github.com/user-attachments/assets/6855283a-af66-4a78-a975-f7e74b7ce0da" />
+<img width="363" height="737" alt="Scherm­afbeelding 2026-10-21 om 21 11 18" src="https://github.com/user-attachments/assets/5814b505-58b1-4df0-bc05-88dc11471847" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 20 35" src="https://github.com/user-attachments/assets/c1d22a9f-705a-41f0-8e38-a8fe7ef0be76" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 34 05" src="https://github.com/user-attachments/assets/c53770d0-6a15-4bdc-be64-e5747586deac" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 21 37 55" src="https://github.com/user-attachments/assets/dacecc8a-8855-4fad-badb-4509bd95f13a" />
+
+### Afgelopen weken WEBSITE (footer)
+
+Bij een classic website hoort naar mijn mening een footer dus wilde ik dat zeker toepassen. Ik heb inspiratie opgedaan bij meerdere website's en heb ik gekeken naar welke informatie zij allemaal in een footer plaatsen. Uiteindelijk ben ik tot de volgende onderwerpen gekomen. Ik vond het leuk om dit te maken omdat ik vond dat het steeds meer leuk op een echte website. Ik wilde ook nogmaals een inschrijving laten plaats vinden voor de nieuwsbrief en een link richting de FAQ en bronnen. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 13 38 05" src="https://github.com/user-attachments/assets/06607c5c-6d4e-4951-b30d-938efd670479" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 14 03 08" src="https://github.com/user-attachments/assets/675ee0db-bc4c-4e9c-961a-f478ce2bcbbc" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 14 18 32" src="https://github.com/user-attachments/assets/e3a16fa4-fa0b-401e-9e5f-951ff78717c1" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 04 20" src="https://github.com/user-attachments/assets/99567ae4-b635-43f8-a59b-3c1a68e97b9c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 16 04 24" src="https://github.com/user-attachments/assets/4fcd47bf-a601-40a9-b16f-4cb4209b4f23" />
+
+### Afgelopen weken WEBSITE (nieuwsbrief pop-up)
+
+Ik wilde heel graag nog een pop-up toevoegen omdat ik bij een deep dive van Vasilis zag dat je heel slim een email formulier kan toevoegen in je website, vond ik dat een leuk extra idee om in mijn website te plakken. Ook past het goed bij mijn thema om voor een nieuwsbrief in te schrijven over matcha. Ik heb dezelfde kleuren gebruikt die ik ook heb gebruikt bij mijn cookie pop-up. Ik heb ingesteld dat deze pop-up na 30 sec in beeld komt. Ik heb ook een X rechts bovenin toegevoegd omdat je het natuurlijk ook kan weigeren. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-21 om 13 16 57" src="https://github.com/user-attachments/assets/24bbeca8-4fa0-41e1-8497-f4f12faf80aa" />
+<img width="573" height="775" alt="Scherm­afbeelding 2026-10-21 om 15 56 21" src="https://github.com/user-attachments/assets/70017d18-c642-47a5-9681-fd37d4f0028c" />
+
+### Afgelopen weken WEBSITE (responsive maken + light dark)
+
+Ik heb gekeken hoe mijn website zich laat zien op laptop verkleining en op mijn telefoon. Dit was eerst niet goed maar later heb ik dit goed aangepast. Ook heb ik de light dark toegepast en heb ik dit samen gebruikt met mijn primaire kleuren: bruin, beige en groen. Ik heb verder niet een knop op de website dat je via daar gelijk de light dark kan aanpassen omdat ik dat niet bij de website vond passen, dit word dus automatisch aangepast op jouw automatische instelling. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 21 26 42" src="https://github.com/user-attachments/assets/c423e6f6-14e1-45fb-ab35-7c028ffc857e" />
+<img width="584" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 21 52" src="https://github.com/user-attachments/assets/1b50ab82-b189-423f-bd13-b1f40de8bb06" />
+<img width="584" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 24 48" src="https://github.com/user-attachments/assets/a5ffef51-7c6e-46b3-aef9-de224df36896" />
+<img width="585" height="1266" alt="IMG_1230" src="https://github.com/user-attachments/assets/817bd0c4-0c7a-4c68-a534-5231905135ed" />
+<img width="585" height="1266" alt="IMG_1236" src="https://github.com/user-attachments/assets/e9ee32e0-8658-4f96-921e-3fcfd615c9e9" />
+
+### Afgelopen weken WEBSITE (cookie pop-up) 
+
+Ik vond het leuk om de cookie pop-up in mijn thema te houden. Dus wilde ik de pop-up laten zien als en matcha cookie. Ik heb een foto op internet gevonden en dit heb ik in mijn website gezet als JPG. Ik heb bij de cookie pop-up van Leonie gezien dat zij alleen de knop accepteren heeft en dat vond ik ook een goede, dus heb ik dit ook gedaan. Ik heb voor mezelf primaire kleuren uitgekozen en dat is bruin, beige en groen. Dit wil ik overal terug laten komen in mijn website. Zo heb ik dit ook gebruikt in mijn pop-up. Ik heb een opening animatie toegepast en dat die na 7 sec oppopt. Ik vond het niet mooi als die botton voor altijd op de website komt te staan dus heb ik het ingesteld dat deze na het accepteren verdwijnt.
+
+<img width="399" height="396" alt="Scherm­afbeelding 2026-10-20 om 20 48 39" src="https://github.com/user-attachments/assets/e981bf08-54b2-43df-a0a7-ba9fdc32499e" />
+<img width="740" height="740" alt="matcha-cookie" src="https://github.com/user-attachments/assets/cce730e2-2fb5-493b-b29c-55e395d5db33" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/cbca4c35-f219-4baf-bad9-93e78c061166" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/e37b4d49-4002-4cd0-b97d-b025db7a3a1d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/c3ff43ae-a402-45c5-b1ed-f00b63956178" />
+
+### Afgelopen weken SONGTEKST 
+
+Hieronder laat ik veel foto's zien met welke ontwikkelingen die ik heb gemaakt met mijn website: 
+
+Hieronder zie je hoe ik mijn songtekst verder heb weergegeven, ik heb met Barbara gesproken en heb haar gevraagd tijdens sprint 3 wat zij op dat moment van mijn songtekst vond. Ze zij dat de tekst wat gek liep en dat je nu in het begin kijkt naar eigenlijk de laatste zin van de alinea. Dit heb ik nu omgedraaid en behoud ik nog wel het vliegtuig effect. Ik wil tijdens de songtekst laten zien hoe het nummer gaat maar ook hoe de videoclip is. Dit was in en rondom een vliegtuig en wilde ik iets doen met het opstijgen en in de wolken hangen. Na het vervolggesprek met Vasilis in sprint 3 heb ik als feedback gekregen dat ik nog meer animaties kan toevoegen, dus heb ik toen verder uitgezocht en bij klasgenoten inspiratie opgedaan. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 16 50" src="https://github.com/user-attachments/assets/fe11e84c-3235-4ea9-b46e-f9bf53403510" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 21 33" src="https://github.com/user-attachments/assets/4ff94acd-a3f5-4ae8-bd8a-bc01042b601c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 28 04" src="https://github.com/user-attachments/assets/ba4ae5af-abbe-4e0c-a191-6b9a7b5cb75d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 30 55" src="https://github.com/user-attachments/assets/331813e4-2709-4e86-b297-2deb6802248a" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 11 14" src="https://github.com/user-attachments/assets/9cc8f0e5-1c33-48a6-978a-c1ef7724e9f5" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 14 35" src="https://github.com/user-attachments/assets/bbcf9025-a5b5-4530-b84e-adaab50c4784" />
+<img width="749" height="887" alt="Scherm­afbeelding 2026-10-19 om 20 25 18" src="https://github.com/user-attachments/assets/2c80e44f-00e4-4d3c-96c0-49abc92ff53b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 33 31" src="https://github.com/user-attachments/assets/6c8d7aab-de8b-44ff-b250-10195553cb94" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 37 17" src="https://github.com/user-attachments/assets/4653101f-7312-48e8-a84c-1cc65d4c90b3" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 47 10" src="https://github.com/user-attachments/assets/a5bb90c6-da1d-440a-bd7a-027dc5ea8578" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 49 32" src="https://github.com/user-attachments/assets/78896608-2334-4349-96ce-15854566b701" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 51 37" src="https://github.com/user-attachments/assets/0e741eb4-cb11-4fbc-88e7-797797566a14" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 55 54" src="https://github.com/user-attachments/assets/8a04e5f9-d6ca-4725-9947-eba0fdc89bde" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 24" src="https://github.com/user-attachments/assets/27bff48e-7d3e-4811-ae98-2021419a40db" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/4a56b4e7-3b76-4927-972c-38bd3335c9d6" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/baa20db2-af4d-4c97-87a0-cb8851b58af6" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 46" src="https://github.com/user-attachments/assets/94415864-ae0c-4822-9f50-8088a65a5190" />
 
 ### Ma 26 okt 
 
@@ -59,7 +145,7 @@ Conclusie: Met deze kleine verbeteringen wil ik de toegankelijkheid vergroten, z
 
 Vanochtend mee gedaan met de bi-weekly geek:
 
-<img width="1536" height="2048" alt="2bd0d2d4-5169-4905-a56f-277d294cea26" src="https://github.com/user-attachments/assets/398a2727-476b-4d6d-a51a-7d1817c35945" />
+<img width="607" height="433" alt="Scherm­afbeelding 2026-10-27 om 19 13 48" src="https://github.com/user-attachments/assets/4e43a9c8-e95d-4901-955c-19c93fa400a8" />
 
 Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
 
@@ -1232,8 +1318,8 @@ Ik vind de laatste opdracht echt heel lastig.. Ik ben tot hier gekomen want het 
 
 Vanochtend begonnen met de eerste Bi-Weekly Geek. Hier heb ik de gezamenlijke opdracht gedaan met Leonie, Julia en Tamar:
 
-<img width="1200" height="1600" alt="488f0083-546e-4c60-96cc-5d1308da7b8b" src="https://github.com/user-attachments/assets/5f12b1de-1372-43b4-bba1-17c1363cdb31" />
-<img width="1200" height="1600" alt="8ace64f2-ffb6-4d50-8aac-2f3cc372f851" src="https://github.com/user-attachments/assets/82cc4c88-1179-4d10-af7f-1a860b4c6b4e" />
+<img width="719" height="956" alt="Scherm­afbeelding 2026-10-27 om 19 18 09" src="https://github.com/user-attachments/assets/00710f19-a3b9-41db-a916-43ffd3bb59d6" />
+<img width="719" height="956" alt="Scherm­afbeelding 2026-10-27 om 19 18 22" src="https://github.com/user-attachments/assets/c1fd8440-c8b9-412b-b58b-a68b53905ea6" />
 
 Samenvatting 5 Principles of Visual Design in UX:
 
