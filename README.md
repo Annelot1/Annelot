@@ -4,6 +4,13 @@ https://nl.wikipedia.org/wiki/Matcha
 
 https://www.ginatricot.com/nl/kleding/sportswear/pilates/yoga-jacket-280987083?utm_source=google&utm_medium=cpc&utm_campaign=nl-pmax-new-arrivals&utm_term=&matchtype=&device=m&GeoLoc=9103321&placement=&network=x&campaign_id=21059866210&gad_source=1&gad_campaignid=21059867923&gbraid=0AAAAADpllJGVGRSPm7OM5dKvF2FktJ0aL&gclid=CjwKCAiAmePKBhAfEiwAU3Ko3AyhsbqnZ_hR8IwnBaQj5DNPHXnEyoVBQjtXLT0am7RuViiBNGjGKxoC_n8QAvD_BwE
 
+### Ma 26 okt 
+
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 05" src="https://github.com/user-attachments/assets/9bc9b2d0-8bcc-415c-b682-a3bd6a986efb" />
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 13" src="https://github.com/user-attachments/assets/2a0dc36a-3f8a-4a40-81b5-b48011a7fbcb" />
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 24" src="https://github.com/user-attachments/assets/077ac7f1-8937-4c79-801d-7265129cdd69" />
+<img width="607" height="443" alt="Scherm­afbeelding 2026-10-27 om 07 50 32" src="https://github.com/user-attachments/assets/825cb138-3983-45e5-968c-f7bacfd18998" />
+
 ### Vrij 23 okt 
 
 De retrospectief heb ik ingevuld: 
