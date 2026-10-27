@@ -58,11 +58,8 @@ Daarnaast wil ik zorgen dat de website ook goed met een toetsenbord te bedienen 
 Conclusie: Met deze kleine verbeteringen wil ik de toegankelijkheid vergroten, zonder de rustige en overzichtelijke uitstraling van mijn website te veranderen.
 
 Vanochtend mee gedaan met de bi-weekly geek:
-<img
-  src="https://github.com/user-attachments/assets/398a2727-476b-4d6d-a51a-7d1817c35945"
-  width="600"
-  style="transform: rotate(90deg);"
-/>
+
+<img width="719" height="956" alt="Scherm­afbeelding 2026-10-27 om 19 13 48" src="https://github.com/user-attachments/assets/4e43a9c8-e95d-4901-955c-19c93fa400a8" />
 
 Hierna de feedback opdracht gedaan met Dewi, Samir & Leonie:
 
