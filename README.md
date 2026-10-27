@@ -14,8 +14,56 @@ Aaron Jack
 
 Web Dev Simplified 
 
-### Afgelopen weken 
+### Afgelopen weken WEBSITE (
 
+### Afgelopen weken WEBSITE (responsive maken + light dark)
+
+Ik heb gekeken hoe mijn website zich laat zien op laptop verkleining en op mijn telefoon. Dit was eerst niet goed maar later heb ik dit goed aangepast. Ook heb ik de light dark toegepast en heb ik dit samen gebruikt met mijn primaire kleuren: bruin, beige en groen. Ik heb verder niet een knop op de website dat je via daar gelijk de light dark kan aanpassen omdat ik dat niet bij de website vond passen, dit word dus automatisch aangepast op jouw automatische instelling. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 21 26 42" src="https://github.com/user-attachments/assets/c423e6f6-14e1-45fb-ab35-7c028ffc857e" />
+<img width="584" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 21 52" src="https://github.com/user-attachments/assets/1b50ab82-b189-423f-bd13-b1f40de8bb06" />
+<img width="584" height="1050" alt="Scherm­afbeelding 2026-10-22 om 18 24 48" src="https://github.com/user-attachments/assets/a5ffef51-7c6e-46b3-aef9-de224df36896" />
+<img width="585" height="1266" alt="IMG_1230" src="https://github.com/user-attachments/assets/817bd0c4-0c7a-4c68-a534-5231905135ed" />
+<img width="585" height="1266" alt="IMG_1236" src="https://github.com/user-attachments/assets/e9ee32e0-8658-4f96-921e-3fcfd615c9e9" />
+
+### Afgelopen weken WEBSITE (cookie pop-up) 
+
+Ik vond het leuk om de cookie pop-up in mijn thema te houden. Dus wilde ik de pop-up laten zien als en matcha cookie. Ik heb een foto op internet gevonden en dit heb ik in mijn website gezet als JPG. Ik heb bij de cookie pop-up van Leonie gezien dat zij alleen de knop accepteren heeft en dat vond ik ook een goede, dus heb ik dit ook gedaan. Ik heb voor mezelf primaire kleuren uitgekozen en dat is bruin, beige en groen. Dit wil ik overal terug laten komen in mijn website. Zo heb ik dit ook gebruikt in mijn pop-up. Ik heb een opening animatie toegepast en dat die na 7 sec oppopt. Ik vond het niet mooi als die botton voor altijd op de website komt te staan dus heb ik het ingesteld dat deze na het accepteren verdwijnt.
+
+<img width="399" height="396" alt="Scherm­afbeelding 2026-10-20 om 20 48 39" src="https://github.com/user-attachments/assets/e981bf08-54b2-43df-a0a7-ba9fdc32499e" />
+<img width="740" height="740" alt="matcha-cookie" src="https://github.com/user-attachments/assets/cce730e2-2fb5-493b-b29c-55e395d5db33" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/cbca4c35-f219-4baf-bad9-93e78c061166" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/e37b4d49-4002-4cd0-b97d-b025db7a3a1d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 20 59 38" src="https://github.com/user-attachments/assets/c3ff43ae-a402-45c5-b1ed-f00b63956178" />
+
+
+
+
+
+
+### Afgelopen weken SONGTEKST 
+
+Hieronder laat ik veel foto's zien met welke ontwikkelingen die ik heb gemaakt met mijn website: 
+
+Hieronder zie je hoe ik mijn songtekst verder heb weergegeven, ik heb met Barbara gesproken en heb haar gevraagd tijdens sprint 3 wat zij op dat moment van mijn songtekst vond. Ze zij dat de tekst wat gek liep en dat je nu in het begin kijkt naar eigenlijk de laatste zin van de alinea. Dit heb ik nu omgedraaid en behoud ik nog wel het vliegtuig effect. Ik wil tijdens de songtekst laten zien hoe het nummer gaat maar ook hoe de videoclip is. Dit was in en rondom een vliegtuig en wilde ik iets doen met het opstijgen en in de wolken hangen. Na het vervolggesprek met Vasilis in sprint 3 heb ik als feedback gekregen dat ik nog meer animaties kan toevoegen, dus heb ik toen verder uitgezocht en bij klasgenoten inspiratie opgedaan. 
+
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 16 50" src="https://github.com/user-attachments/assets/fe11e84c-3235-4ea9-b46e-f9bf53403510" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 21 33" src="https://github.com/user-attachments/assets/4ff94acd-a3f5-4ae8-bd8a-bc01042b601c" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 28 04" src="https://github.com/user-attachments/assets/ba4ae5af-abbe-4e0c-a191-6b9a7b5cb75d" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-22 om 19 30 55" src="https://github.com/user-attachments/assets/331813e4-2709-4e86-b297-2deb6802248a" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 11 14" src="https://github.com/user-attachments/assets/9cc8f0e5-1c33-48a6-978a-c1ef7724e9f5" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 14 35" src="https://github.com/user-attachments/assets/bbcf9025-a5b5-4530-b84e-adaab50c4784" />
+<img width="749" height="887" alt="Scherm­afbeelding 2026-10-19 om 20 25 18" src="https://github.com/user-attachments/assets/2c80e44f-00e4-4d3c-96c0-49abc92ff53b" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 33 31" src="https://github.com/user-attachments/assets/6c8d7aab-de8b-44ff-b250-10195553cb94" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 37 17" src="https://github.com/user-attachments/assets/4653101f-7312-48e8-a84c-1cc65d4c90b3" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 47 10" src="https://github.com/user-attachments/assets/a5bb90c6-da1d-440a-bd7a-027dc5ea8578" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 49 32" src="https://github.com/user-attachments/assets/78896608-2334-4349-96ce-15854566b701" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 51 37" src="https://github.com/user-attachments/assets/0e741eb4-cb11-4fbc-88e7-797797566a14" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-19 om 20 55 54" src="https://github.com/user-attachments/assets/8a04e5f9-d6ca-4725-9947-eba0fdc89bde" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 24" src="https://github.com/user-attachments/assets/27bff48e-7d3e-4811-ae98-2021419a40db" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 26" src="https://github.com/user-attachments/assets/4a56b4e7-3b76-4927-972c-38bd3335c9d6" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 36 27" src="https://github.com/user-attachments/assets/baa20db2-af4d-4c97-87a0-cb8851b58af6" />
+<img width="1680" height="1050" alt="Scherm­afbeelding 2026-10-20 om 18 38 46" src="https://github.com/user-attachments/assets/94415864-ae0c-4822-9f50-8088a65a5190" />
 
 ### Ma 26 okt 
 
